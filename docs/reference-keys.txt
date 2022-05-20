@@ -3,7 +3,12 @@ tab:nice-tab
 eq:binom
 chapter-1-introduction-to-open-science
 chapter-2-open-research-open-data-open-access
+minimal-q
+markdown---code-highlighting
+headings-trigger-new-questions
+dictionary-review
 chapter-3-pros-and-cons
+testing-google-form-based-quiz
 chapter-4-research-data-lifecycle
 chapter-5-fair-principles
 chapter-6-data-centers-and-data-repositories

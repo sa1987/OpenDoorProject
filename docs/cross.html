@@ -181,8 +181,17 @@ div.csl-indent {
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="chapter-1-introduction-to-open-science.html"><a href="chapter-1-introduction-to-open-science.html"><i class="fa fa-check"></i><b>1</b> Chapter 1: Introduction to open science</a></li>
-<li class="chapter" data-level="2" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html"><i class="fa fa-check"></i><b>2</b> Chapter 2: Open research, open data, open access</a></li>
-<li class="chapter" data-level="3" data-path="chapter-3-pros-and-cons.html"><a href="chapter-3-pros-and-cons.html"><i class="fa fa-check"></i><b>3</b> Chapter 3: Pros and cons</a></li>
+<li class="chapter" data-level="2" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html"><i class="fa fa-check"></i><b>2</b> Chapter 2: Open research, open data, open access</a>
+<ul>
+<li class="chapter" data-level="2.0.1" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html#minimal-q"><i class="fa fa-check"></i><b>2.0.1</b> Minimal Q:</a></li>
+<li class="chapter" data-level="2.0.2" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html#markdown---code-highlighting"><i class="fa fa-check"></i><b>2.0.2</b> Markdown -&gt; Code Highlighting</a></li>
+<li class="chapter" data-level="2.0.3" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html#headings-trigger-new-questions"><i class="fa fa-check"></i><b>2.0.3</b> Headings trigger new questions!</a></li>
+<li class="chapter" data-level="2.1" data-path="chapter-2-open-research-open-data-open-access.html"><a href="chapter-2-open-research-open-data-open-access.html#dictionary-review"><i class="fa fa-check"></i><b>2.1</b> Dictionary Review:</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="chapter-3-pros-and-cons.html"><a href="chapter-3-pros-and-cons.html"><i class="fa fa-check"></i><b>3</b> Chapter 3: Pros and cons</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="chapter-3-pros-and-cons.html"><a href="chapter-3-pros-and-cons.html#testing-google-form-based-quiz"><i class="fa fa-check"></i><b>3.1</b> Testing google form based quiz</a></li>
+</ul></li>
 <li class="chapter" data-level="4" data-path="chapter-4-research-data-lifecycle.html"><a href="chapter-4-research-data-lifecycle.html"><i class="fa fa-check"></i><b>4</b> Chapter 4: Research data lifecycle</a></li>
 <li class="chapter" data-level="5" data-path="chapter-5-fair-principles.html"><a href="chapter-5-fair-principles.html"><i class="fa fa-check"></i><b>5</b> Chapter 5: FAIR principles</a></li>
 <li class="chapter" data-level="6" data-path="chapter-6-data-centers-and-data-repositories.html"><a href="chapter-6-data-centers-and-data-repositories.html"><i class="fa fa-check"></i><b>6</b> Chapter 6: Data centers and data repositories</a></li>
@@ -280,8 +289,8 @@ div.csl-indent {
 <h2><span class="header-section-number">17.2</span> Captioned figures and tables<a href="cross.html#captioned-figures-and-tables" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Figures and tables <em>with captions</em> can also be cross-referenced from elsewhere in your book using <code>\@ref(fig:chunk-label)</code> and <code>\@ref(tab:chunk-label)</code>, respectively.</p>
 <p>See Figure <a href="cross.html#fig:nice-fig">17.1</a>.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="cross.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">par</span>(<span class="at">mar =</span> <span class="fu">c</span>(<span class="dv">4</span>, <span class="dv">4</span>, .<span class="dv">1</span>, .<span class="dv">1</span>))</span>
-<span id="cb2-2"><a href="cross.html#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(pressure, <span class="at">type =</span> <span class="st">&#39;b&#39;</span>, <span class="at">pch =</span> <span class="dv">19</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="cross.html#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">par</span>(<span class="at">mar =</span> <span class="fu">c</span>(<span class="dv">4</span>, <span class="dv">4</span>, .<span class="dv">1</span>, .<span class="dv">1</span>))</span>
+<span id="cb4-2"><a href="cross.html#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(pressure, <span class="at">type =</span> <span class="st">&#39;b&#39;</span>, <span class="at">pch =</span> <span class="dv">19</span>)</span></code></pre></div>
 <div class="figure" style="text-align: center"><span style="display:block;" id="fig:nice-fig"></span>
 <img src="Agape-OpenScienceIntroductoryCourse_files/figure-html/nice-fig-1.png" alt="Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases." width="80%" />
 <p class="caption">
@@ -289,10 +298,10 @@ Figure 17.1: Here is a nice figure!
 </p>
 </div>
 <p>Don’t miss Table <a href="cross.html#tab:nice-tab">17.1</a>.</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="cross.html#cb3-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(</span>
-<span id="cb3-2"><a href="cross.html#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>(pressure, <span class="dv">10</span>), <span class="at">caption =</span> <span class="st">&#39;Here is a nice table!&#39;</span>,</span>
-<span id="cb3-3"><a href="cross.html#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">booktabs =</span> <span class="cn">TRUE</span></span>
-<span id="cb3-4"><a href="cross.html#cb3-4" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="cross.html#cb5-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(</span>
+<span id="cb5-2"><a href="cross.html#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>(pressure, <span class="dv">10</span>), <span class="at">caption =</span> <span class="st">&#39;Here is a nice table!&#39;</span>,</span>
+<span id="cb5-3"><a href="cross.html#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">booktabs =</span> <span class="cn">TRUE</span></span>
+<span id="cb5-4"><a href="cross.html#cb5-4" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div>
 <table>
 <caption><span id="tab:nice-tab">Table 17.1: </span>Here is a nice table!</caption>
 <thead>
