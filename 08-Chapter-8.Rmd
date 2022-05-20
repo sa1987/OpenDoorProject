@@ -1,5 +1,48 @@
 # Chapter 8: Data ethics
 
-## Mark's quiz module
 
-<iframe src="https://open-science-course-2022.gitlab.io/quiz.html?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### Minimal Q: 
+
+any header + at least two options.
+
+- [x] Correct Option
+- [ ] Incorrect Options needed for Moodle.
+
+### Markdown -> Code Highlighting
+
+```python
+def take_default_list(xs = []):
+xs.append(7)
+return sum(xs) # this is a comment.
+```
+
+What is the output of ``take_default_list([1,2,3])``?
+
+- [x] It's impossible to know.
+- [ ] 13
+- [ ] Something else.
+
+### Headings trigger new questions!
+
+What is 3 + 4?
+
+Ordered options never get shuffled!
+
+1. [ ] 5
+2. [ ] 6
+3. [x] 7
+4. [ ] 8
+
+## Dictionary Review:
+
+```python
+x = {1: 2, 3: 4, 5: 6}
+print(x[4])
+```
+What happens here?
+
+- [ ] 3
+- [ ] 4
+- [ ] True
+- [ ] False
+- [x] Crash!

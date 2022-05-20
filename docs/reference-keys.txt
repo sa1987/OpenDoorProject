@@ -3,10 +3,7 @@ tab:nice-tab
 eq:binom
 chapter-1-introduction-to-open-science
 chapter-2-open-research-open-data-open-access
-minimal-q
-markdown---code-highlighting
-headings-trigger-new-questions
-dictionary-review
+marks-quiz-module
 chapter-3-pros-and-cons
 testing-google-form-based-quiz
 chapter-4-research-data-lifecycle
@@ -18,7 +15,10 @@ chapter-7-policies
 test-child-function
 firstpage
 chapter-8-data-ethics
-marks-quiz-module
+minimal-q
+markdown---code-highlighting
+headings-trigger-new-questions
+dictionary-review
 chapter-9-coding-and-other-skills
 chapter-10-communication-and-ethics-of-open-science
 chapter-11-opening-your-research
