@@ -1,1 +1,5 @@
 # Chapter 8: Data ethics
+
+## Mark's quiz module
+
+<iframe src="https://open-science-course-2022.gitlab.io/quiz.html?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

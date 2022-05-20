@@ -7,3 +7,8 @@
 xfun::file_string('quiz1/quiz1.html')
 ```
 ````
+```{r, echo=FALSE}
+htmltools::includeHTML('quiz1/quiz1.html')
+```
+
+

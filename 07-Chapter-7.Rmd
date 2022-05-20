@@ -1,1 +1,13 @@
+---
+output:
+  html_document
+---
+
 # Chapter 7: Policies
+
+## Test Child function
+
+### firstpage 
+```{r, echo=FALSE}
+    htmltools::includeHTML("Quizmodule/public/quiz.html")
+```

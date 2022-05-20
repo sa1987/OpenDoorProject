@@ -196,10 +196,22 @@ div.csl-indent {
 <ul>
 <li class="chapter" data-level="4.1" data-path="chapter-4-research-data-lifecycle.html"><a href="chapter-4-research-data-lifecycle.html#create-quiz-using-learnr-package"><i class="fa fa-check"></i><b>4.1</b> Create quiz using learnr package</a></li>
 </ul></li>
-<li class="chapter" data-level="5" data-path="chapter-5-fair-principles.html"><a href="chapter-5-fair-principles.html"><i class="fa fa-check"></i><b>5</b> Chapter 5: FAIR principles</a></li>
+<li class="chapter" data-level="5" data-path="chapter-5-fair-principles.html"><a href="chapter-5-fair-principles.html"><i class="fa fa-check"></i><b>5</b> Chapter 5: FAIR principles</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="chapter-5-fair-principles.html"><a href="chapter-5-fair-principles.html#test"><i class="fa fa-check"></i><b>5.1</b> test</a></li>
+</ul></li>
 <li class="chapter" data-level="6" data-path="chapter-6-data-centers-and-data-repositories.html"><a href="chapter-6-data-centers-and-data-repositories.html"><i class="fa fa-check"></i><b>6</b> Chapter 6: Data centers and data repositories</a></li>
-<li class="chapter" data-level="7" data-path="chapter-7-policies.html"><a href="chapter-7-policies.html"><i class="fa fa-check"></i><b>7</b> Chapter 7: Policies</a></li>
-<li class="chapter" data-level="8" data-path="chapter-8-data-ethics.html"><a href="chapter-8-data-ethics.html"><i class="fa fa-check"></i><b>8</b> Chapter 8: Data ethics</a></li>
+<li class="chapter" data-level="7" data-path="chapter-7-policies.html"><a href="chapter-7-policies.html"><i class="fa fa-check"></i><b>7</b> Chapter 7: Policies</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="chapter-7-policies.html"><a href="chapter-7-policies.html#test-child-function"><i class="fa fa-check"></i><b>7.1</b> Test Child function</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path="chapter-7-policies.html"><a href="chapter-7-policies.html#firstpage"><i class="fa fa-check"></i><b>7.1.1</b> firstpage</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="chapter-8-data-ethics.html"><a href="chapter-8-data-ethics.html"><i class="fa fa-check"></i><b>8</b> Chapter 8: Data ethics</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="chapter-8-data-ethics.html"><a href="chapter-8-data-ethics.html#marks-quiz-module"><i class="fa fa-check"></i><b>8.1</b> Mark’s quiz module</a></li>
+</ul></li>
 <li class="chapter" data-level="9" data-path="chapter-9-coding-and-other-skills.html"><a href="chapter-9-coding-and-other-skills.html"><i class="fa fa-check"></i><b>9</b> Chapter 9: Coding and other skills</a></li>
 <li class="chapter" data-level="10" data-path="chapter-10-communication-and-ethics-of-open-science.html"><a href="chapter-10-communication-and-ethics-of-open-science.html"><i class="fa fa-check"></i><b>10</b> Chapter 10: Communication and ethics of open science</a></li>
 <li class="chapter" data-level="11" data-path="chapter-11-opening-your-research.html"><a href="chapter-11-opening-your-research.html"><i class="fa fa-check"></i><b>11</b> Chapter 11: Opening your research</a></li>
@@ -272,7 +284,95 @@ div.csl-indent {
 </div>
 <div id="chapter-7-policies" class="section level1 hasAnchor" number="7">
 <h1><span class="header-section-number">Chapter 7</span> Chapter 7: Policies<a href="chapter-7-policies.html#chapter-7-policies" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="test-child-function" class="section level2 hasAnchor" number="7.1">
+<h2><span class="header-section-number">7.1</span> Test Child function<a href="chapter-7-policies.html#test-child-function" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="firstpage" class="section level3 hasAnchor" number="7.1.1">
+<h3><span class="header-section-number">7.1.1</span> firstpage<a href="chapter-7-policies.html#firstpage" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<!-- Created By CodingNepal - www.codingnepalweb.com  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Quiz App | CodingNepal</title>
+    <link rel="stylesheet" href="style-quiz.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+    <!-- start Quiz button -->
+    <div class="start_btn"><button>Start Quiz</button></div>
 
+    <!-- Info Box -->
+    <div class="info_box">
+        <div class="info-title"><span>Some Rules of this Quiz</span></div>
+        <div class="info-list">
+            <div class="info">1. You will have only <span>15 seconds</span> per each question.</div>
+            <div class="info">2. Once you select your answer, it can't be undone.</div>
+            <div class="info">3. You can't select any option once time goes off.</div>
+            <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+            <div class="info">5. You'll get points on the basis of your correct answers.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <header>
+            <div class="title">Awesome Quiz Application</div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec">15</div>
+            </div>
+            <div class="time_line"></div>
+        </header>
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+        </section>
+
+        <!-- footer of Quiz Box -->
+        <footer>
+            <div class="total_que">
+                <!-- Here I've inserted Question Count Number from JavaScript -->
+            </div>
+            <button class="next_btn">Next Que</button>
+        </footer>
+    </div>
+
+    <!-- Result Box -->
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">You've completed the Quiz!</div>
+        <div class="score_text">
+            <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+
+    <!-- Inside this JavaScript file I've inserted Questions and Options only -->
+    <script src="js/questions.js"></script>
+
+    <!-- Inside this JavaScript file I've coded all Quiz Codes -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
+
+</div>
+</div>
 </div>
 <hr>
 <center> 

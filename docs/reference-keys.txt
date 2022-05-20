@@ -12,9 +12,13 @@ testing-google-form-based-quiz
 chapter-4-research-data-lifecycle
 create-quiz-using-learnr-package
 chapter-5-fair-principles
+test
 chapter-6-data-centers-and-data-repositories
 chapter-7-policies
+test-child-function
+firstpage
 chapter-8-data-ethics
+marks-quiz-module
 chapter-9-coding-and-other-skills
 chapter-10-communication-and-ethics-of-open-science
 chapter-11-opening-your-research

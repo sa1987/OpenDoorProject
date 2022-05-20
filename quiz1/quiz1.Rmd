@@ -8,7 +8,9 @@ runtime: shiny_prerendered
 library(learnr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+```{r}
+learnr::initialize_tutorial()
+```
 
 ## Topic 1
 
