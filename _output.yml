@@ -7,9 +7,10 @@ bookdown::gitbook:
   css: style.css
   repo: https://github.com/sa1987/OpenDoorProject
   includes:
-      #after_body: disqus.html
-      in_header: [assets/header.html, assets/google_analytics.html]
+      before_body: assets/header.html
+      in_header: assets/google_analytics.html
       after_body: assets/footer.html
+#in_header: [assets/header.html, assets/google_analytics.html]  
   config:
     toc:
       collapse: subsection
