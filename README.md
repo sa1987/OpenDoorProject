@@ -10,3 +10,5 @@ Additional resources to create a bookdown book:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+
+Quizes available in https://gitlab.com/open-science-course-2022/open-science-course-2022.gitlab.io/-/blob/main/public/quiz.html
