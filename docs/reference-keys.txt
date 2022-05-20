@@ -10,6 +10,7 @@ dictionary-review
 chapter-3-pros-and-cons
 testing-google-form-based-quiz
 chapter-4-research-data-lifecycle
+create-quiz-using-learnr-package
 chapter-5-fair-principles
 chapter-6-data-centers-and-data-repositories
 chapter-7-policies

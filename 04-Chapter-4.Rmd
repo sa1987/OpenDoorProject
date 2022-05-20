@@ -1,1 +1,9 @@
 # Chapter 4: Research data lifecycle
+
+## Create quiz using learnr package
+
+````{=html}
+```{r, echo=FALSE, results='asis'}
+xfun::file_string('quiz1/quiz1.html')
+```
+````
