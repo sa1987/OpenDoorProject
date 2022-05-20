@@ -1,0 +1,32 @@
+bookdown::gitbook:
+#bookdown::html_book:
+#  theme: darkly
+  favicon: "agapefavicon.ico"
+  highlight: breezedark
+  cover-image: "images/agapecover.png"
+  css: style.css
+  includes:
+      #after_body: disqus.html
+      before_body: assets/header.html
+      after_body: assets/footer.html
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: true
+      css : toc.css
+      before: |
+        <li><a href="./">AGAPE: An introductory course to open science for early career researchers</a></li>
+        <li class="toc-logo"><a href="./"><img src="images/agapecover.png"></a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
+
