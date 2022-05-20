@@ -8,7 +8,7 @@ bookdown::gitbook:
   repo: https://github.com/sa1987/OpenDoorProject
   includes:
       #after_body: disqus.html
-      before_body: assets/header.html
+      in_header: [assets/header.html, assets/google_analytics.html]
       after_body: assets/footer.html
   config:
     toc:
