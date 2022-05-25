@@ -19,28 +19,22 @@ always_allow_html: yes
 
 # Introduction {-}
 
-Greetings, fellow PhD student or open science curious friend!
+Greetings, fellow early career researcher or open science-curious friend!
 
 In this course, we would like to introduce you to the world of open science. Whether you are familiar with some of its concepts and resources or the open science movement doesn’t ring any bells, we believe that what you learn here will be interesting for you and at the same time highly useful for your future career. 
 
-We ourselves are PhD students who firstly met during the course focusing on open and collaborative research. And because we felt that what we learned was very helpful and other students should have an opportunity to get familiar with these concepts too, we decided to create Agape. Agape means wide open, such as open science we want to promote. The word agapē originates from Greek and means love that is unconditional, such as our love for science. Under Agape we aim to disseminate open science between students, starting with this course and continuing with series of workshops where we can learn, exchange our opinions and experiences and together change the future. 
+We ourselves are PhD students who first met during the course focusing on open and collaborative research. And because we felt that what we learned was very helpful and other students should have an opportunity to get familiar with these concepts too, we decided to create Agape. Agape means wide open, such as open science we want to promote. The word agapē originates from Greek and means love that is unconditional, such as our love for science. Under Agape we aim to disseminate open science between students, starting with this course and continuing with a series of workshops where we can learn, exchange our opinions and experiences and together contribute to the future. 
 
-With this course, Agape would like to open doors for you into the world of open science and to introduce various concepts that we think are very important but we were not told about. Whilst we all heard about the scientific integrity and open access publishing at some point of our studies, a domain of open science encompasses a much larger area. Given its extent, this course is by far not covering the whole scope of open science. However, during the course we provide you with useful links to other resources should you wish to learn more and start practising open science. 
+With this course, Agape would like to open doors for you into the world of open science and introduce various concepts that we think are very important but we were not told about. Whilst we all heard about scientific integrity and open access publishing at some point in our studies, the domain of open science encompasses a much larger area. Given its extent, this course does by far not cover the whole scope of open science. However, during the course, we provide you with useful links to other resources should you wish to learn more and start practising open science. 
 
-The course is structured into chapters that are written to expand on various topics. We think that an order they follow is logical and later chapters are building on knowledge in the previous ones, but you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you forgot in the meantime.  
+The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters are building on knowledge acquired in previous chapters. But you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you forgot it in the meantime. At the end of each chapter are MCQs where you can test your freshly acquired knowledge.
 
-Your progress throughout the course is tracked. At the end, you can obtain a Certificate of achievement. This will be generated for you automatically and emailed to the email address you use to log into this course. In order to obtain this certificate you’ll need to achieve at least 90% success rate in MCQs and activities at the end of each chapter. You have as many attempts to pass each of them as you want. Once you’re happy with your result you confirm it and it will be saved under your profile until you confirm this for all chapters. After completing the last one, allow it a couple of hours before you receive the certificate.
+And now, without any further delay, let’s quench that thirst for knowledge! 
 
-Should you experience any technical problems or do not receive a certificate email us on 
 
-If you’d like to connect with us or see what’s new you can do so on Twitter           or Instagram          (or any other social media account).
-
-And now, without further delay, let’s quench that thirst for knowledge! 
 ## Structure of the book {-}
 
-### How to read this book {-}
-
-### How to read the web edition {-}
+### How to read this course {-}
 
 
 Try these toolbar features located near the top of your browser:
@@ -62,23 +56,14 @@ Try these toolbar features located near the top of your browser:
 ## About Opening Doors project {-}
 
 ## Meet the authors {-}
+
 ## Acknowledgement {-}
 
 ## How to contribute to this project {-}
 
 ### Disclaimer {-}
 
-The information is this book is provided without warranty. The authors and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
-
-:::design
-In tip boxes like this one, we'll point out design tips, to help you keep your page looking looking 
-:::
-
-:::hat
-These tips highlight advice and tricks from community members.
-:::
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+The information is this book is provided without warranty. The authors and openingdoor team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
 
 ```{r eval=FALSE}
 bookdown::serve_book()
