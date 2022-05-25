@@ -1,0 +1,34 @@
+# Introduction to open science
+
+Bullet points:
+Defining science: "systematic enterprise that builds and organise knowledge in the form of testable explanations and predictions about the universe" [...] science performs knowledge validation "through (the) sharing of findings and data and through peer review".  That is, sharing these knowledge bits with other scientists _is_ the method for evaluating their truthiness and validity.  This process is called *peer-reviewing*.
+Isn’t science open already?  What is the current “openness” status and how it changed over time? When and where does the term open science come from?
+Why we do NOT need open science: 
+The misuse of openly available dual-edge knowledge
+The misinterpretation and misunderstanding of openly available knowledge from the amateurs and the general public.
+The degradation of the peer-review process and the advent of predatory "open" journals.
+The commodification of scientific knowledge, where knowledge is only apparently /free/ but the user becomes the product
+The monopoly of the western world in designing open science.
+The costs of higher accessibility to data and publications.
+The absence of metrics in evaluating and recognizing one's efforts in generating and maintaining openly available knowledge.
+The risks of extreme rigour hindering exploratory research.
+Why we DO need open science: 
+The open science currents: opening what and how?
+Developing and building infrastructure that help scientists practice open science
+Implement new evaluation processes for scientists to progress in their career based also upon their degree of “openness”
+Dedicating time to improve knowledge divulgation, comprehensibility, and accessibility
+Removing legal barriers that limit a complete access to the generated knowledge
+Pragmatic approach (“as open as possible as close as necessary”)
+The key challenges
+Going past the traditional scientific community
+Knowledge validation without economical barriers or conflict of interest
+Multilingual knowledge
+Educating a new generation of scientists
+Costs and infrastructures
+Monitoring the status of open science
+
+
+
+
+
+
