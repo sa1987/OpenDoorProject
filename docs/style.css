@@ -50,11 +50,11 @@ pre code {
 /*------------- Body and header text---------------- */
 
 .book.font-family-1 {
-  font-family: 'Karla', arial, sans-serif;
+  font-family: 'Karla', arial, Sans-Serif;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Lora', arial, sans-serif;
+  font-family: 'Lora', arial, Sans-Serif;
 }
 
 
@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 /*p:nth-child(2):first-letter {   /* /* DROP-CAP FOR FIRST P BENEATH EACH H1 OR H2*/ /*
   color: #3fb5bd;
   float: left;
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Abril Fatface', 'Sans-Serif';
   font-size: 7em;
   line-height: 65px;
   padding-top: 4px;
@@ -101,7 +101,7 @@ h1, h2, h3, h4 {
 .section.level1 > p:first-of-type:first-letter { /*drop cap for first p beneath level 1 headers only within class .section*/
   color: #3fb5bd;
   float: left;
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Abril Fatface', 'Sans-Serif';
   font-size: 7em;
   line-height: 65px;
   padding-top: 4px;
@@ -115,7 +115,7 @@ h1, h2, h3, h4 {
 .section.level2:first-of-type > p:first-of-type:first-letter {
   color: #3fb5bd;
   float: left;
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Abril Fatface', 'Sans-Serif';
   font-size: 7em;
   line-height: 65px;
   padding-top: 4px;
@@ -135,7 +135,7 @@ h1, h2, h3, h4 {
 }
 
 .summary{
-  font-family: 'Karla', sans-serif;
+  font-family: 'Karla', Sans-Serif;
 }
 
 /* all TOC list items, basically */
@@ -429,7 +429,7 @@ a.anchor:hover {
 /* Footer */
 
 .footer {
-  font-family: "Lora", serif;
+  font-family: "Lora", "Sans-Serif"
   font-size: .85em;
   color: #2ea8b3;
 }
