@@ -9,9 +9,7 @@ biblio-style: apalike
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  This is an introductory course to open science.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 always_allow_html: yes
