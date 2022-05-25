@@ -3,7 +3,7 @@ output:
   html_document
 ---
 
-# Chapter 7: Policies
+# Policies
 
 ## Test Child function
 

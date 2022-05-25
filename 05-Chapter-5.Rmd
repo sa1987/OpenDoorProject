@@ -1,4 +1,4 @@
-# Chapter 5: FAIR principles
+# FAIR principles
 
 ## test 
 

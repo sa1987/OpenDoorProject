@@ -1,4 +1,4 @@
-# Chapter 1: Introduction to open science
+# Introduction to open science
 
 Bullet points:
 Defining science: "systematic enterprise that builds and organise knowledge in the form of testable explanations and predictions about the universe" [...] science performs knowledge validation "through (the) sharing of findings and data and through peer review".  That is, sharing these knowledge bits with other scientists _is_ the method for evaluating their truthiness and validity.  This process is called *peer-reviewing*.

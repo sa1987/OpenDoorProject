@@ -1,5 +1,5 @@
 
-# Chapter 3: Pros and cons
+# Pros and cons
 
 
 ## Testing google form based quiz
