@@ -24,19 +24,19 @@ pre code {
   top: 0;
   left: 0;
   right: 0;
-  height: 100px;
+  height: 200px;
   /*background-image: url("images/books.png");*/
   background-color: #3fb5bd;
 }
 
 .hero-image {
   width: 100%;
-  height: 100px;
+  height: 200px;
   object-fit: cover;
 }
 
 .page-inner {
-  padding-top: 140px !important;
+  padding-top: 240px !important;
 }
 
 
@@ -70,7 +70,7 @@ h1, h2, h3, h4 {
 
 .title {
   font-family: 'Sans-Serif';
-  font-size: 4em !important;
+  font-size: 5em !important;
   color: #3fb5bd;
   margin-top: 0.275em !important;
   margin-bottom: 0.35em !important;
@@ -141,10 +141,10 @@ h1, h2, h3, h4 {
 /* all TOC list items, basically */
 .book .book-summary ul.summary li a, 
 .book .book-summary ul.summary li span {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 17px;
+  padding-right: 17px;
   color: #324748;
 }
 
