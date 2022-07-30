@@ -3,7 +3,7 @@
 
 wordtohtml
 
-##wordtohtml
+## Tested using wordtohtml
 
 <p style='margin:0cm;margin-bottom:11.0pt;line-height:115%;font-size:15px;font-family:"Arial",sans-serif;text-align:justify;background:white;'><strong>Lorem ipsum</strong></p>
 <p style='margin:0cm;margin-bottom:11.0pt;line-height:115%;font-size:15px;font-family:"Arial",sans-serif;text-align:justify;background:white;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac elit mattis, rutrum diam sit amet, pretium turpis. Aliquam id commodo mauris. Nam sagittis purus quis molestie auctor. Morbi hendrerit maximus nibh vitae pharetra. Integer id nisl a orci faucibus dapibus. Donec blandit bibendum nisl, at cursus ex tincidunt id. Suspendisse et nulla et dui pharetra ultrices. Fusce pulvinar quis justo vel posuere.</p>
