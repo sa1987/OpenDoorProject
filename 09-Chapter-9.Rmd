@@ -2,7 +2,7 @@
 
 
 
-CSS
+Same as the chapter 8, just style format was done on CSS page instead of RMD file 
 
 ## CSS based formatting
 
