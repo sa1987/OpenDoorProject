@@ -67,6 +67,52 @@ h1, h2, h3, h4 {
     margin-top: 2.275em;
     margin-bottom: 1em;
 }
+.blackbox {
+  padding: 1em;
+  background: LightGrey;
+  color: black;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+
+.blackboxArial {
+  padding: 1em;
+  background: LavenderBlush;
+  color: black;
+  border: 2px solid blue;
+  border-radius: 10px;
+  font-family: 'Arial';
+}
+.blackboxArialcolor {
+  padding: 1em;
+  background: Lavender;
+  color: black;
+  border: 2px solid blue;
+  border-radius: 10px;
+  font-family: 'Arial';
+}
+
+.arialfontFormat1 {
+  margin:0cm;
+  margin-bottom:11.0pt;
+  line-height:115%;
+  font-size:15px;
+  font-family:"Arial",sans-serif;
+  text-align:justify;
+  background:white;
+}
+
+.arialfontFormat2 {
+  margin:0cm;
+  margin-bottom:11.0pt;
+  line-height:115%;
+  font-size:15px;
+  font-family:"Arial",sans-serif;
+  background:white;
+}
+.center {
+  text-align: center;
+}
 
 .title {
   font-family: 'Sans-Serif';

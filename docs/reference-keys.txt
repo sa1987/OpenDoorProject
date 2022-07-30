@@ -1,9 +1,9 @@
 introduction-to-open-science
 open-research-open-data-open-access
+testing-alternative-solutions
 pros-and-cons
 coverted-using-word2md
 research-data-lifecycle
-tested-using-pandoc
 fair-principles
 what-is-fair
 test-your-understanding
@@ -12,9 +12,11 @@ data-centers-and-data-repositories
 data-ethics
 coding-and-other-skills
 communication-and-ethics-of-open-science
+css-based-formatting
 opening-your-research
 conclusion
 how-to-contact-us
-data-centers-and-data-repositories-1
-conclusion-1
+conclusion-13
+final-quiz-1
+conclusion-15
 final-quiz

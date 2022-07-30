@@ -3,3 +3,109 @@
 
 
 <iframe src="https://open-science-course-2022.gitlab.io/quiz.html?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+
+## Testing alternative solutions
+
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">Activities:                     </a>
+
+> **⚠ WARNING: Aliens are coming.**  
+> A description of the colour, smell and dangerous behaviour of the aliens
+
+</div>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog">VIEW THE BLOG</a>
+</div>
+
+
+| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| --- |
+
+
+
+> **⚠ WARNING: Aliens are coming.**  
+> A description of the colour, smell and dangerous behaviour of the aliens
+
+
+::: {#hello .greeting .message style="color: red;"}
+Hello **world**!
+:::
+
+
+<div id="hello" class="greeting message" style="color: red;">
+  Hello <strong>world</strong>!
+</div>
+
+**style1**
+
+:::: {.blackbox }
+::: {.center }
+**Activities!**
+:::
+
+-   In a sem quis dolor pulvinar commodo.
+
+-   Donec sem felis, sodales vel sem id, aliquam elementum nibh.
+-   Curabitur vel dignissim elit. Sed at arcu eu odio facilisis tristique.
+-   Curabitur purus est, maximus in felis luctus, consequat facilisis ex.
+-   Sed vitae libero nec nunc euismod scelerisque ac vitae metus.
+-   Pellentesque at enim pharetra, blandit dui sed, sodales nisi.
+-   Praesent facilisis nunc orci, vitae feugiat velit consequat eget.
+-   Phasellus pretium orci sed tempor interdum.
+-   Nulla ac lectus nulla. In vitae ligula nulla.
+-   Integer congue sapien id nibh semper fringilla.
+-   Cras vel odio quis mauris cursus vehicula.
+-   Curabitur in tortor et lacus scelerisque finibus.
+-   Sed consequat sem id mi consectetur, accumsan viverra ex fringilla.
+::::
+
+**style2**
+
+:::: {.blackboxArial }
+::: {.left }
+**Activities!**
+:::
+
+-   In a sem quis dolor pulvinar commodo.
+
+-   Donec sem felis, sodales vel sem id, aliquam elementum nibh.
+-   Curabitur vel dignissim elit. Sed at arcu eu odio facilisis tristique.
+-   Curabitur purus est, maximus in felis luctus, consequat facilisis ex.
+-   Sed vitae libero nec nunc euismod scelerisque ac vitae metus.
+-   Pellentesque at enim pharetra, blandit dui sed, sodales nisi.
+-   Praesent facilisis nunc orci, vitae feugiat velit consequat eget.
+-   Phasellus pretium orci sed tempor interdum.
+-   Nulla ac lectus nulla. In vitae ligula nulla.
+-   Integer congue sapien id nibh semper fringilla.
+-   Cras vel odio quis mauris cursus vehicula.
+-   Curabitur in tortor et lacus scelerisque finibus.
+-   Sed consequat sem id mi consectetur, accumsan viverra ex fringilla.
+::::
+
+**style3**
+
+:::: {.blackboxArialcolor }
+::: {.justify }
+**Activities!**
+:::
+
+-   In a sem quis dolor pulvinar commodo.
+
+-   Donec sem felis, sodales vel sem id, aliquam elementum nibh.
+-   Curabitur vel dignissim elit. Sed at arcu eu odio facilisis tristique.
+-   Curabitur purus est, maximus in felis luctus, consequat facilisis ex.
+-   Sed vitae libero nec nunc euismod scelerisque ac vitae metus.
+-   Pellentesque at enim pharetra, blandit dui sed, sodales nisi.
+-   Praesent facilisis nunc orci, vitae feugiat velit consequat eget.
+-   Phasellus pretium orci sed tempor interdum.
+-   Nulla ac lectus nulla. In vitae ligula nulla.
+-   Integer congue sapien id nibh semper fringilla.
+-   Cras vel odio quis mauris cursus vehicula.
+-   Curabitur in tortor et lacus scelerisque finibus.
+-   Sed consequat sem id mi consectetur, accumsan viverra ex fringilla.
+::::

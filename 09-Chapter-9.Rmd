@@ -1,1 +1,23 @@
-# Coding and other skills
+# Communication and ethics of open science
+
+
+
+CSS
+
+## CSS based formatting
+
+:::: {.arialfontFormat1 }
+::: {.left }
+**Lorem ipsum!**
+:::
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac elit mattis, rutrum diam sit amet, pretium turpis. Aliquam id commodo mauris. Nam sagittis purus quis molestie auctor. Morbi hendrerit maximus nibh vitae pharetra. Integer id nisl a orci faucibus dapibus. Donec blandit bibendum nisl, at cursus ex tincidunt id. Suspendisse et nulla et dui pharetra ultrices. Fusce pulvinar quis justo vel posuere.
+::::
+
+
+:::: {.arialfontFormat2 }
+**Lorem ipsum!**
+:::
+
+Nullam finibus at urna ultricies porttitor. Proin a sapien vitae magna scelerisque efficitur et eu justo. Nunc eu tempus lorem. Sed metus nisl, condimentum vel ante nec, semper fringilla odio. Fusce blandit libero nec justo dignissim mattis. Integer id turpis ultricies, lacinia neque a, feugiat lorem. Sed at lorem eget eros vestibulum pellentesque. Integer vitae tortor ut urna auctor tincidunt. Vestibulum gravida condimentum enim non congue. Integer mollis augue vitae felis pretium luctus. Sed condimentum sagittis odio. Nunc a volutpat mi, eget eleifend neque. Sed sed lorem cursus, mollis libero nec, dapibus risus. Nullam volutpat elit non lectus dignissim, at tristique leo vulputate.
+::::
