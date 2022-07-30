@@ -1,7 +1,9 @@
 introduction-to-open-science
 open-research-open-data-open-access
 pros-and-cons
+coverted-using-word2md
 research-data-lifecycle
+tested-using-pandoc
 fair-principles
 what-is-fair
 test-your-understanding
