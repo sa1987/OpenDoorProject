@@ -1,6 +1,7 @@
 # FAIR principles
 ## What is FAIR?
 
+
 In a nutshell, FAIR is a set of guiding principles to make data **F** indable, **A** ccessible, **I** nteroperable and **R** eusable.
 
 The [FAIR principles](https://www.go-fair.org/fair-principles/) were first launched in 2014 at a [Lorentz workshop](https://www.lorentzcenter.nl/) and officially published in 2016 with the focus on the EU&#39;s goal of increasing sharing and reusing of research data. [The implementation of the FAIR principles](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG) for research data is a requirement imposed by the EU, alongside the EU&#39;s request on Open Science &amp; Open Data. It is noteworthy that the FAIR principles are not a standard.
