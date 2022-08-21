@@ -218,7 +218,8 @@ A data licence is a legal arrangement between the creator of the data and the en
 
 ## Test your understanding
 
-<iframe src="https://sa1987.github.io/agapeOSQuiz/?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
+
+<iframe src="https://sa1987.github.io/agapeOSQuiz/?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
 
 
 
