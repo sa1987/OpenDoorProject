@@ -1,222 +1,166 @@
-# FAIR principles
-## What is FAIR?
+**Research data**
+=================
 
+**Research data**
+-----------------
 
-In a nutshell, FAIR is a set of guiding principles to make data **F** indable, **A** ccessible, **I** nteroperable and **R** eusable.
 
-The [FAIR principles](https://www.go-fair.org/fair-principles/) were first launched in 2014 at a [Lorentz workshop](https://www.lorentzcenter.nl/) and officially published in 2016 with the focus on the EU&#39;s goal of increasing sharing and reusing of research data. [The implementation of the FAIR principles](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG) for research data is a requirement imposed by the EU, alongside the EU&#39;s request on Open Science &amp; Open Data. It is noteworthy that the FAIR principles are not a standard.
+:::: {.mainfontFormat }
 
-**What is in it for you if you make your data FAIR?**
 
-The FAIR principles have multiple advantages for researchers. In general, by working in line with the FAIR principles, you can make your research more transparent, collaborative and sustainable and meanwhile facilitate your data management and protect your data&#39;s value for future use.
 
-More specifically, you can expect the following by working with the FAIR principles:
 
-- Greater impact and visibility of your research
-- Opportunities for new research collaborations
-- More credit for yourself as a researcher
-- A more efficient data management plan
-- Possibilities for future research
+Research data are a fundamental part of the research process and open science.
 
-**What is in for science if you make your data FAIR?**
+But what is research data?
 
-The FAIR principles also bring great benefits to the research community and thereby a fulfilling sense of community commitment to you as a researcher. FAIR principles:
+The University College Dublin ([UCD) Research Data Management Policy](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=GD-DOCLAND&ID=227) defines research data as “information collected to be examined and considered and to serve as a basis for reasoning, discussion or calculation. It is used as a primary source to support technical or scientific enquiry, research, scholarship or artistic activity, is used as evidence in the research process and/or is commonly accepted in the research community as necessary to validate research findings and results.”
 
-- Enhance scientific enquiry and debate
-- Enable innovation and new data use
-- Increase the efficiency of research due to reusability and replication studies
-- Provide a valuable resource for education and training
-- Encourage the improvement and validation of research methods
-- Enable scrutiny of research results
-- Facilitate transparency and accountability
+Research data exists in a specific research context and provides evidence or validation to claims and findings relevant to a specific research question. Data can be quantitative or qualitative and in physical, digital or analogue format. Quantitative data are measures of quantity and are recorded as numbers. In the research community, there are widely accepted standard units that allow specific quantities to be expressed in ways that are unambiguous and universally understandable. Qualitative data carries information about quality and do not take the form of numbers. Physical data refers to samples and specimens.
 
-**Key concepts to start with if you want to FAIRify your data**
+Examples of research data:
 
-- **PID (persistent identifier)**
+*   Documents, spreadsheets and notes.
+*   Laboratory notebooks and field notebooks.
+*   Laboratory protocols, methodologies and workflows.
+*   Questionnaires, surveys, interviews, transcripts, codebooks and test responses.
+*   Standard operating procedures and protocols.
+*   Photographs, films, digital images, audiotapes and videotapes.
+*   Protein or genetic sequences.
+*   Spectral data.
 
-A PID is a long-lasting reference to a document, a file, a web page or another object. It is usually used for digital objects that are accessible over the Internet, but can also be used for physical objects. For example, the PID for a book can be its ISBN (International Standard Book Number). The use of PID can effectively slow or prevent the damage of &quot;link rot&quot; in citations, which means that the cited URLs &quot;go dead&quot; because the contents are removed for different reasons.
+●       Slides, artefacts, specimens and samples.
 
-You can encounter all kinds of PIDs in your research work. Here are two of the most frequently used types:
+●       Maps and geospatial data.
 
-1. **DOI (digital object identifier)**
+*   Collection of digital objects acquired and generated during the process of research and results of computer simulations.
+*   Database contents (video, audio, text and images).
+*   Models, algorithms and scripts.
+*   Contents of an application (input, output, log files for analysis software, simulation software and schemas).
 
-The use of DOI is to identify academic and professional information, such as research articles, reports, datasets, publications – and in some cases also government documents and commercial videos.
+Research data can be categorised as:
 
-Archiving your data with data DOI as the PID will allow you to be compliant with the FAIR principles and enhance the impact of your research through increased visibility, leading to more citations.
+●  **Observational** – data captured in real time, usually unique and irreplaceable. It is collected using methods such as human observation, open-ended surveys or through the use of an instrument or sensor to monitor and record information. E.g., weather data, noise level and recordings.
 
-You can read more about DOI on the official website of the [International DOI Foundation](https://www.doi.org/) (IDF).
+● **Experimental** – data collected through experiments or clinical trials by the researcher to measure change or to create differences when a variable is altered. It helps to determine a causal relationship and is typically projectable to a larger population. This type of data is often reproducible, but it can be expensive to do so. E.g., sequencing data and quantitative data recorded with laboratory equipment.
 
-1. **ORCID (open researcher and contributor ID)**
+● **Simulation** – data generated using computer test models that try to determine what would happen under certain conditions. The test model and metadata can be more important than the output. E.g., climate predictions, economic models and chemical reactions.
 
-How to find the work of one specific researcher among all the baffling names? ORCID might be your answer. ORCID provides a persistent identity for humans, so that a particular author&#39;s contributions to the literature or publications in the humanities can be easily and clearly recognized.
+●  **Derived or compiled** – data originating from processing or combining existing data points, often from different data sources. It can be replaced if lost, but this can be very time-consuming and/or expensive. Typically used in secondary research. E.g., databases and population statistics.
 
-- **Metadata**
+●  **Reference or canonical** – collection of smaller datasets, usually published and curated. E.g., IUCN Red List of Threatened Species and NASA Earth science data.
 
-In short, you can simply define Metadata as &quot;data about data&quot;.
+Next, we can divide data into primary and secondary. **Primary data** are collected or generated first-hand to answer a specific research question. **Secondary data** refers to existing data that is being reused for a purpose other than the one it was collected for. It tends to be readily available, include large samples and be collected over a long period of time. Nowadays, high quality research and publications can be made using only secondary data. Thanks to open science, sharing and access to data utilising this approach is becoming more popular. It can be, and often is, more cost-effective than primary research. One potential drawback of secondary research is a lack of control over the research question, the data collected and the methods used. The potential strengths and benefits of secondary research do not undermine the importance of primary data collected in well-designed experiments and studies that are necessary for improving our knowledge and understanding of the world around us.
 
-There are multiple categories of metadata by different definitions, while the following three are the most relevant to the FAIR principles:
+**Metadata** is another important type of data. It is often referred to as data that provides information, background or context information about other data. Put simply, metadata is data about data. In other words, metadata is structured reference data that helps to sort and identify attributes of the information it describes. Examples of metadata are author, type of data, file size, the date the document was created, HTML tags, geolocation, environmental conditions affecting the main variable and instruments used to collect or generate data. You can learn more about metadata in the chapter “FAIR principles”.
 
-- **Descriptive metadata** are data that allow people to discover and identify them through the context or content, including title, author, abstract, keywords, etc.
+Other types of data exist that are not commonly shared because of the nature of the records themselves or because of ethical and privacy concerns. E.g., preliminary analysis results, drafts of scientific papers, peer reviews, communication with colleagues or stakeholders. Research data also does not include trade secrets, commercial information, materials necessary to be held confidential by a researcher until data are published or similar information which is protected under law. Personal and medical information that could be used to identify a particular person or culturally sensitive data are special types of data that come under specific legislation. In the EU the relevant regulation is the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)).
 
-- **Structural metadata** are data about the project&#39;s internal structure and relationships to other objects, including the unit of analysis, data collection method, sampling procedure, etc.
+**Research data lifecycle**
+---------------------------
 
-- **Administrative metadata** are data that are relevant for managing the project, including provenance, licence, creation date, file type, etc.
+When working on your research, you are very much focused on your project carrying out the necessary practical tasks. The challenge is to also think about data management. It is in your best interest due to the long-term value of data you might be generating. You want to make sure that at the end of your research not only your data, but also metadata and documentation are complete, preserved and made accessible so that other people can use it and that you get credit for all the hard work you put into collecting or generating that data.
 
-Metadata are not set from the beginning. Instead, they are subject to changes and updates. Remember to add or modify your metadata continuously throughout the project.
+Data management is the practice of collecting, preserving and sharing research data. Data management continues beyond the duration of a specific research project and covers all aspects of curating and caring for data. Different activities and stages of this process that can be schematised in the research data lifecycle model include:
 
-Metadata can help you to play better with the FAIR principles, because metadata are machine-readable and, especially when they have a PID, search engines can easily find them.
+1.  **Planning** **–** The first step is identifying data to be collected or generated in your research. It should include the nature, scope and scale of data. Resources and costs associated with data collection should be identified. This will depend on which methodologies or software will be used if new data are collected or produced. Data preservation should be planned before data are collected or generated.
 
-**Let&#39;s FAIR up!**
+1.  **Collecting or generating data** **–** For your research you can use either primary or secondary data. In the case of primary data, you are collecting, generating, storing and organising data and metadata. If you are reusing data made accessible by someone else, these are referred to as secondary data.
 
-- **The principles**
+1.  **Processing data** **–** Processing means converting raw data to formats suitable for analysis or generating new variables. Necessary steps are also cleaning and standardising data and applying quality controls. All steps of data processing activities, including scripts and outputs, should be documented.
 
-The FAIR principles are quite straightforward. Below are the guidelines and you can read about the details for each at[FAIR principles](https://www.go-fair.org/fair-principles/) website.
+1.  **Analysing data** **–** Essential parts of your research are data analysis and interpretation. Statistical analysis, computational analysis and data visualisation are used to produce research outputs. All these steps must be reproducible. Therefore, it is important to document all steps of this process.
 
-1. **Findable**
+1.  **Preserving data** **–** Data of long-term value should be preserved and made available for others to reuse. This involves selecting data for preservation, converting data to other formats, creating supporting documentation and depositing data in data centres, data repositories or institutional data repositories for preservation. It is important to plan data preservation from the very beginning of the research project in order to collect all necessary metadata.
 
-F1. Metadata and data are assigned a globally unique and persistent identifier.
+1.  **Making data accessible** **–** Creating online metadata records for data in a data centre/repository, obtaining a unique persistent identifier for data, licensing data for reuse, enabling access to data via a data centre/repository and citing and linking to data and code from research outputs all fall under making data accrssible.
 
-F2. Data are described with rich metadata (defined by R1 below).
+1.  **Re-using data** **–** For your research, you can use secondary data collected and made accessible by other researchers. Similarly, your primary data can be used as secondary data. It can be used by other researchers or by you to conduct secondary analysis or follow-up research, by policymakers to inform evidence-based policymaking or used by the scientific community in communication and engagement with the general public, industry, private sector and media.
 
-F3. Metadata clearly and explicitly include the identifier of the data it describes.
+**Data management plan**
+------------------------
 
-F4. Metadata and data are registered or indexed in a searchable resource.
+Developing a data management plan (DMP) can be invaluable to your research by ensuring efficient research data management and sharing. A DMP is a document that outlines how data are handled throughout the entire research process and once it is completed. It should consider all aspects of the research data lifecycle. A DMP should be produced before you start working on your research project and you should continually update and edit it when needed. A DMP is not a static but living document. It is okay if you can't answer all the questions at the beginning. Although it requires time to create your DMP and to keep it updated, in the long-term it saves a lot of time and effort. Also, public funding bodies often require at least an outline of a DMP. It is good to know that requirements for a DMP differ between various institutions and funding bodies. In general, it may provide information to answer the following questions:
 
-1. **Accessible**
+●       What is the nature of your research and your scientific hypothesis? What questions are you trying to answer?
 
-A1. Metadata and data are retrievable by their identifier using a standardised communications protocol:
+●       Who has what roles and responsibilities? Do you have any special requirements for hardware and software?
 
-A1.1. The protocol is open, free and universally implementable;
+●       How are you planning to generate or collect data? If working with physical samples, how will these be labelled and what system of unique identifiers will be used? If working with people or animals, how will ethical issues be handled?
 
-A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
+●         How will these data be processed?
 
-A2. Metadata are accessible, even when the data are no longer available.
+●       What quality assurance checks will be carried out and how will you deal with problems, missing values and errors, if found?
 
-1. **Interoperable**
+●       How will data be stored and shared during the project (permission levels, version control and backups) and once it is completed (archiving)? How will intellectual property rights be handled?
 
-I1. Metadata and data use a formal, accessible, shared and broadly applicable language for knowledge representation.
+Although not addressed in a DMP, other types of documents and records should be managed during and beyond the life of a project. E.g., correspondence (e-mail and paper-based), project files, grant and ethics applications and approvals, signed consent forms, research reports, technical reports, project reports and files and master lists.
 
-I2. (Meta)data use vocabularies that follow FAIR principles:
+**Data access**
+---------------
 
-- Ontologies
-- Vocabularies
-- Taxonomies
+Data can be stored in data centres or repositories. Sometimes, your university or institution might require you to store your data in its repositories. Make sure to familiarise yourself with policies and requirements when planning your research. You can learn more about Data centres and repositories in the chapter “Data repositories and data centres”.
 
-I3. Metadata and data include qualified references to other (meta)data.
+Not all data uploaded into data centres or repositories are necessarily accessible to everyone. Whether there are concerns that releasing some data can have negative consequences or you just need more time to publish results of analysis using those data, special restrictions can be applied on how others gain access to your data. Depending on the repository, access can be classified, for example, as:
 
-1. **Reusable**
+●      **Fully open access** **–** Open data has no restrictions on access. Anyone can view and download it. This makes it more likely to be reused, for others to verify the results of your research and for you to get credit for generating and publishing that data.
 
-R1. Metadata and data are richly described with a plurality of accurate and relevant attributes:
+●   **Embargoed access** **–** Embargoed data are made available within a specific period of time. Until then, only metadata is made public. At the end of the embargo period, data will become available by either open or mediated access, depending on the option that you’ve selected. This should give you enough time to publish your findings or to register a patent.
 
-R1.1. Metadata and data are released with a clear and accessible data usage licence;
+●       **Mediated access** **–** Although metadata is made public, for someone to access your data you must approve an application that should meet conditions you have outlined. This may include requesting proof that a person asking for access to your data is a genuine researcher and that they have ethical approval from their own institution to undertake the research.
 
-R1.2. Metadata and data are associated with detailed provenance;
+●       **Restricted access** **–** Metadata are made public, but the full access is granted only to registered users.
 
-R1.3. Metadata and data meet domain-relevant community standards.
+●    **Closed access** **–** Metadata is published, but data is inaccessible and there is no process in place to apply for access to it. This type of access is rarely used. Examples include a case when you worked on generating data, but you don’t have the right to publish it. Alternatively, it might be classified as military research or another type of sensitive data.
 
-- **Step by step**
+●      **Depositor access** **–** Data can be accessed solely by depositors.
 
-There are six FAIRification practices you can do to make your data FAIR.
+To access data, various types of user agreements exist. The most common type is an open content licence, such as a Creative Commons (CC) or general public licence. You can learn more about different types of licences in the chapter “Open-source, open licensing, scientific programming”.
 
-- Documentation
-- File formats
-- Metadata
-- Access to data
-- PID (persistent identifiers)
-- Data licences
+**What exactly is open research data?**
+---------------------------------------
 
-**Documentation**
+According to the [](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en)[European Commission](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en), “open research data refers to data underpinning scientific research results that has no restrictions on its access, enabling anyone to access it.”
 
-Documentation of data usually happens on two levels:
+Making your data open brings a lot of advantages to you, as well as to the whole scientific community. It reduces cost and saves time for the government or private sector when reusing your data for further understanding and knowledge or for other researchers when they don’t have to collect the same data again. Many collaborations with other scientists are born this way. By opening your research, you are making it not only more visible but also transparent and you are potentially increasing its impact. Your work can get potential recognition by the general public and in the scientific community. This also encourages scientific enquiry, debate and improvement and validation of research methods. It is possible that others identify errors in your data or methods. This gives you an opportunity to learn from your mistakes and grow as a scientist.
 
-1. Data-level documentation. At this level you should include information such as data type, data processing procedures, structure of the data, e.g. questions, variables, concepts, etc.
-2. Project-level (or study-level) documentation. At this level you should include information such as when, how and why the data were generated and by whom, how the data were processed, what quality assurance measures have been used, etc.
+In fact, research integrity is an essential driver of reliable and trustworthy research and scientific discovery. A fundamental principle of the scientific method is reproducibility. The most often used reasons for not meeting the criteria of reproducibility, also known as replicability or repeatability, are: pressure to publish, poor statistical analysis leading to conclusions not supported by results, poor reliability of results, selective reporting and lack of replication within the original environment. Environmental observations and measurements are unique. That is why choosing correct methods and tools and interpretation of results are important in this type of research. On the other side of the spectrum is experimental research which is repeatable by nature. Whether your research is observational or experimental, good data management helps to support your own research integrity, as well as the validity and reproducibility of your research.
 
-It is noteworthy that the lists are not exhaustive - other information or data files are often included at both levels.
+It is your responsibility as a researcher along with all other individuals involved in the research process to manage your data well and to make them open. Whether you’ve already generated data for your research project or are only planning how to do it, it’s never too early (or too late) to start considering how to make your data open. Do not forget that you don’t own data you collect or generate when working on your research project. Make sure to familiarise yourself with institutional policies and confirm with your PI/supervisor prior to making your research data open. You can learn more about research ethics in the chapter “Open science policy, scientific integrity and ethics”.
 
-When it comes to publishing and reserving data, FAIR documentation enables you as a researcher to show how the data was generated and for what purpose by including information such as the following:
+To make data open is not enough. It must also be FAIR.
 
-- Methodology descriptions
-- Codebooks
-- Questionnaires
-- Scripts like editor- and do-files (STATA)
-- Laboratory notebooks and experimental protocols
-- Software syntax and output files
-- Database schemes
-- Provenance information about secondary data
-- The finalised data management plan
 
-Publishing the documentation together with your data in a repository will boost the reusability of your data and the likelihood of your data being cited - thus more FAIR data.
+::::
 
-**File formats**
-
-Different file formats have different characteristics and properties and thus there can be some limitations to some formats. It is a good idea to decide the purpose of a file first – for example, data collection/processing/analysis, reuse, or preservation – as it helps to determine which format to use. Sometimes it can be handy to keep some data files in multiple formats.
-
-When it comes to publishing and reserving data, you have to consider whether the file formats used for data collection, processing and analysis are also appropriate formats for long-term preservation. Furthermore, in the spirit of the FAIR principles, choose the right file format for publishing and preserving so that you and others can access and use the data later.
-
-Here are some examples of preferred FAIR file formats for preservation:
-
-- Containers: TAR, GZIP, ZIP
-- Databases: XML, CSV, JSON
-- Geospatial: SHP, DBF, GeoTIFF, NetCDF
-- Video: MPEG, AVI, MXF, MKV
-- Sounds: WAVE, AIFF, MP3, MXF, FLAC
-- Statistics: DTA, POR, SAS, SAV
-- Images: TIFF, JPEG 2000, PDF, PNG, GIF, BMP, SVG
-- Tabular data: CSV, TXT
-- Text: XML, PDF/A, HTML, JSON, TXT, RTF
-- Web archive: WARC
-
-**Metadata**
-
-Earlier in this chapter, we learned about the concepts and categories of metadata, which play an important role in making your data FAIR. Remember to add metadata continuously to your research data, not just at the beginning or at the end of your project. You can read more about metadata standards and ontologies at [Dublin Core](https://www.dublincore.org/)and [RDA Metadata Standards Directory Working Group](http://rd-alliance.github.io/metadata-directory/). Don&#39;t forget that your metadata must have a findable PID (persistent identifier) that is typically assigned when a digital resource is placed in a data repository.
-
-**Access to data**
-
-Always consider the following before you make your data accessible:
-
-- Who are the data available for and under which conditions?
-- How are the data backed up?
-- How is the above documented?
-- How may the Intellectual Property Rights (IPR) agreements restrict access to the data sets both during the collection and after finalising the project?
-- Do you and your collaborators agree on the 4 points above and the standard procedures and documents?
-
-It might sound a little surprising that sensitive data, which include, for example, personal or confidential information, can also be FAIR without being open. Common practice is to anonymise (change to impersonal ID&#39;s) or de-identify (remove ID&#39;s) the data. However, this often comes with some limitations. For example, old, de-identified data cannot be added to new data after a certain period of time, which limits the reusability of the data.
-
-**PID (persistent identifiers)**
-
-Previously in this chapter, we have gained an understanding about PID (persistent identifiers), but how can you get a PID for your data and metadata? You can start with finding a repository that will provide a PID.
-
-- You may find something interesting and suitable for you on the list of repositories recommended by the [European Research Council](https://erc.europa.eu/funding-and-grants/managing-project/open-access).
-- You can visit [Re3data](https://www.re3data.org/), which is a global registry of research data repositories from various academic disciplines.
-- [FAIRsharing](https://fairsharing.org/search?fairsharingRegistry=Database) allows you to discover databases grouped by domain, species or organisation.
-- You can also check whether your institution has a local repository that can provide a PID for research data stored at their own local repository.
-- And there is a lot more if you still want to browse for other repositories, such as [OpenAIRE](https://explore.openaire.eu/participate/deposit/learn-how), [Figshare](https://figshare.com/), [ROAR](http://roar.eprints.org/), etc.
-
-**Data licences**
-
-A data licence is a legal arrangement between the creator of the data and the end-user/the place for data depositing, which specifies what users can do with the data. The most commonly used data licences are the suite of [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) (CC) copyright licences, which concern reusability of the data and are irrevocable. Another widely known licence is [Copyright](https://en.wikipedia.org/wiki/Copyright).
 
 
 ## Test your understanding
 
-<iframe src="https://sa1987.github.io/JavaScript-Quiz-App/?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Recommended activities 
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-5?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
 
-::: {#hello .greeting .message style="color: black;"}
-_In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge._
 
-Find an online dataset and investigate how FAIR the dataset is:
+:::: {.activitybox }
 
-  -	Findable – Do PID’s exist? Are metadata searchable? 
-  - Accessible – Are metadata and data retrievable? 
-  -	Interoperable – Using open file format? API? 
-  -	Reusable – Can you find the provenance, licence and description of data?
 
-Try to answer the following questions: 
-
-  - Will you consider making your data FAIR? Why/why not?
-  - What do you think the advantages/disadvantages could be?
-  
+::: {.center }
+**Activities!**
 :::
+
+::: {.notification }
+In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
+:::
+
+●       Create metadata for one of your data files. Metadata standards used in different scientific disciplines, including specifications and various tools, can be found on the [](https://www.dcc.ac.uk/guidance/standards/metadata)[Digital Curation Centre](https://www.dcc.ac.uk/guidance/standards/metadata) website. Other useful schemas with overall structure of metadata are available on the [](https://guides.lib.unc.edu/metadata/standards)[UNC University Libraries](https://guides.lib.unc.edu/metadata/standards) website. Pick one that is the closest to your research and give it a go.
+
+●       Fill in a DMP template. You can do it online at [](https://dmponline.dcc.ac.uk/)[DMPonline](https://dmponline.dcc.ac.uk/) after creating an account or you can download one from the EC [](https://ec.europa.eu/research/participants/data/ref/h2020/gm/reporting/h2020-tpl-oa-data-mgt-plan_en.docx)[Horizon 2020 research and innovation funding programme](https://ec.europa.eu/research/participants/data/ref/h2020/gm/reporting/h2020-tpl-oa-data-mgt-plan_en.docx) or the [](https://guides.lib.umich.edu/c.php?g=283277&p=2138498)[University of Michigan Library](https://guides.lib.umich.edu/c.php?g=283277&p=2138498).
+
+●       Check out a free online [](https://mantra.ed.ac.uk/)[MANTRA course](https://mantra.ed.ac.uk/) from the University of Edinburgh that was created for those who manage digital data as part of their research project.
+
+●       Check out the free [](https://datatree.org.uk/)[Data Tree](https://datatree.org.uk/) research data management course from NERC.
+
+●       Do you have your data management plan? Or have you found during your research that your data could be managed better and with much less effort should you have had the relevant information when starting your project? Share your experience with others on our social media.
+
+::::
+

@@ -1,173 +1,100 @@
-# Data ethics
-Test
+**Data repositories and data centres**
+======================================
 
 
-### Tested using pandoc 
+:::: {.mainfontFormat }
 
-**Lorem ipsum**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac
-elit mattis, rutrum diam sit amet, pretium turpis. Aliquam id commodo
-mauris. Nam sagittis purus quis molestie auctor. Morbi hendrerit maximus
-nibh vitae pharetra. Integer id nisl a orci faucibus dapibus. Donec
-blandit bibendum nisl, at cursus ex tincidunt id. Suspendisse et nulla
-et dui pharetra ultrices. Fusce pulvinar quis justo vel posuere.
 
-Nullam finibus at urna ultricies porttitor. Proin a sapien vitae magna
-scelerisque efficitur et eu justo. Nunc eu tempus lorem. Sed metus nisl,
-condimentum vel ante nec, semper fringilla odio. Fusce blandit libero
-nec justo dignissim mattis. Integer id turpis ultricies, lacinia neque
-a, feugiat lorem. Sed at lorem eget eros vestibulum pellentesque.
-Integer vitae tortor ut urna auctor tincidunt. Vestibulum gravida
-condimentum enim non congue. Integer mollis augue vitae felis pretium
-luctus. Sed condimentum sagittis odio. Nunc a volutpat mi, eget eleifend
-neque. Sed sed lorem cursus, mollis libero nec, dapibus risus. Nullam
-volutpat elit non lectus dignissim, at tristique leo vulputate.
+Long-term preservation and sharing of data are a part of the data lifecycle and should be a part of your data management plan that you learned about in the “Research data” chapter. What’s more, it can be one of the requirements of receiving funding. Therefore, storing research data of long-term value in data repositories or data centres should be an important part of your planning process.
 
-**Lorem ipsum**
+**Data repositories**
+---------------------
 
-Sed vestibulum hendrerit nisl at tempor. Sed mollis suscipit purus id
-vulputate. Nulla vulputate sollicitudin tortor sit amet sagittis.
-Phasellus interdum lectus a orci cursus, non ullamcorper velit dictum.
-Donec non pharetra dui. Pellentesque nec euismod nisl. Donec porta
-iaculis lectus sit amet scelerisque. Quisque at ipsum lacinia ante
-tincidunt vestibulum vitae in justo. Maecenas vel elit et leo finibus
-gravida suscipit vitae mi. Proin libero leo, dignissim id ante ut,
-sodales laoreet felis. Maecenas massa augue, rutrum nec luctus et,
-fermentum eu ligula.
+A data repository is a set of data that has been isolated for the purpose of data reporting and analysis. The [](http://digitalguardian.com/blog/what-data-repository)[data repository](http://digitalguardian.com/blog/what-data-repository) is a multi-database infrastructure that collects, manages and stores data sets for data analysis, sharing and reporting. Grouping data together enables easier and faster data analysis and using data repositories is a part of data management. Data can also be stored and archived in data repositories.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Donec pellentesque sagittis laoreet. Maecenas at quam
-neque. Etiam sed lorem a dolor tempus lacinia. Aenean eget nibh a erat
-pulvinar egestas et a odio. Aenean non auctor eros. Nulla a pharetra
-velit. Sed porta, orci quis aliquam fermentum, augue dui volutpat lacus,
-in faucibus elit massa nec dui. Nam posuere suscipit vehicula. Fusce et
-mauris ante. Cras lorem nisi, pretium at laoreet id, mattis non sem.
-Vivamus dapibus ultricies magna. Sed sed leo vitae est tincidunt
-pulvinar.
+Examples of [](https://stealthbits.com/blog/what-is-a-data-repository-and-what-is-it-used-for/)[types](https://stealthbits.com/blog/what-is-a-data-repository-and-what-is-it-used-for/) of data repositories include the following:
 
-**Lorem ipsum**
+●       **Data warehouse** – A data warehouse is a system that collects data from several sources into a single, central, consistent data storage system for use in data analysis, data mining, artificial intelligence and machine learning. Data warehousing helps in improving data quality by centralising data from various sources, including transactional systems, operational databases and flat files. The file is then cleansed and standardised and duplicates are removed to establish a single source for the file.
 
-Nullam dapibus, metus ut tempus molestie, erat eros dignissim est, quis
-dapibus dui diam eu dui. Aliquam vitae viverra felis, ut sodales nulla.
-Vestibulum ac lorem in justo mollis venenatis et ut leo. Nullam
-facilisis aliquam augue nec convallis. Aliquam ac ante interdum augue
-mollis aliquam. Integer sed convallis felis. Mauris placerat, purus at
-ullamcorper porta, enim mauris tristique mi, in feugiat justo nulla quis
-felis. Praesent hendrerit commodo ex, vitae eleifend ligula condimentum
-eget. Integer gravida ornare tortor malesuada tincidunt. Morbi non
-mauris at elit imperdiet dignissim in interdum ex. Mauris sed ligula
-pulvinar massa aliquam pellentesque vitae sit amet arcu. Morbi ultrices
-pulvinar laoreet. Aliquam eget nisl efficitur, molestie lorem non,
-vulputate elit. Sed faucibus enim et lectus tempor, et ullamcorper metus
-imperdiet. Sed id gravida ante, quis aliquet diam. Pellentesque id ipsum
-velit.
+●       **Data lake** – A data lake is a data warehouse without predefined schemas. As a result, it supports a wider range of analytics than a traditional data warehouse. The main distinction between a data lake and a data warehouse is that data lakes contain large amounts of unstructured data whereas the data in a data warehouse is structured.
 
-Vestibulum faucibus justo a enim vehicula, id egestas mi mollis. Vivamus
-facilisis dui quis libero maximus, nec tempus ipsum interdum. Etiam nec
-justo pretium, molestie diam ac, iaculis enim. Sed aliquet neque id ex
-euismod, eget volutpat tortor pellentesque. Donec consequat luctus ante,
-vitae vestibulum ante. Integer suscipit iaculis mauris at ornare.
-Suspendisse vehicula eros nulla, ac ullamcorper dolor tristique quis.
-Nam consectetur faucibus finibus. Curabitur vel massa vel eros congue
-facilisis. Nullam elit ante, congue ultrices purus sed, bibendum sodales
-sapien. Donec luctus dolor ut porta varius. Aenean dapibus laoreet
-turpis, sed suscipit eros lobortis quis. Ut tristique, dui vitae aliquet
-semper, lectus velit volutpat magna, at aliquet mauris eros eu nunc. In
-non augue et tortor ultricies maximus. Nullam quis ex ut velit tempus
-mattis non id ante.
+●       **Data mart** – A data mart is a simplified data warehouse which focuses on a single subject. It reduces the time and resources required to go through more complex data in a data warehouse or manually aggregating data from several sources. By using a data mart, teams can access data and obtain insights faster than using a data warehouse.
 
-+-----------------------------------------------------------------------+
-| > **Activities:**                                                     |
-|                                                                       |
-| -   Cras ut hendrerit risus. Suspendisse potenti.                     |
-|                                                                       |
-| -   Praesent at egestas lorem.                                        |
-|                                                                       |
-| -   Nunc gravida vestibulum orci, nec porta sapien mollis non.        |
-|                                                                       |
-| -   Aliquam dapibus, erat sed fermentum consectetur, urna lacus       |
-|     > ultricies libero, ut bibendum mauris quam eget metus.           |
-|                                                                       |
-| ```{=html}                                                            |
-| <!-- -->                                                              |
-| ```                                                                   |
-| -   Phasellus neque sapien, scelerisque quis velit id, venenatis      |
-|     > pellentesque risus.                                             |
-|                                                                       |
-| -   Nam euismod faucibus euismod.                                     |
-|                                                                       |
-| -   Mauris vitae vehicula magna, ut posuere tellus. Aliquam bibendum  |
-|     > feugiat egestas. Aliquam pretium vitae tellus sed viverra. In   |
-|     > hac habitasse platea dictumst. Sed quis pulvinar libero, et     |
-|     > cursus diam. Mauris sollicitudin ultrices convallis.            |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+●       **Metadata repositories** – Metadata provides fundamental information about data, making it easier to discover and operate with specific types of data. A metadata repository is a software which maintains descriptive data about the data model that is used to store and exchange metadata. Diagrams and text are combined in metadata repositories, allowing for metadata integration and updating. A metadata repository can also serve as the foundation for a data warehouse, among other things.
 
-In a sem quis dolor pulvinar commodo.
+●       **Data cubes** – A [](https://www.metabase.com/learn/databases/data-cube)[data cube](https://www.metabase.com/learn/databases/data-cube) is a representation of the precise information that has to be extracted from a large quantity of complex data. A data cube is a structure designed to handle analytical queries. They contain metrics that have one or more regularly used dimensions. The metrics are precomputed, which means that a database job takes raw data, does computations and produces a new table to hold the results so that they can be queried instead of having to query and compute them from scratch each time. When data is aggregated depending on particular factors, numerous tables are layered on top of each other, creating a cube-like result. Data cubes group together various important data to allow for more flexible analysis, such as spotting trends. When data is organised into cubes, queries may be run significantly faster than if the tables were all kept separately.
 
--   Donec sem felis, sodales vel sem id, aliquam elementum nibh.
+●       **Operational data stores** – An operational data store is used to keep comprehensive transactional data from several operating systems. It can function as a stand-alone operational system or as a temporary staging location for data until it is cleansed, processed and put into a data warehouse. An ODS receives data from other systems on a continual basis, either through real-time data replication or batch extract-transform-load processes. In most cases, data is kept in a denormalized manner. Operational data stores are useful for querying small datasets in real-time or near-real-time (Kumar, 2019).
 
--   Curabitur vel dignissim elit. Sed at arcu eu odio facilisis
-    > tristique.
+**Re3data – research data repositories registry**
 
--   Curabitur purus est, maximus in felis luctus, consequat facilisis
-    > ex.
+A research data repository is the best approach to publishing and exchanging research data. A repository is an online database that allows long-term preservation of research data while also assisting others in finding it. A repository will provide a DOI for each submitted object and provide a web page that describes what it is, how to cite it and how many times other researchers have cited or downloaded it, in addition to archiving research data.
 
--   Sed vitae libero nec nunc euismod scelerisque ac vitae metus.
+The [](https://www.re3data.org/)[Re3data](https://www.re3data.org/) registry of research data repositories is an open scientific platform that provides an insight into the existing international research data repositories for academics, funding agencies, libraries and publications. The Humboldt University in Berlin, the German Research Centre for Geosciences (GFZ), the Karlsruhe Institute of Technology (KIT) and Purdue University all contribute to the register. By using a key-term search, the Re3data catalogue can be used to search for datasets. Results can also be filtered to show different fields such as social sciences, economics, anthropology, geography and the humanities. Also, the three browse functions – subject, content type and country – can be used to locate datasets. Data can be found by topic area using an interactive chart of disciplines and subdisciplines. Furthermore, data regarding the source repository are stated in the series metadata.
 
--   Pellentesque at enim pharetra, blandit dui sed, sodales nisi.
+Some examples of popular data repositories for storing research data are [figshare](https://figshare.com/), [Mendeley Data](https://data.mendeley.com/), [Dryad](https://datadryad.org/stash), [Zenodo](https://datadryad.org/stash) and [Open Science Framework](https://osf.io/).
 
--   Praesent facilisis nunc orci, vitae feugiat velit consequat eget.
+**Data centres**
+----------------
 
--   Phasellus pretium orci sed tempor interdum.
+While a data repository is a type of data library or data archive, a data centre also provides data asset management and services for the entire organisation through a series of platforms, tools, processes and specifications. A data centre refers to a location where data and applications are stored. Data centres make deposited data available to other scientists, commercial enterprises, government bodies, educational institutions and the general public. The architecture of a data centre is built on a network of computer and storage resources that allow shared applications and data to be transmitted. Data centres’ architecture and functionalities have been greatly improved over time. The traditional on-premises physical server with virtual networks that support applications and workloads across groups of physical infrastructure has evolved into a multi-cloud system. As a result, data is now available and networked over numerous data centres, the edge and public and private clouds. Over time, data centres have increased their capacity to communicate with different locations both on-premises and in the cloud.
 
-```{=html}
-<!-- -->
-```
--   Nulla ac lectus nulla. In vitae ligula nulla.
+**Components of a data centre**
 
--   Integer congue sapien id nibh semper fringilla.
+The primary [](https://centriq.com/blog/3-principles-of-data-center-infrastructure-design/)[components](https://centriq.com/blog/3-principles-of-data-center-infrastructure-design/) of a data centre are the computing unit, storage unit and network unit. The components of a data centre include computers, servers, routers or switches, a firewall or biometric security system, storage systems such as storage area networks or backup/tape storage, data centre management software/applications, power and cooling devices such as air conditioners or generators, physical server racks and chassis cables and an internet backbone.
 
--   Cras vel odio quis mauris cursus vehicula.
+**Data centre services**
 
-```{=html}
-<!-- -->
-```
--   Curabitur in tortor et lacus scelerisque finibus.
+Data centres can help you to develop a DMP. Data centres offer services such as data storage, backup and recovery, data management and transfer for data of long-term value. Data can be made accessible openly or subject to restrictions and data centres often provide a searchable catalogue of data stored therein. Finally, data centres can issue DOIs.
 
--   Sed consequat sem id mi consectetur, accumsan viverra ex fringilla.
+**How to find the right data centre for research?**
 
-Sed in bibendum libero. Maecenas porttitor arcu nec elit congue, et
-ornare mauris dapibus. Nunc volutpat lectus a metus eleifend, ac
-consectetur felis condimentum. Quisque eleifend mauris vestibulum nunc
-pretium, at auctor enim feugiat. Integer efficitur sed risus eu mollis.
-Curabitur dapibus sodales magna, eget hendrerit quam mattis id. Donec
-nunc ipsum, condimentum ac tristique a, interdum eu quam. Vestibulum
-vestibulum nulla ac justo convallis, laoreet semper nulla malesuada.
-Aliquam nisl mi, luctus id porta at, varius vel quam. Cras suscipit
-pulvinar magna. Donec sit amet porta velit. Mauris rutrum feugiat
-vestibulum. Vivamus vitae dolor lobortis, gravida mi eu, imperdiet orci.
+There are some critical factors to be considered in the choice of a data centre to host research data. After finding a data centre that specialises in a particular branch of scientific research, other considerations should include location, reliability, security, network service capacity, flexibility and scalability, emergency backup and reputation. If you are not sure you chose the right data centre, contact them. They’ll be able to confirm or provide advice about better alternatives.
 
-Praesent gravida magna eget est placerat, quis pharetra velit mollis.
-Praesent in convallis mi. Cras dignissim posuere sem, sed facilisis
-ipsum venenatis id. Morbi eu lectus magna. Nullam ultricies sodales arcu
-at faucibus. Maecenas eu ultricies libero. Nunc quis libero dolor.
+**How to deposit data in a data centre?**
 
-Nunc imperdiet faucibus laoreet. Vivamus malesuada ligula vel metus
-pharetra, eget ornare ligula cursus. Proin id maximus justo. Fusce non
-consequat velit. Pellentesque luctus lacus vitae massa ultricies, ac
-euismod lectus condimentum. Quisque fermentum rhoncus erat imperdiet
-mattis. Sed eget ante ut mi tempus ultrices. Sed porttitor ipsum a
-dapibus vehicula. Curabitur orci leo, sagittis et orci sit amet,
-scelerisque iaculis libero.
+The process of depositing data starts with preparation of the data, validating the data (performing quality checks) and making it available in a form acceptable to the data centre. Before uploading the data to the data centre server, the guidelines stipulated by the data centre must be read and understood. Also, the owner of the data must be clearly defined and a brief description of the data should be provided. While open access of data is preferred, the data owner is expected to specify the type of access they wish to grant to their data. You can learn more about types of open access in the chapter “Open data and open access”. Data are then uploaded and the upload is confirmed.
 
-Mauris vitae nisi rutrum, interdum nulla sed, euismod leo. Etiam ut
-tortor semper ligula consectetur pulvinar. Mauris nibh tortor,
-vestibulum non gravida et, scelerisque in tellus. Nam sed sollicitudin
-massa, id vestibulum orci. Nunc faucibus, sapien et gravida
-sollicitudin, purus turpis sollicitudin ante, vitae gravida nibh erat at
-turpis. Aenean condimentum vulputate maximus. Integer ex eros, venenatis
-sed sodales non, ultrices vel purus.
+Because data cannot be modified after the upload, data must be in their final version before being deposited. The DOI for publication is also required when depositing data that contain datasets which support the publication, but some data centres can issue a DOI. You can learn more about DOI in the chapter “FAIR principles”. The owner of the data is expected to indicate the type of access they wish to grant to their data. When a data set should have more than one type of open access, data must be stored separately in separate sections. Any scientific unit or research group’s data must also be validated before being deposited in a data centre.
+
+**Importance of PIDs**
+
+A persistent identifier (PID) is a permanent and unique digital identification that helps users to locate and reuse digital content. PIDs are numbers that are used to identify digital items such as files, documents and web pages. Even if an organisation's web address changes, the PID will continue to function and ensures that a link to a digital item remains functional even if the object's location or web URL (Uniform Resource Locator) changes. Various options for a PID include Digital Object Identifiers (DOIs), Persistent Uniform Resource Locators (PURLs) and Archival Resource Keys (ARKs). Handle and OpenURL are examples of PID systems. Each system has its own set of characteristics, strengths and flaws.
+
+Every dataset that is deposited and made accessible through a data centre will have a DOI, which is a form of PID. This ensures that the research is correctly cited, as well as indicating which version of the data was used. It is frequently a prerequisite to publish material based on these datasets in a publication where the research data are accessible and have a PID.
+
+**Trends and future development**
+
+Due to the high energy consumption of data centres, there is a current trend to [](https://bitpower.ie/images/Reports/2021_H1_Report.pdf)[shift to renewable sources of energy](https://bitpower.ie/images/Reports/2021_H1_Report.pdf). Renewable energy sourcing is standard, most data operators pay a premium to their suppliers for a 100% supply of certified renewable energy. Direct partnerships with renewable energy plants are becoming more popular globally. This demand for renewable energy will give the renewable industry much-needed investment, certainty and it may even minimise the need for REFIT (renewable energy feed in tariff) programmes for renewable energy.
+
+::::
+
+
+
+## Test your understanding
+
+
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-7?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
+
+
+:::: {.activitybox }
+
+
+::: {.center }
+**Activities!**
+:::
+
+::: {.notification }
+In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
+:::
+
+●       Check out the [](https://dri.ie/)[Digital Repository of Ireland](https://dri.ie/), the [](https://www.bas.ac.uk/data/uk-pdc/)[UK Polar Data Centre](https://www.bas.ac.uk/data/uk-pdc/) and the [](https://www.ncbi.nlm.nih.gov/)[National Centre for Biotechnology Information](https://www.ncbi.nlm.nih.gov/). How would you deposit data in each of them?
+
+●       Identify a data repository/data centre suitable for depositing your research data. Add it to your data management plan.
+
+●       Did you find the previous two activities easy? Or were they a bit of a challenge? Share your experience and tips on data repositories/centres suitable for a specific type of data or research with others on our social media.
+
+::::
 
 

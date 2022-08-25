@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 8 Open science policies, scientific integrity and ethics | AGAPE: An introductory course to open science for early career researchers</title>
+  <meta name="description" content="This is an introductory course to open science." />
+  <meta name="generator" content="bookdown 0.26 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 8 Open science policies, scientific integrity and ethics | AGAPE: An introductory course to open science for early career researchers" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="This is an introductory course to open science." />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 8 Open science policies, scientific integrity and ethics | AGAPE: An introductory course to open science for early career researchers" />
+  
+  <meta name="twitter:description" content="This is an introductory course to open science." />
+  
+
+<meta name="author" content="An Opening Doors initiative" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="data-repositories-and-data-centres.html"/>
+<link rel="next" href="communication-and-dissemination.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y98S2E4LEN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y98S2E4LEN');
+</script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    background-color: #232629;
+    color: #7a7c7d;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #7a7c7d;  padding-left: 4px; }
+div.sourceCode
+  { color: #cfcfc2; background-color: #232629; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span { color: #cfcfc2; } /* Normal */
+code span.al { color: #95da4c; background-color: #4d1f24; font-weight: bold; } /* Alert */
+code span.an { color: #3f8058; } /* Annotation */
+code span.at { color: #2980b9; } /* Attribute */
+code span.bn { color: #f67400; } /* BaseN */
+code span.bu { color: #7f8c8d; } /* BuiltIn */
+code span.cf { color: #fdbc4b; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #3daee9; } /* Char */
+code span.cn { color: #27aeae; font-weight: bold; } /* Constant */
+code span.co { color: #7a7c7d; } /* Comment */
+code span.cv { color: #7f8c8d; } /* CommentVar */
+code span.do { color: #a43340; } /* Documentation */
+code span.dt { color: #2980b9; } /* DataType */
+code span.dv { color: #f67400; } /* DecVal */
+code span.er { color: #da4453; text-decoration: underline; } /* Error */
+code span.ex { color: #0099ff; font-weight: bold; } /* Extension */
+code span.fl { color: #f67400; } /* Float */
+code span.fu { color: #8e44ad; } /* Function */
+code span.im { color: #27ae60; } /* Import */
+code span.in { color: #c45b00; } /* Information */
+code span.kw { color: #cfcfc2; font-weight: bold; } /* Keyword */
+code span.op { color: #cfcfc2; } /* Operator */
+code span.ot { color: #27ae60; } /* Other */
+code span.pp { color: #27ae60; } /* Preprocessor */
+code span.re { color: #2980b9; background-color: #153042; } /* RegionMarker */
+code span.sc { color: #3daee9; } /* SpecialChar */
+code span.ss { color: #da4453; } /* SpecialString */
+code span.st { color: #f44f4f; } /* String */
+code span.va { color: #27aeae; } /* Variable */
+code span.vs { color: #da4453; } /* VerbatimString */
+code span.wa { color: #da4453; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">AGAPE: An introductory course to open science for early career researchers</a></li>
+<li class="toc-logo"><a href="./"><img src="images/agapecover.png"></a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Introduction</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#structure-of-the-book"><i class="fa fa-check"></i>Structure of the book</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-read-this-course"><i class="fa fa-check"></i>How to read this course</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#what-did-we-leave-out"><i class="fa fa-check"></i>What did we leave out?</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-opening-doors-project"><i class="fa fa-check"></i>About Opening Doors project</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#meet-the-authors"><i class="fa fa-check"></i>Meet the authors</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#acknowledgement"><i class="fa fa-check"></i>Acknowledgement</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-contribute-to-this-project"><i class="fa fa-check"></i>How to contribute to this project</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#disclaimer"><i class="fa fa-check"></i>Disclaimer</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="open-science.html"><a href="open-science.html"><i class="fa fa-check"></i><b>1</b> Open science</a>
+<ul>
+<li class="chapter" data-level="1.6" data-path="open-science.html"><a href="open-science.html#test-your-understanding"><i class="fa fa-check"></i><b>1.6</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="open-data-and-open-access.html"><a href="open-data-and-open-access.html"><i class="fa fa-check"></i><b>2</b> <strong>Open data and open access</strong></a>
+<ul>
+<li class="chapter" data-level="2.4" data-path="open-data-and-open-access.html"><a href="open-data-and-open-access.html#test-your-understanding-1"><i class="fa fa-check"></i><b>2.4</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="open-source-open-licencing-scientific-programming.html"><a href="open-source-open-licencing-scientific-programming.html"><i class="fa fa-check"></i><b>3</b> Open source, open licencing, scientific programming</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="open-source-open-licencing-scientific-programming.html"><a href="open-source-open-licencing-scientific-programming.html#open-source"><i class="fa fa-check"></i><b>3.1</b> Open-source</a></li>
+<li class="chapter" data-level="3.2" data-path="open-source-open-licencing-scientific-programming.html"><a href="open-source-open-licencing-scientific-programming.html#open-licensing"><i class="fa fa-check"></i><b>3.2</b> Open licensing</a></li>
+<li class="chapter" data-level="3.4" data-path="open-source-open-licencing-scientific-programming.html"><a href="open-source-open-licencing-scientific-programming.html#test-your-understanding-2"><i class="fa fa-check"></i><b>3.4</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="pros-and-cons.html"><a href="pros-and-cons.html"><i class="fa fa-check"></i><b>4</b> <strong>Pros and cons</strong></a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="pros-and-cons.html"><a href="pros-and-cons.html#misconceptions-about-open-science"><i class="fa fa-check"></i><b>4.1</b> <strong>Misconceptions about open science</strong></a></li>
+<li class="chapter" data-level="4.5" data-path="pros-and-cons.html"><a href="pros-and-cons.html#test-your-understanding-3"><i class="fa fa-check"></i><b>4.5</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="research-data.html"><a href="research-data.html"><i class="fa fa-check"></i><b>5</b> <strong>Research data</strong></a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="research-data.html"><a href="research-data.html#research-data-1"><i class="fa fa-check"></i><b>5.1</b> <strong>Research data</strong></a></li>
+<li class="chapter" data-level="5.6" data-path="research-data.html"><a href="research-data.html#test-your-understanding-4"><i class="fa fa-check"></i><b>5.6</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="fair-principles.html"><a href="fair-principles.html"><i class="fa fa-check"></i><b>6</b> <strong>FAIR principles</strong></a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="fair-principles.html"><a href="fair-principles.html#what-is-fair"><i class="fa fa-check"></i><b>6.1</b> <strong>What is FAIR?</strong></a></li>
+<li class="chapter" data-level="6.4" data-path="fair-principles.html"><a href="fair-principles.html#test-your-understanding-5"><i class="fa fa-check"></i><b>6.4</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="data-repositories-and-data-centres.html"><a href="data-repositories-and-data-centres.html"><i class="fa fa-check"></i><b>7</b> <strong>Data repositories and data centres</strong></a>
+<ul>
+<li class="chapter" data-level="7.3" data-path="data-repositories-and-data-centres.html"><a href="data-repositories-and-data-centres.html#test-your-understanding-6"><i class="fa fa-check"></i><b>7.3</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="open-science-policies-scientific-integrity-and-ethics.html"><a href="open-science-policies-scientific-integrity-and-ethics.html"><i class="fa fa-check"></i><b>8</b> <strong>Open science policies, scientific integrity and ethics</strong></a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="open-science-policies-scientific-integrity-and-ethics.html"><a href="open-science-policies-scientific-integrity-and-ethics.html#open-science-policies"><i class="fa fa-check"></i><b>8.1</b> <strong>Open science policies</strong></a></li>
+<li class="chapter" data-level="8.6" data-path="open-science-policies-scientific-integrity-and-ethics.html"><a href="open-science-policies-scientific-integrity-and-ethics.html#test-your-understanding-7"><i class="fa fa-check"></i><b>8.6</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="communication-and-dissemination.html"><a href="communication-and-dissemination.html"><i class="fa fa-check"></i><b>9</b> <strong>Communication and dissemination</strong></a>
+<ul>
+<li class="chapter" data-level="9.5" data-path="communication-and-dissemination.html"><a href="communication-and-dissemination.html#test-your-understanding-8"><i class="fa fa-check"></i><b>9.5</b> Test your understanding</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="final-quiz.html"><a href="final-quiz.html"><i class="fa fa-check"></i><b>10</b> Final Quiz</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">AGAPE: An introductory course to open science for early career researchers</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <script src="assets/hoverSection.js"></script>
+  <link href="assets/style.css" rel="stylesheet">
+</head>
+        
+
+<div class="hero-image-container"> 
+  <img class= "hero-image" src="images/books.png">
+</div>
+<div id="open-science-policies-scientific-integrity-and-ethics" class="section level1 hasAnchor" number="8">
+<h1><span class="header-section-number">Chapter 8</span> <strong>Open science policies, scientific integrity and ethics</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#open-science-policies-scientific-integrity-and-ethics" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="open-science-policies" class="section level2 hasAnchor" number="8.1">
+<h2><span class="header-section-number">8.1</span> <strong>Open science policies</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#open-science-policies" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div class="mainfontFormat">
+<p>Open science policies are a set of guidelines and protocols developed and implemented to promote open science principles. These policies can be mandatory or voluntary in nature and are often put in place by government agencies, funders, research institutions, etc. Often, these policies provide a framework for making research data accessible to the public long term and to evaluate its subsequent impact. If you are interested in adopting open science practices in your research, the first step is to understand your organisation and relevant stakeholders, like the funding body, their current policies and how they can affect your work. If you would like to know more about organisations and their policies, check out the European Commission’s <a href="https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-data-protection_en.pdf"></a><a href="https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-data-protection_en.pdf">Ethics and Data Protection guidelines</a>. </p>
+<p>The most common factors addressed by policymakers to increase effectiveness are:</p>
+<p>●       Provision to review and identify the nature of the data and suitability to release it for public access.</p>
+<p>●       Provision to restrict or anonymize personal data.</p>
+<p>●       Provision of data centres and repositories to store and publish the data.</p>
+<p>●       Provision of roadmaps, tools, checklists, etc. for open-access publication.</p>
+<p>●       Outline of the intellectual property rights, copyrights, data licensing and reuse rights.</p>
+<p>●       Outlining the data publishing standards in line with open standards.</p>
+<p>●       Provision to monitor, assess and review the policy.</p>
+<p>●       Data anonymization.</p>
+<p>You can learn more about storing public data in the chapter “Data repositories and data centres”, about open access publishing in the chapter “Open data and open access” and about data licensing in the chapter “Open-source, open licensing, scientific programming”.</p>
+<div id="scientific-integrity-and-ethics" class="section level2 hasAnchor" number="8.2">
+<h2><span class="header-section-number">8.2</span> <strong>Scientific integrity and ethics</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#scientific-integrity-and-ethics" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>In order to maintain the integrity, value and benefits of open science research there is a need to adhere to ethical principles across disciplines which include societal issues such as non-discrimination, privacy and confidentiality as well as professional conduct. Due to variations of these across countries, <a href="https://www.rand.org/"></a><a href="https://www.rand.org/">local laws and cultural norms</a> must be considered and adhered to. It is useful to consider that these <a href="https://the-turing-way.netlify.app/ethical-research/ethical-research.html"></a><a href="https://the-turing-way.netlify.app/ethical-research/ethical-research.html">principles</a> could evolve due to factors which include historical events, scientific advancements and behavioural norm changes.</p>
+<p>While there are national and disciplinary differences in the way research is organised and conducted, there are also general principles and professional responsibilities that are fundamental to the integrity of research as indicated in the <a href="https://wcrif.org/statement"></a><a href="https://wcrif.org/statement">Singapore Statement on Research Integrity</a>, published in 2010.</p>
+<p>General principles:</p>
+<p>●       <strong>Honesty</strong> in all aspects of research.</p>
+<p>●       <strong>Accountability</strong> in the conduct of research.</p>
+<p>●       <strong>Professional courtesy and fairness</strong> in working with others.</p>
+<p>●       <strong>Good stewardship</strong> of research on behalf of others.</p>
+<p>Professional responsibilities:</p>
+<p>●       <strong>Integrity –</strong> Researchers should take responsibility for the trustworthiness of their research.</p>
+<p>●       <strong>Adherence to regulations –</strong> Researchers should be aware of and adhere to regulations and policies related to research.</p>
+<p>●       <strong>Research methods –</strong> Researchers should employ appropriate research methods, base conclusions on critical analysis of the evidence and report findings and interpretations fully and objectively.</p>
+<p>●       <strong>Research records –</strong> Researchers should keep clear, accurate records of all research in ways that will allow verification and replication of their work by others.</p>
+<p>●       <strong>Research findings –</strong> Researchers should share data and findings openly and promptly as soon as they have had an opportunity to establish priority and ownership claims.</p>
+<p>●       <strong>Authorship –</strong> Researchers should take responsibility for their contributions to all publications, funding applications, reports and other representations of their research. Lists of authors should include all those and only those who meet applicable authorship criteria.</p>
+<p>●       <strong>Publication acknowledgement –</strong> Researchers should acknowledge in publications the names and roles of those who made significant contributions to the research, including writers, funders, sponsors, and others, but do not meet authorship criteria.</p>
+<p>●       <strong>Peer review –</strong> Researchers should provide fair, prompt and rigorous evaluations and respect confidentiality when reviewing others’ work.</p>
+<p>●       <strong>Conflict of interest –</strong> Researchers should disclose financial and other conflicts of interest that could compromise the trustworthiness of their work in research proposals, publications and public communications as well as in all review activities.</p>
+<p>●       <strong>Public communication –</strong> Researchers should limit professional comments to their recognized expertise when engaged in public discussions about the application and importance of research findings and clearly distinguish professional comments from opinions based on personal views.</p>
+<p>●       <strong>Reporting irresponsible research practices –</strong> Researchers should report to the appropriate authorities any suspected research misconduct, including fabrication, falsification or plagiarism, and other irresponsible research practices that undermine the trustworthiness of research, such as carelessness, improperly listing authors, failing to report conflicting data, or the use of misleading analytical methods.</p>
+<p>●       <strong>Responding to irresponsible research practices –</strong> Research institutions, as well as journals, professional organisations and agencies that have commitments to research, should have procedures for responding to allegations of misconduct and other irresponsible research practices and for protecting those who report such behaviour in good faith. When misconduct or other irresponsible research practice is confirmed, appropriate actions should be taken promptly, including correcting the research record.</p>
+<p>●       <strong>Research environments –</strong> Research institutions should create and sustain environments that encourage integrity through education, clear policies, and reasonable standards for advancement, while fostering work environments that support research integrity.</p>
+<p>●       <strong>Societal considerations –</strong> Researchers and research institutions should recognize that they have an ethical obligation to weigh societal benefits against risks inherent in their work.</p>
+</div>
+<div id="research-misconduct" class="section level2 hasAnchor" number="8.3">
+<h2><span class="header-section-number">8.3</span> <strong>Research misconduct</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#research-misconduct" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Violation of research conduct or research ethics when proposing, performing or reviewing research or reporting research results is known as research misconduct. Under the umbrella of <a href="https://en.wikipedia.org/wiki/Scientific_misconduct"></a><a href="https://en.wikipedia.org/wiki/Scientific_misconduct">research misconduct</a>, we can find fabrication, falsification and plagiarism. Other irresponsible research practices that can undermine the trustworthiness of research but that are seen as having less impact on the research process are often referred to as questionable research practices. Their definition and categorisation are country-dependent. According to the European Commission’s <a href="https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf"></a><a href="https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf">Report on Responsible Open Science</a> in addition to upholding high quality research through transparent and reproducible results, there is also a need to deal with challenges which result from malpractices such as fake science, biassed assessment and predatory journals.</p>
+<p>To keep the research code of conduct up to date and in line with emerging changes it is frequently reviewed. Mechanisms to conduct ethical research have been established, including the peer review process, policy governance structures and education and training of researchers. No one is implying that you would intentionally commit research misconduct. However, it is good to know what to watch out for. A good place to start reading about it is the <a href="https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&amp;appId=PPGMS"></a><a href="https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&amp;appId=PPGMS">Policy Brief on Research Integrity</a> by the European Commission, the OECD’s <a href="https://www.oecd.org/science/inno/40188303.pdf"></a><a href="https://www.oecd.org/science/inno/40188303.pdf">Best Practices for Ensuring Scientific Integrity and Preventing Misconduct</a> and policies at your institution.</p>
+</div>
+<div id="research-with-human-subjects" class="section level2 hasAnchor" number="8.4">
+<h2><span class="header-section-number">8.4</span> <strong>Research with human subjects</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#research-with-human-subjects" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>If your research involves humans as research participants, it must firstly be approved by an independent review body. Research Ethics Committees or Institutional Review Boards provide you with helpful advice and will answer any questions or doubts you might have about your research. Basic guidelines are provided:</p>
+<p>●       In the [](<a href="https://en.wikipedia.org/wiki/Nuremberg_Code#" class="uri">https://en.wikipedia.org/wiki/Nuremberg_Code#</a>:<sub>:text=The%20Nuremberg%20Code%20(German%3A%20N%C3%BCrnberger,after%20the%20Second%20World%20War.)[Nuremberg Code](<a href="https://en.wikipedia.org/wiki/Nuremberg_Code#" class="uri">https://en.wikipedia.org/wiki/Nuremberg_Code#</a>:</sub>:text=The%20Nuremberg%20Code%20(German%3A%20N%C3%BCrnberger,after%20the%20Second%20World%20War.) (1947).</p>
+<p>●       By the <a href="https://www.coe.int/en/web/portal"></a><a href="https://www.coe.int/en/web/portal">Council of Europe</a> (CoE).</p>
+<p>●       In the <a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/#:~:text=1.,identifiable%20human%20material%20and%20data."></a><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/#:~:text=1.,identifiable%20human%20material%20and%20data.">Declaration of Helsinki</a> (1964).</p>
+<p>●       In the <a href="https://docs.google.com/document/u/0/d/1oUTVCqSzDajLWZAlSkFwHX8XZrolNDDayX1I3OtkzRs/edit"></a><a href="https://docs.google.com/document/u/0/d/1oUTVCqSzDajLWZAlSkFwHX8XZrolNDDayX1I3OtkzRs/edit">Convention for the Protection of Human Rights and Dignity of the Human Being</a> (1997).</p>
+<p>If your research involves human participants or if you are dealing with personal data, appropriate tools should be used and the attention to the data protection and privacy laws is of utmost importance. Researchers should:</p>
+<p>●       Have informed consent from participants.</p>
+<p>●       Ensure confidentiality by protecting participants’ anonymity.</p>
+<p>●       Avoid any practices considered to be deceptive.</p>
+<p>●       Ensure participants have the right to withdraw if required.</p>
+<p>To receive fully informed consent from human subjects is mandatory. Informed consent must be:</p>
+<p>●       <strong>Clear</strong> – To achieve this use plain language.</p>
+<p>●       <strong>Concise</strong> – Don’t overwhelm the potential participant with unnecessary information.</p>
+<p>●       <strong>Continuous</strong> – As the research progresses participants must confirm they wish to continue.</p>
+<p>Data protection law updates should be noted with regard to new collection, processing, storage, updating and enforcement methods. For example, the new EU General Data Protection Regulation (<a href="https://gdpr.eu/what-is-gdpr/">GDPR</a>). Different countries have different <a href="https://en.wikipedia.org/wiki/National_data_protection_authority"></a><a href="https://en.wikipedia.org/wiki/National_data_protection_authority">data protection authorities</a>, who provide guidance on their specific laws.</p>
+</div>
+<div id="research-with-animal-subjects" class="section level2 hasAnchor" number="8.5">
+<h2><span class="header-section-number">8.5</span> <strong>Research with animal subjects</strong><a href="open-science-policies-scientific-integrity-and-ethics.html#research-with-animal-subjects" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>As animals deserve respect but cannot argue for their own protection and rights, they must be protected if used in your research.</p>
+<p>Generally accepted guidelines (<a href="http://117.239.25.194:7000/jspui/bitstream/123456789/1342/1/PRILIMINERY%20%20AND%20%20CONTENTS.pdf">Russell &amp; Burch, 1959</a>) for research with animal subjects are:</p>
+<p>●       <strong>Replacement</strong> of use of animals with other alternatives wherever possible.</p>
+<p>●       <strong>Reduction</strong> in the numbers of animals used.</p>
+<p>●       <strong>Refinement</strong> of research techniques to reduce discomfort, distress or pain for the animals being studied.</p>
+<p>Legislation relevant to research on animals varies greatly between countries, even within the EU. Analogous to research with human participants, an independent committee oversees research with animals. Committees will have different names in different countries.</p>
+</div>
+</div>
+</div>
+<div id="test-your-understanding-7" class="section level2 hasAnchor" number="8.6">
+<h2><span class="header-section-number">8.6</span> Test your understanding<a href="open-science-policies-scientific-integrity-and-ethics.html#test-your-understanding-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-8?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">
+Loading…
+</iframe>
+<div class="activitybox">
+<div class="center">
+<p><strong>Activities!</strong></p>
+</div>
+<div class="notification">
+<p>In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.</p>
+</div>
+<p>● With all the online resources available today we have access to the work of other researchers, now more than ever. On the other hand, we also have many tools at hand to avoid plagiarism, even if unintentional. Check if your university offers a specific plagiarism checker or, alternatively, try Plagiarism Checker or Plagiarism Detector.</p>
+<p>● Are you wondering about the research misconduct investigation procedure? You can find more information on, or study the procedure for, the investigation of misconduct in research at the UK Research Integrity Office website or the UCD website.</p>
+<p>● Have a look at some articles that are around a decade old discussing research misconduct. Or have you noticed such an article recently? Do you think a lot has changed in the last 10 years?</p>
+<p>● Have you learned anything new or shocking? Can you imagine a situation when you could be under pressure to commit research misconduct or irresponsible research practices? Share your thoughts with others on our social media.</p>
+</div>
+
+</div>
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      <div id="disqus_thread"></div>
+  <div style="padding: 0 15px;" class="db dtc-ns">
+    <p>
+      If you’d like to connect with us or see what’s new, you can do so  by following us <a href="https://twitter.com/AgapeOpenSci" target="_blank">@AgapeOpenSci on Twitter</a> , 
+      <a href="https://www.instagram.com/Agape.Open.Science" target="_blank">@Agape.Open.Science on Instagram</a> or 
+       <a href="https://facebook.com/AgapeOpen-Science" target="_blank">@AgapeOpenSci on facebook</a> 
+      You can also contact the team through email too @ agape.open.science@gmail.com
+      <a href="mailto:agape.open.science@gmail.com">Click here to send us an email!!!</a>
+    </p>    
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agape-openscience.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="data-repositories-and-data-centres.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="communication-and-dissemination.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": true,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"],
+"instagram": true
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/sa1987/OpenDoorProject/edit/master/08-Chapter-8.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["Agape-OpenScienceIntroductoryCourse.pdf", "Agape-OpenScienceIntroductoryCourse.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection",
+"scroll_highlight": true,
+"css": "toc.css"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

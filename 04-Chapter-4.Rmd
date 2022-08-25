@@ -1,6 +1,81 @@
-# Research data lifecycle
+**Pros and cons**
+=================
 
-## Update: Alternative styles
+**Misconceptions about open science**
+-------------------------------------
+
+:::: {.mainfontFormat }
+
+
+_“Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?”_       
+
+                                                                                    [\[](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)[Watson, 2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)[\]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) 
+
+While the situation is improving, there are still many misconceptions about open science that give it a negative image. In 2014, a [](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378)[survey](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378) by the Nature Publishing Group and Palgrave Macmillan found that 40% of scientists that had not published open access said “I am concerned about the perceptions of the quality of open access publications”. Other misconceptions commonly cited include: “There is no peer review for open access publications”, “Open science leads to worse research” and “In open science, it is possible for others to steal your research”. We believe that such misconceptions arise from a lack of understanding of open science. Two motivations in creating this course are to demystify open science and challenge these misconceptions.
+
+Encouragingly, there is a positive trend in understanding open science and acceptance within the scientific community. In a 2015 follow-up [](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378)[survey](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378), only 27% of scientists expressed their concern with the perception of the quality of open-access publications compared to 40% in 2014.
+
+**Cons**
+--------
+
+While we have created this course because we believe in open science, there are currently some issues with open science that we feel obliged to discuss:
+
+●       **Concerns about quality –** While we will talk about the improvements that open science brings to the world of science later, there are some legitimate concerns. [](https://en.wikipedia.org/wiki/Preprint)[Preprints](https://en.wikipedia.org/wiki/Preprint) accelerate open science but make science accessible before the peer review process. The reader has to be more careful when reading and interpreting preprints. However, most manuscripts on preprint servers are considered to be final drafts of manuscripts that are/will soon be submitted to journals for peer review and processing and should therefore meet high quality standards. Similarly, [](https://en.wikipedia.org/wiki/Predatory_publishing)[predatory journals](https://en.wikipedia.org/wiki/Predatory_publishing) undermine the quality standards expected from scientific publishing. You, the scientist, need to be aware of the phenomenon and pay attention to identify predatory journals when reading or publishing (see [](https://beallslist.net/)[Beall’s List](https://beallslist.net/)).
+
+●       **Time- and effort-consuming –** Many open science practices are both time and effort-consuming. For example, after publishing open-source software, you might need to spend time on bug fixes and updates, or on interacting with potential users and updating your documentation, all at no further benefit to you. Properly annotating and publishing data sets takes a considerable amount of time. Sometimes, going the open science route can even be associated with additional financial costs, such as publishing under an open access licence. Sadly, there is no good way to sugar-coat this: participating in open science will take up some of your time. However, we will shortly discuss the incentives for spending your time (your most precious resource during your research journey).
+
+●       **Open science is not properly incentivised –** Currently, open science practices are not properly awarded and incentivised. The hard currency of high impact publications is still one of the most valuable aspects of your CV.  Devoting time and effort to open science aspects that do not contribute to this metric can seem like a waste of time. However, the situation is getting better. More and more funding agencies are beginning to require open science practices in their projects and additional metrics apart from the number of publications and citations are becoming increasingly popular. That said, currently open science practices are not as highly valued as generating more traditional research outputs such as journal articles.
+
+**Pros**
+--------
+
+On the other hand, there are also plenty of positive aspects of open science.
+
+●       **Individual benefits for your research –** There are collective benefits of open science that can also be useful for your research. As we have already established, practising open science requires a considerable effort from the individual for the benefit of the collective community. However, as part of the community, you can also access, and benefit from, the efforts of others. Maybe there is a piece of software that you can use because someone made it available open-source. Maybe there is an interesting dataset that is publicly available and relates to your research question. There are also many big collaborative resources that are produced under the umbrella of open science. Open science can produce opportunities for your research that “closed” science could not.
+
+●       **Investment in your career –** One of the trends in research we have already touched upon is that the general trend in the scientific community is towards adopting open science. A good example of this is open access publishing, which is increasingly required by research institutions and funding agencies. Similar trends can be seen with regards to data deposition or code sharing. Starting to incorporate these open science practices into your research as early as possible shows your ability to adhere to open science practices, which might give you an edge when applying for a position or funding. In addition, there are some more direct benefits to your research from open science. Open science, by definition, makes your research more accessible and visible. It has been shown that research articles published with an open access licence are on average cited more often ([Langham-Putrow](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129) [_et al._](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129)[, 2021](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129)). Other researchers can more easily engage with or try to reproduce your research or use and cite your data. While not all these achievements are captured by traditional metrics, they can be useful investments in your own career.
+
+●       **Open science aims to make science better –** One of the reasons there has been a move towards open science in recent years has been the [](https://en.wikipedia.org/wiki/Replication_crisis)[replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), in which it was found that the results of many scientific studies were not reproducible. One of the lessons learned from that was to move towards a more open, transparent and inclusive scientific environment. Open science was therefore designed to make science better. Full access to protocols, methods and analyses can make science more reproducible. Combating publication bias that exists in scientific literature by making data and negative results available can reduce the number of experiments necessary or even help to avoid pitfalls that others might have encountered before. It is well known that results of a treatment, drug or process that have a positive effect on the target group or issue tend to get published more than research that finds negative or no effects. This may be due to authors' motivation to publish but often it is due to journals and publishers being less willing to publish research that might not grab the reader's attention and therefore sell more copies. Pre-prints and open access publishing help to counteract this issue. Pre-prints can also help to accelerate science as well as improve manuscripts by open peer review. Here we can see the real-world impact of open science where both sides of the “scientific story” are shared and end users of treatments, drugs, etc. are better informed regarding the overall body of evidence and can make a more informed decision.
+
+**Conclusion**
+--------------
+
+After discussing the positive and [](https://www.pygaze.org/2016/03/the-downsides-of-open-science-that-nobody-talks-about/)[negative aspects](https://www.pygaze.org/2016/03/the-downsides-of-open-science-that-nobody-talks-about/) of open science, we think it is fair to come to the conclusion that currently open science practices benefit science and the community in general, granted the benefits to individual researchers may not be immediately visible and an investment of time and resources is required. However, we strongly believe that the scientific community as a whole will move towards an increasingly open science approach in the coming years and decades. While currently there might not be enough individual incentives, these will come. Maybe in some disciplines and countries faster than in others.
+
+Finally, hearing about all the best practices in open science can be intimidating. We think it is very important to point out that, while all these practices are important, we believe that it is best to figure out what is possible and appropriate for your work in particular and start implementing these practices bit by bit.
+
+
+
+::::
+
+
+
+## Test your understanding
+
+
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-4?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
+
+
+:::: {.activitybox }
+
+
+::: {.center }
+**Activities!**
+:::
+
+::: {.notification }
+In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
+:::
+
+●       Sort out your thoughts about open science by filling in the [](https://www.orion-openscience.eu/public/2019-01/ORION_Questionaire_RPFO-CRECIM.pdf)[ORION Questionnaire](https://www.orion-openscience.eu/public/2019-01/ORION_Questionaire_RPFO-CRECIM.pdf).
+
+●       Think about how much time and effort you feel confident to dedicate to open science.
+
+●       Have you come up with other pros and cons that you think are relevant and were not mentioned in this chapter or the ORION Questionnaire? Is there anything you would like to share with others? Feel free to do so on our social media.
+
+::::
+
+
 
 
 

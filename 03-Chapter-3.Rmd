@@ -1,89 +1,205 @@
-
-# Pros and cons
-
-### Coverted using word2md
-**Lorem ipsum**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac elit mattis, rutrum diam sit amet, pretium turpis. Aliquam id commodo mauris. Nam sagittis purus quis molestie auctor. Morbi hendrerit maximus nibh vitae pharetra. Integer id nisl a orci faucibus dapibus. Donec blandit bibendum nisl, at cursus ex tincidunt id. Suspendisse et nulla et dui pharetra ultrices. Fusce pulvinar quis justo vel posuere.
-
-Nullam finibus at urna ultricies porttitor. Proin a sapien vitae magna scelerisque efficitur et eu justo. Nunc eu tempus lorem. Sed metus nisl, condimentum vel ante nec, semper fringilla odio. Fusce blandit libero nec justo dignissim mattis. Integer id turpis ultricies, lacinia neque a, feugiat lorem. Sed at lorem eget eros vestibulum pellentesque. Integer vitae tortor ut urna auctor tincidunt. Vestibulum gravida condimentum enim non congue. Integer mollis augue vitae felis pretium luctus. Sed condimentum sagittis odio. Nunc a volutpat mi, eget eleifend neque. Sed sed lorem cursus, mollis libero nec, dapibus risus. Nullam volutpat elit non lectus dignissim, at tristique leo vulputate.
-
-**Lorem ipsum**
-
-Sed vestibulum hendrerit nisl at tempor. Sed mollis suscipit purus id vulputate. Nulla vulputate sollicitudin tortor sit amet sagittis. Phasellus interdum lectus a orci cursus, non ullamcorper velit dictum. Donec non pharetra dui. Pellentesque nec euismod nisl. Donec porta iaculis lectus sit amet scelerisque. Quisque at ipsum lacinia ante tincidunt vestibulum vitae in justo. Maecenas vel elit et leo finibus gravida suscipit vitae mi. Proin libero leo, dignissim id ante ut, sodales laoreet felis. Maecenas massa augue, rutrum nec luctus et, fermentum eu ligula.
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec pellentesque sagittis laoreet. Maecenas at quam neque. Etiam sed lorem a dolor tempus lacinia. Aenean eget nibh a erat pulvinar egestas et a odio. Aenean non auctor eros. Nulla a pharetra velit. Sed porta, orci quis aliquam fermentum, augue dui volutpat lacus, in faucibus elit massa nec dui. Nam posuere suscipit vehicula. Fusce et mauris ante. Cras lorem nisi, pretium at laoreet id, mattis non sem. Vivamus dapibus ultricies magna. Sed sed leo vitae est tincidunt pulvinar.
-
-**Lorem ipsum**
-
-Nullam dapibus, metus ut tempus molestie, erat eros dignissim est, quis dapibus dui diam eu dui. Aliquam vitae viverra felis, ut sodales nulla. Vestibulum ac lorem in justo mollis venenatis et ut leo. Nullam facilisis aliquam augue nec convallis. Aliquam ac ante interdum augue mollis aliquam. Integer sed convallis felis. Mauris placerat, purus at ullamcorper porta, enim mauris tristique mi, in feugiat justo nulla quis felis. Praesent hendrerit commodo ex, vitae eleifend ligula condimentum eget. Integer gravida ornare tortor malesuada tincidunt. Morbi non mauris at elit imperdiet dignissim in interdum ex. Mauris sed ligula pulvinar massa aliquam pellentesque vitae sit amet arcu. Morbi ultrices pulvinar laoreet. Aliquam eget nisl efficitur, molestie lorem non, vulputate elit. Sed faucibus enim et lectus tempor, et ullamcorper metus imperdiet. Sed id gravida ante, quis aliquet diam. Pellentesque id ipsum velit.
-
-Vestibulum faucibus justo a enim vehicula, id egestas mi mollis. Vivamus facilisis dui quis libero maximus, nec tempus ipsum interdum. Etiam nec justo pretium, molestie diam ac, iaculis enim. Sed aliquet neque id ex euismod, eget volutpat tortor pellentesque. Donec consequat luctus ante, vitae vestibulum ante. Integer suscipit iaculis mauris at ornare. Suspendisse vehicula eros nulla, ac ullamcorper dolor tristique quis. Nam consectetur faucibus finibus. Curabitur vel massa vel eros congue facilisis. Nullam elit ante, congue ultrices purus sed, bibendum sodales sapien. Donec luctus dolor ut porta varius. Aenean dapibus laoreet turpis, sed suscipit eros lobortis quis. Ut tristique, dui vitae aliquet semper, lectus velit volutpat magna, at aliquet mauris eros eu nunc. In non augue et tortor ultricies maximus. Nullam quis ex ut velit tempus mattis non id ante.
-
-|
-
-**Activities:**
-
-- Cras ut hendrerit risus. Suspendisse potenti.
-- Praesent at egestas lorem.
+# Open source, open licencing, scientific programming
 
 
-- Nunc gravida vestibulum orci, nec porta sapien mollis non.
 
-- Aliquam dapibus, erat sed fermentum consectetur, urna lacus ultricies libero, ut bibendum mauris quam eget metus.
+## Open-source
 
-- Phasellus neque sapien, scelerisque quis velit id, venenatis pellentesque risus.
-- Nam euismod faucibus euismod.
-- Mauris vitae vehicula magna, ut posuere tellus. Aliquam bibendum feugiat egestas. Aliquam pretium vitae tellus sed viverra. In hac habitasse platea dictumst. Sed quis pulvinar libero, et cursus diam. Mauris sollicitudin ultrices convallis.
+:::: {.mainfontFormat }
 
- |
-| --- |
 
-**Activities:**
+It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the[](https://opensource.org/osd)[Open Source Initiative](https://opensource.org/osd). Similarly,[](https://www.oshwa.org/definition/)[Open Source Hardware Association](https://www.oshwa.org/definition/) defines open-source hardware as “hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.”
 
-Donec nec lectus at nisi rhoncus condimentum.
+The main benefits and reasons for the adoption of open-source software and hardware ([Casson and Ryan, 2006](https://www.researchgate.net/publication/228296692_Open_Standards_Open_Source_Adoption_in_the_Public_Sector_and_Their_Relationship_to_Microsoft's_Market_Dominance)) can be categorised as follows:
 
-Nulla egestas scelerisque diam, id condimentum mi rutrum iaculis.
+●      Security
 
-Duis semper arcu ac sagittis placerat.
+●       Affordability
 
-Proin ut arcu id tortor luctus rhoncus id ut diam.
+●       Transparency
 
- <!-- ![Shape 2](RackMultipart20220730-1-eetbn1_html_1e4413993e4ef8cf.gif) -->
+●       Perpetuity
 
-**Activities:**
+●       Interoperability
 
-Donec nec lectus at nisi rhoncus condimentum.
+●       Flexibility
 
-Nulla egestas scelerisque diam, id condimentum mi rutrum iaculis.
+●      Localization
 
-Duis semper arcu ac sagittis placerat.
 
-Proin ut arcu id tortor luctus rhoncus id ut diam. Sed quis ultricies nulla. Nulla sit amet purus tempor, sagittis metus at, efficitur arcu. Pellentesque sodales mi metus, vel maximus tellus sodales quis. Quisque et malesuada justo.
+::::
 
- <!-- ![Shape 2](RackMultipart20220730-1-eetbn1_html_856c5b7695df4a19.gif) -->
 
-In a sem quis dolor pulvinar commodo.
 
-- Donec sem felis, sodales vel sem id, aliquam elementum nibh.
-- Curabitur vel dignissim elit. Sed at arcu eu odio facilisis tristique.
-- Curabitur purus est, maximus in felis luctus, consequat facilisis ex.
-- Sed vitae libero nec nunc euismod scelerisque ac vitae metus.
-- Pellentesque at enim pharetra, blandit dui sed, sodales nisi.
-- Praesent facilisis nunc orci, vitae feugiat velit consequat eget.
-- Phasellus pretium orci sed tempor interdum.
+## Open licensing
 
-- Nulla ac lectus nulla. In vitae ligula nulla.
-- Integer congue sapien id nibh semper fringilla.
-- Cras vel odio quis mauris cursus vehicula.
 
-- Curabitur in tortor et lacus scelerisque finibus.
-- Sed consequat sem id mi consectetur, accumsan viverra ex fringilla.
+:::: {.mainfontFormat }
 
-Sed in bibendum libero. Maecenas porttitor arcu nec elit congue, et ornare mauris dapibus. Nunc volutpat lectus a metus eleifend, ac consectetur felis condimentum. Quisque eleifend mauris vestibulum nunc pretium, at auctor enim feugiat. Integer efficitur sed risus eu mollis. Curabitur dapibus sodales magna, eget hendrerit quam mattis id. Donec nunc ipsum, condimentum ac tristique a, interdum eu quam. Vestibulum vestibulum nulla ac justo convallis, laoreet semper nulla malesuada. Aliquam nisl mi, luctus id porta at, varius vel quam. Cras suscipit pulvinar magna. Donec sit amet porta velit. Mauris rutrum feugiat vestibulum. Vivamus vitae dolor lobortis, gravida mi eu, imperdiet orci.
 
-Praesent gravida magna eget est placerat, quis pharetra velit mollis. Praesent in convallis mi. Cras dignissim posuere sem, sed facilisis ipsum venenatis id. Morbi eu lectus magna. Nullam ultricies sodales arcu at faucibus. Maecenas eu ultricies libero. Nunc quis libero dolor.
+Even when your data, software or hardware design are made freely available in the public domain, an explicit licence would provide legal clarity on the access and re-use of it. You can licence the data only if you are the rightful owner. Licensing helps to:
 
-Nunc imperdiet faucibus laoreet. Vivamus malesuada ligula vel metus pharetra, eget ornare ligula cursus. Proin id maximus justo. Fusce non consequat velit. Pellentesque luctus lacus vitae massa ultricies, ac euismod lectus condimentum. Quisque fermentum rhoncus erat imperdiet mattis. Sed eget ante ut mi tempus ultrices. Sed porttitor ipsum a dapibus vehicula. Curabitur orci leo, sagittis et orci sit amet, scelerisque iaculis libero.
+●       Remove the ambiguity on the re-use of data
 
-Mauris vitae nisi rutrum, interdum nulla sed, euismod leo. Etiam ut tortor semper ligula consectetur pulvinar. Mauris nibh tortor, vestibulum non gravida et, scelerisque in tellus. Nam sed sollicitudin massa, id vestibulum orci. Nunc faucibus, sapien et gravida sollicitudin, purus turpis sollicitudin ante, vitae gravida nibh erat at turpis. Aenean condimentum vulputate maximus. Integer ex eros, venenatis sed sodales non, ultrices vel purus.
+●       Exempt users from copyright infringement
+
+●       Ensure that the source author is credited rightfully
+
+●       Ensure that the re-used or re-distributed data remain open access
+
+●       Ensure that data is not misused or distorted
+
+**How to choose a licence**
+
+1\. Ensure that the data is copyrightable. This may vary across domains, jurisdictions, funders, etc.
+
+2\. Check the licensing obligation of the funder(s), institution(s), government, data centre or repository.
+
+3\. If your work is a derivative of a third-party author, ensure to comply with the source data’s licensing requirements.
+
+4\. Select the data licence with the conditions that meet your criteria and that covers the content that you want to share.
+
+The most common conditions found in data licences are:
+
+* **Attribution** (BY): The source/author must be acknowledged when it is distributed, displayed, performed or used to derive a new work. If you are using data from multiple sources, each contributor needs to be acknowledged.
+* **Copyleft** or** share alike** (SA): Any new work derived from the licensed data should be released under the same licence of the source data.
+* **Non-commercial**: This type of licence prevents the user from using the data for commercial purposes.
+
+**Licence providers**
+
+**Prepared licence**: Research Institutions or other data publishers can create licences. For example, the[](https://www.data-archive.ac.uk/d/1QbEbEi0v_mnprVG2sfFdzJ-vYVqv4GijnIadOWkrbFE/edit)[UK Data Archive](https://www.data-archive.ac.uk/d/1QbEbEi0v_mnprVG2sfFdzJ-vYVqv4GijnIadOWkrbFE/edit) requires that you sign a standard licence agreement that clarifies the rights and responsibilities of both parties and permits the UK Data Archive to perform its curatorial function.
+
+**Bespoke licence**: If the existing licences don't meet the author’s requirement or cater to special circumstances, they can make their own licence. In this scenario, it is mandatory to ensure that the custom licence complies with any existing legal bindings.
+
+[**Creative Commons**](https://creativecommons.org/): One of the most popular and widely accepted licence providers for most content with the exception of source code. Three versions (CCO, CC-BY, CC-BY-SA) of it are intended for open licensing.[](https://choosealicense.com/licenses/)[Choose a licence](https://choosealicense.com/licenses/) by[GitHub](https://github.com/) provides a list of licences that are specific to software codes.
+
+[**Open data commons**](https://opendatacommons.org/): Similar to Creative Commons, but these licences are specifically designed for databases.
+
+Scientific programming
+----------------------
+
+**Documenting your code**
+
+To make your research open, i.e. transparent and reproducible, it is good practice to share not only your data but also the code used for the analysis, modelling, visualisation, etc. This code is then known as open-source research software. When sharing your code or software, it’s good practice to also include documentation explaining how to use your code. So why do you need to prepare this documentation?
+
+Benefits for you:
+
+●       In six months’ time or whenever you choose to work on it, you'll still be able to use your code.
+
+●       You want people to credit you when they use your code.
+
+●       You want to learn how to be self-reliant
+
+●       You may attract others to contribute to your code.
+
+Benefits for others:
+
+●       Others can simply utilise and extend your code.
+
+Benefits for science:
+
+●       You are contributing to science.
+
+●       You are promoting open science.
+
+●       Documentation allows for clarity and reproducibility.
+
+Here are **best practices** for writing documentation:
+
+1.  Provide a README file with the following information:
+
+○       A quick overview of the project
+
+○       Instructions for installation
+
+○       A brief example/tutorial
+
+1.  Allow others to use the problem tracker.
+2.  Create application programming interface (API) documentation.
+3.  Write down your code.
+4.  Use coding conventions, including file structure, comments, naming conventions, programming methods, etc.
+5.  Include an introduction for contributors.
+6.  Provide citation information.
+7.  Include any licensing information.
+8.  Include a link to your email address.
+9.  List all the file versions and the fundamental changes you made.
+
+A helpful hint: When naming files, make sure they are descriptive and consistent!
+
+**Importance of scientific programming**
+
+There are multiple ways in which scientists and researchers can benefit from scientific programming. Scientific programming significance includes a wide range of abilities without focusing on any particular field. Generally, scientific programming can facilitate the following:
+
+● **Time-consuming tasks can be automated –**Automating tasks using scientific programming can simplify long-term tasks or those that are impossible to do by hand. Imagine, for example, that you want to figure out how many tweets were posted about a recent natural disaster and you have to sift through tens of thousands of feeds one by one. A few minutes might be enough to complete this task with code.
+
+● **Creating adaptable research – **You can modify and rerun your code repeatedly if you write it correctly. Consider you are researching the relationship between socioeconomic data and air pollution in a particular location. Using a properly structured and well-commented script, updating each year's socioeconomic data can be easily incorporated.
+
+● **Help to publicise the research and share the findings with other researchers –**Because code is so easily accessible, research becomes moreopen and repeatable. It helps the researcher to convey their specific methodology to other experts as well as the community.
+
+● **Documenting your thinking –** You can quickly document your strategy with code. You may use comments to describe each stage of the process (to your future self or others), making it quick and easy to update or adjust things afterwards.
+
+● **Research collaboration –** Collaboration is facilitated by the use of code. Returning to the previous example, if you are researching air pollution in a particular location and a colleague is researching air pollution in another location, you may compare models, swap scripts and collaborate.
+
+The above five features of scientific programming assist the researcher significantly in various ways and are considered key tools to nudge research forward. The significance can be simply identified by the speed of conducting the research through a high level of computation and, most importantly, the collaboration and the modifications that may apply. Scientific programming has been, and continues to be, ground-breaking. From assisting biologists in sequencing the human genome to allowing social scientists to make better economic forecasts the applications are limitless.
+
+**What exactly is scientific programming?**
+
+There is a simple definition of scientific programming, yet it covers a vast array of applications and industries. Using a computer-aided program for scientific research is referred to as science programming. Scientific programming can be useful for most scientists and researchers, especially PhD researchers. The rate and reproducibility of a researcher's work can be exponentially increased using scientific programming. Computers, designed for efficiency and scale, can perform massive calculations, store data and analyse results. By automating processes, scientists are able to save time and effort and make research more accurate, reliable and efficient.
+
+It is essential to note that computers are error-free when it comes to mathematical processes. Occasionally, mistakes can happen, but these mistakes usually occur because people make errors when using computers. Computers follow directions, so if a calculation goes wrong, the computer will not understand it independently. However, a computer can do calculations within minutes that would take researchers months or even years to perform. Furthermore, the code will execute the calculations consistently for each run.
+
+**Respond to disasters: an example of the power of scientific programming**
+
+In addition to its many advantages, scientific programming can accomplish a great deal of work that would be impossible for one person or even a team of people to complete without it. Lise St. Denis's research on climate change at Earth Lab demonstrates that power clearly. Lise uses[](https://twitter.com/lastdenis)[Twitter](https://twitter.com/lastdenis) to notify first responders about emergency situations that result from natural disasters as they develop or progress. Without this technology vital time sensitive information may be missed.
+
+In the event of a disaster, the police are contacted alongside emergency services. Disaster survivors also reach out to their online communities, sometimes providing vital information. The call volume of hotlines during disasters can be overwhelming for authorities and the only way for people to communicate may be through social media. Thus, sites like Twitter can be a great source of information for disaster response teams. However, the volume of tweets makes it difficult for one person (or team) to vet all the information and still get it to emergency response teams in time. Lise St. Denis witnessed this through her extensive experience of natural disasters. For instance, during the Carlton complex fire of 2014, she worked on a team that was tasked to sort tweets and compile a full report. Although Lise's team provided useful information, it was unable to keep up with the volume of tweets and responders needed the information faster than the team was able to provide it. For Lise, the answer was obvious, they needed to deploy the superpowers of scientific computing.
+
+Since the beginning of 2013, Lise had been developing a filtration algorithm to harvest data from Twitter and sort it by importance. Using this code, one person can automate the work of a whole team of humans by analysing and categorising every single tweet as they arrive. As a result of the algorithm, tweets are separated into those which first responders need to know about and those which the algorithm deems as less important. One of scientific programming's capabilities is the ability to “look” at enormous amounts of rapidly generated data and categorise it.
+
+**The future of scientific programming**
+
+Because there are so many fascinating possibilities, it is difficult to pick one field of scientific programming that is remarkably promising. Almost every discipline of study has a programming tool that could be considered as the “future of programming” and it would be difficult to discuss and list them all.
+
+Modelling is a promising development that serves multiple professions. For decades, models have served as the foundation of science. There are a wide range of examples of using modelling techniques in science, ranging from Earth science (predicting wildfires) to medicine (analysing illnesses). No model is perfect. Thus, there is continuous development in the pursuit of better, more precise models with complete algorithms producing reliable results.
+
+In today's data-driven world, the term science is closely linked with scientific programming. Problems that have baffled scientists for decades are addressed in a matter of seconds by leveraging the power of large computers. The rise in efficiency and speed has completely transformed most sectors of modern science. Without question, scientific programming is our way forward. To be part of this movement, you can share your code with others and always appropriately cite the open source you use.
+
+
+
+::::
+
+
+
+## Test your understanding
+
+
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-3?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
+
+
+:::: {.activitybox }
+
+
+::: {.center }
+**Activities!**
+:::
+
+::: {.notification }
+In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
+:::
+
+●       Learn more about open-source software and hardware on [](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-research-software-and-open-source)[Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-research-software-and-open-source) or try to work on a [](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)[DIY open-source hardware project](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects).
+
+●       Have you ever checked licences on the types of software you are using? Now is the time to do that. Is the software you are using open-source software?
+
+●       Working on your research project can be exhausting at times. Why don’t you try relaxing and practice open-source software skills by playing some of the following games? Play and learn!
+
+○       [](https://codecombat.com/)[CodeCombat](https://codecombat.com/): These games take you step by step through ideas, starting with basic computer science and gradually increasing in difficulty.
+
+○       [](https://www.codingame.com/start)[CodinGame](https://www.codingame.com/start): When you have a better grasp, this game is about solving challenges in specific languages.
+
+○       [](https://www.codewars.com/)[CodeWars](https://www.codewars.com/): Get right into programming challenges and experience debugging your code.
+
+●       Have you ever shared your code, worked on an open-source hardware project or do you have any other experience related to this chapter? Share it with others on our social media.
+
+::::
+
+
