@@ -45,8 +45,12 @@ The FAIR principles also bring great benefits to the research community and ther
 
 ●       Facilitate transparency and accountability.
 
+::::
+
 **Key concepts to start with if you want to FAIRify your data**
 ---------------------------------------------------------------
+
+:::: {.mainfontFormat }
 
 **PID (persistent identifier)**
 
@@ -82,8 +86,13 @@ Metadata are not set out from the beginning and forgotten about. Instead, they a
 
 Metadata can help you to play better with the FAIR principles, because metadata are machine-readable and, especially when they have a PID, search engines can easily find them.
 
+
+::::
+
 **Let’s FAIR up!**
 ------------------
+
+:::: {.mainfontFormat }
 
 **The principles**
 

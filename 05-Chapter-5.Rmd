@@ -56,8 +56,12 @@ Next, we can divide data into primary and secondary. **Primary data** are collec
 
 Other types of data exist that are not commonly shared because of the nature of the records themselves or because of ethical and privacy concerns. E.g., preliminary analysis results, drafts of scientific papers, peer reviews, communication with colleagues or stakeholders. Research data also does not include trade secrets, commercial information, materials necessary to be held confidential by a researcher until data are published or similar information which is protected under law. Personal and medical information that could be used to identify a particular person or culturally sensitive data are special types of data that come under specific legislation. In the EU the relevant regulation is the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/)).
 
+:::: 
+
 **Research data lifecycle**
 ---------------------------
+
+:::: {.mainfontFormat }
 
 When working on your research, you are very much focused on your project carrying out the necessary practical tasks. The challenge is to also think about data management. It is in your best interest due to the long-term value of data you might be generating. You want to make sure that at the end of your research not only your data, but also metadata and documentation are complete, preserved and made accessible so that other people can use it and that you get credit for all the hard work you put into collecting or generating that data.
 
@@ -77,8 +81,12 @@ Data management is the practice of collecting, preserving and sharing research d
 
 1.  **Re-using data** **–** For your research, you can use secondary data collected and made accessible by other researchers. Similarly, your primary data can be used as secondary data. It can be used by other researchers or by you to conduct secondary analysis or follow-up research, by policymakers to inform evidence-based policymaking or used by the scientific community in communication and engagement with the general public, industry, private sector and media.
 
+::::
+
 **Data management plan**
 ------------------------
+
+:::: {.mainfontFormat }
 
 Developing a data management plan (DMP) can be invaluable to your research by ensuring efficient research data management and sharing. A DMP is a document that outlines how data are handled throughout the entire research process and once it is completed. It should consider all aspects of the research data lifecycle. A DMP should be produced before you start working on your research project and you should continually update and edit it when needed. A DMP is not a static but living document. It is okay if you can't answer all the questions at the beginning. Although it requires time to create your DMP and to keep it updated, in the long-term it saves a lot of time and effort. Also, public funding bodies often require at least an outline of a DMP. It is good to know that requirements for a DMP differ between various institutions and funding bodies. In general, it may provide information to answer the following questions:
 
@@ -96,8 +104,12 @@ Developing a data management plan (DMP) can be invaluable to your research by en
 
 Although not addressed in a DMP, other types of documents and records should be managed during and beyond the life of a project. E.g., correspondence (e-mail and paper-based), project files, grant and ethics applications and approvals, signed consent forms, research reports, technical reports, project reports and files and master lists.
 
+::::
+
 **Data access**
 ---------------
+
+:::: {.mainfontFormat }
 
 Data can be stored in data centres or repositories. Sometimes, your university or institution might require you to store your data in its repositories. Make sure to familiarise yourself with policies and requirements when planning your research. You can learn more about Data centres and repositories in the chapter “Data repositories and data centres”.
 
@@ -117,8 +129,12 @@ Not all data uploaded into data centres or repositories are necessarily accessib
 
 To access data, various types of user agreements exist. The most common type is an open content licence, such as a Creative Commons (CC) or general public licence. You can learn more about different types of licences in the chapter “Open-source, open licensing, scientific programming”.
 
+::::
+
 **What exactly is open research data?**
 ---------------------------------------
+
+:::: {.mainfontFormat }
 
 According to the [](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en)[European Commission](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en), “open research data refers to data underpinning scientific research results that has no restrictions on its access, enabling anyone to access it.”
 

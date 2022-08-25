@@ -31,8 +31,13 @@ The most common factors addressed by policymakers to increase effectiveness are:
 
 You can learn more about storing public data in the chapter “Data repositories and data centres”, about open access publishing in the chapter “Open data and open access” and about data licensing in the chapter “Open-source, open licensing, scientific programming”.
 
+:::: 
+
 **Scientific integrity and ethics**
 -----------------------------------
+
+
+:::: {.mainfontFormat }
 
 In order to maintain the integrity, value and benefits of open science research there is a need to adhere to ethical principles across disciplines which include societal issues such as non-discrimination, privacy and confidentiality as well as professional conduct. Due to variations of these across countries, [](https://www.rand.org/)[local laws and cultural norms](https://www.rand.org/) must be considered and adhered to. It is useful to consider that these [](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)[principles](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) could evolve due to factors which include historical events, scientific advancements and behavioural norm changes.
 
@@ -78,15 +83,24 @@ Professional responsibilities:
 
 ●       **Societal considerations –** Researchers and research institutions should recognize that they have an ethical obligation to weigh societal benefits against risks inherent in their work.
 
+:::: 
+
+
 **Research misconduct**
 -----------------------
+
+:::: {.mainfontFormat }
 
 Violation of research conduct or research ethics when proposing, performing or reviewing research or reporting research results is known as research misconduct. Under the umbrella of [](https://en.wikipedia.org/wiki/Scientific_misconduct)[research misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct), we can find fabrication, falsification and plagiarism. Other irresponsible research practices that can undermine the trustworthiness of research but that are seen as having less impact on the research process are often referred to as questionable research practices. Their definition and categorisation are country-dependent. According to the European Commission’s [](https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf)[Report on Responsible Open Science](https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf) in addition to upholding high quality research through transparent and reproducible results, there is also a need to deal with challenges which result from malpractices such as fake science, biassed assessment and predatory journals.
 
 To keep the research code of conduct up to date and in line with emerging changes it is frequently reviewed. Mechanisms to conduct ethical research have been established, including the peer review process, policy governance structures and education and training of researchers. No one is implying that you would intentionally commit research misconduct. However, it is good to know what to watch out for. A good place to start reading about it is the [](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&appId=PPGMS)[Policy Brief on Research Integrity](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&appId=PPGMS) by the European Commission, the OECD’s [](https://www.oecd.org/science/inno/40188303.pdf)[Best Practices for Ensuring Scientific Integrity and Preventing Misconduct](https://www.oecd.org/science/inno/40188303.pdf) and policies at your institution.
 
+:::: 
+
 **Research with human subjects**
 --------------------------------
+
+:::: {.mainfontFormat }
 
 If your research involves humans as research participants, it must firstly be approved by an independent review body. Research Ethics Committees or Institutional Review Boards provide you with helpful advice and will answer any questions or doubts you might have about your research. Basic guidelines are provided:
 
@@ -118,8 +132,12 @@ To receive fully informed consent from human subjects is mandatory. Informed con
 
 Data protection law updates should be noted with regard to new collection, processing, storage, updating and enforcement methods. For example, the new EU General Data Protection Regulation ([GDPR](https://gdpr.eu/what-is-gdpr/)). Different countries have different [](https://en.wikipedia.org/wiki/National_data_protection_authority)[data protection authorities](https://en.wikipedia.org/wiki/National_data_protection_authority), who provide guidance on their specific laws.
 
+:::: 
+
 **Research with animal subjects**
 ---------------------------------
+
+:::: {.mainfontFormat }
 
 As animals deserve respect but cannot argue for their own protection and rights, they must be protected if used in your research.
 

@@ -8,8 +8,13 @@
 
 Long-term preservation and sharing of data are a part of the data lifecycle and should be a part of your data management plan that you learned about in the “Research data” chapter. What’s more, it can be one of the requirements of receiving funding. Therefore, storing research data of long-term value in data repositories or data centres should be an important part of your planning process.
 
+::::
+
 **Data repositories**
 ---------------------
+
+:::: {.mainfontFormat }
+
 
 A data repository is a set of data that has been isolated for the purpose of data reporting and analysis. The [](http://digitalguardian.com/blog/what-data-repository)[data repository](http://digitalguardian.com/blog/what-data-repository) is a multi-database infrastructure that collects, manages and stores data sets for data analysis, sharing and reporting. Grouping data together enables easier and faster data analysis and using data repositories is a part of data management. Data can also be stored and archived in data repositories.
 
@@ -35,8 +40,13 @@ The [](https://www.re3data.org/)[Re3data](https://www.re3data.org/) registry o
 
 Some examples of popular data repositories for storing research data are [figshare](https://figshare.com/), [Mendeley Data](https://data.mendeley.com/), [Dryad](https://datadryad.org/stash), [Zenodo](https://datadryad.org/stash) and [Open Science Framework](https://osf.io/).
 
+
+::::
+
 **Data centres**
 ----------------
+
+:::: {.mainfontFormat }
 
 While a data repository is a type of data library or data archive, a data centre also provides data asset management and services for the entire organisation through a series of platforms, tools, processes and specifications. A data centre refers to a location where data and applications are stored. Data centres make deposited data available to other scientists, commercial enterprises, government bodies, educational institutions and the general public. The architecture of a data centre is built on a network of computer and storage resources that allow shared applications and data to be transmitted. Data centres’ architecture and functionalities have been greatly improved over time. The traditional on-premises physical server with virtual networks that support applications and workloads across groups of physical infrastructure has evolved into a multi-cloud system. As a result, data is now available and networked over numerous data centres, the edge and public and private clouds. Over time, data centres have increased their capacity to communicate with different locations both on-premises and in the cloud.
 

@@ -15,8 +15,13 @@ While the situation is improving, there are still many misconceptions about open
 
 Encouragingly, there is a positive trend in understanding open science and acceptance within the scientific community. In a 2015 follow-up [](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378)[survey](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378), only 27% of scientists expressed their concern with the perception of the quality of open-access publications compared to 40% in 2014.
 
+:::: 
+
 **Cons**
 --------
+
+
+:::: {.mainfontFormat }
 
 While we have created this course because we believe in open science, there are currently some issues with open science that we feel obliged to discuss:
 
@@ -26,8 +31,12 @@ While we have created this course because we believe in open science, there are 
 
 ●       **Open science is not properly incentivised –** Currently, open science practices are not properly awarded and incentivised. The hard currency of high impact publications is still one of the most valuable aspects of your CV.  Devoting time and effort to open science aspects that do not contribute to this metric can seem like a waste of time. However, the situation is getting better. More and more funding agencies are beginning to require open science practices in their projects and additional metrics apart from the number of publications and citations are becoming increasingly popular. That said, currently open science practices are not as highly valued as generating more traditional research outputs such as journal articles.
 
+:::: 
+
 **Pros**
 --------
+
+:::: {.mainfontFormat }
 
 On the other hand, there are also plenty of positive aspects of open science.
 
@@ -37,8 +46,12 @@ On the other hand, there are also plenty of positive aspects of open science.
 
 ●       **Open science aims to make science better –** One of the reasons there has been a move towards open science in recent years has been the [](https://en.wikipedia.org/wiki/Replication_crisis)[replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), in which it was found that the results of many scientific studies were not reproducible. One of the lessons learned from that was to move towards a more open, transparent and inclusive scientific environment. Open science was therefore designed to make science better. Full access to protocols, methods and analyses can make science more reproducible. Combating publication bias that exists in scientific literature by making data and negative results available can reduce the number of experiments necessary or even help to avoid pitfalls that others might have encountered before. It is well known that results of a treatment, drug or process that have a positive effect on the target group or issue tend to get published more than research that finds negative or no effects. This may be due to authors' motivation to publish but often it is due to journals and publishers being less willing to publish research that might not grab the reader's attention and therefore sell more copies. Pre-prints and open access publishing help to counteract this issue. Pre-prints can also help to accelerate science as well as improve manuscripts by open peer review. Here we can see the real-world impact of open science where both sides of the “scientific story” are shared and end users of treatments, drugs, etc. are better informed regarding the overall body of evidence and can make a more informed decision.
 
+:::: 
+
 **Conclusion**
 --------------
+
+:::: {.mainfontFormat }
 
 After discussing the positive and [](https://www.pygaze.org/2016/03/the-downsides-of-open-science-that-nobody-talks-about/)[negative aspects](https://www.pygaze.org/2016/03/the-downsides-of-open-science-that-nobody-talks-about/) of open science, we think it is fair to come to the conclusion that currently open science practices benefit science and the community in general, granted the benefits to individual researchers may not be immediately visible and an investment of time and resources is required. However, we strongly believe that the scientific community as a whole will move towards an increasingly open science approach in the coming years and decades. While currently there might not be enough individual incentives, these will come. Maybe in some disciplines and countries faster than in others.
 

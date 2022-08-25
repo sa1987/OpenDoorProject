@@ -1,9 +1,6 @@
 open-science
 what-is-open-science
-open-science-open-research-open-scholarship
 the-history-of-open-science
-th-to-20th-century-the-emergence-of-contemporary-science
-modern-science-and-the-fight-for-openness
 test-your-understanding
 open-data-and-open-access
 definitions-and-history

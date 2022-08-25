@@ -1,8 +1,9 @@
-# Open source, open licencing, scientific programming
+**Open source, open licencing, scientific programming**
+=======================================================
 
 
-
-## Open-source
+**Open-source**
+-----------
 
 :::: {.mainfontFormat }
 
@@ -30,8 +31,8 @@ The main benefits and reasons for the adoption of open-source software and hardw
 
 
 
-## Open licensing
-
+**Open licensing**
+--------------
 
 :::: {.mainfontFormat }
 
@@ -74,8 +75,14 @@ The most common conditions found in data licences are:
 
 [**Open data commons**](https://opendatacommons.org/): Similar to Creative Commons, but these licences are specifically designed for databases.
 
-Scientific programming
+
+::::
+
+**Scientific programming**
 ----------------------
+
+
+:::: {.mainfontFormat }
 
 **Documenting your code**
 

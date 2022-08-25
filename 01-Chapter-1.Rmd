@@ -9,16 +9,23 @@ Let’s start at the beginning.
 Open science comprises several themes from conception to dissemination of knowledge. Based on principles of scientific growth and public access, open science includes practices such as open publishing and campaigning for open access, with the ultimate aim of making it easier to publish and share scientific knowledge.
 
 
-## What is open science?
+::::
 
+**What is open science?**
+-------------------------
+
+
+:::: {.mainfontFormat }
 
 Open science refers to a vision to improve scientific practices for reproducibility, transparency, sharing and collaboration of knowledge. Multiple pathways to achieving this vision have developed since the concept emerged in 1985 ([Chubin, 1985](https://journals.sagepub.com/doi/10.1177/016224398501000211)).
 
 As part of the global open science community, we expand the term “science” beyond its common use, such as life sciences or engineering, to include the arts, humanities and any other scholarly activities. Open science, open research and open scholarship are often used interchangeably. For consistency and ease of understanding, we use open science in this course.
 
+:::: 
 
-## Open science = open research = open scholarship
+**Open science = open research = open scholarship**
 
+:::: {.mainfontFormat }
 
 Generally, the open science movement identifies increased openness of scientific content, tools and processes as the key means of action. However, a single definition cannot encompass the diversity of the open science movement. Therefore, we give some alternative definitions of the phrase **open science** throughout this chapter.
 
@@ -48,16 +55,21 @@ Many other definitions of open science can be found online or within written rec
 
 ●       Sustainability
 
-## The history of open science
 
+:::: 
+
+**The history of open science**
+-------------------------------
+:::: {.mainfontFormat }
 
 Previously, we mentioned the vision and principles the open science movement shares. To better understand the implications opening science might have, it is useful to appreciate how the contemporary values and principles of both science and open science came to be. As Watson ([2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)) suggests, science is easily perceived as already “open”, as already belonging to everyone. However, contemporary science is much more recent than one may think and its organisation has greatly transformed over the last 500 years. Even the current dominant practices of science are not immutable and they are likely to continue to change again in the future, evolving within the broader context of society.
 
+:::: 
+
+**17th to 20th century: The emergence of contemporary science**
 
 
-## 17th to 20th century: The emergence of contemporary science
-
-
+:::: {.mainfontFormat }
 
 _“For in the sciences the authority of thousands of opinions is not worth as much as one tiny spark of reason in an individual man.”_ \[Galileo Galilei, ca. 1597\]
 
@@ -76,11 +88,11 @@ The first recognized formal review practice was implemented by the British Royal
 
 On the other hand, private publishers would only introduce formal review practices in the 20th century and the journal editor(s) were the sole judge of acceptance or rejection of a submission. These trivial selection practices allowed for a fast research-to-publication cycle, making private journals appealing for swift communication between scientists. At this stage, societies’ journals gradually hosted fewer and more refined publications, while private journals were the preferred communication channel between scientists.
 
+:::: 
 
+**Modern science and the fight for openness**
 
-## Modern science and the fight for openness
-
-
+:::: {.mainfontFormat }
 
 As submissions grew in volume, private journals started to implement review practices in the second half of the 20th century, gradually bringing us to the current state of research practices. However, with private publishers flourishing, new economic and structural barriers to scientific knowledge arose. For example, nowadays a yearly subscription to a scientific journal can cost between 3,000 and 7,000 USD ([Bosch](https://www.libraryjournal.com/story/Are-We-There-Yet-Periodicals-Price-Survey-2022) [_et al_](https://www.libraryjournal.com/story/Are-We-There-Yet-Periodicals-Price-Survey-2022)[., 2022](https://www.libraryjournal.com/story/Are-We-There-Yet-Periodicals-Price-Survey-2022)) compared with much more affordable mainstream media subscriptions. For example, the New York Times offers a yearly subscription for 20 USD.
 

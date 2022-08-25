@@ -8,8 +8,12 @@
 
 Now that you have gathered a background to open science, you are probably wondering what you should do next? Where do you even begin? As researchers, we are often encouraged to focus on academic communication such as journal articles and conference presentations. While this is the goal, there are so many other ways in which you can share your research, even before you get to the point of sharing your results. We are taught to use a language style that is often inaccessible to the majority. This chapter is going to take you through how open publications work, while also opening your eyes to other methods of communicating and disseminating your research in a more open and accessible way.
 
+:::: 
+
 **What exactly is scientific communication?**
 ---------------------------------------------
+
+:::: {.mainfontFormat }
 
 We often hear the terms dissemination and communication, but what do these terms mean? Wilson _et al._ ([2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2994786/)) defined dissemination as “a planned process that involves consideration of target audiences and the settings in which research findings are to be received and, where appropriate, communicating and interacting with wider policy and health service audiences in ways that will facilitate research uptake in decision-making processes and practice.”
 
@@ -19,8 +23,12 @@ So, when we talk about **dissemination**, we are talking about the targeted acti
 
 For more information on the differences between dissemination and communication practices check out [](https://projects.leitat.org/communication-vs-dissemination-whats-the-difference/)[LeitaT Project’s blog](https://projects.leitat.org/communication-vs-dissemination-whats-the-difference/) post.
 
+:::: 
+
 **Open science publishing**
 ---------------------------
+
+:::: {.mainfontFormat }
 
 While dissemination activities are often targeted, there are some publishing routes you can take to make your scientific publications more open. Publishing in open science allows you to share your full research journey, from conception of the idea and the research protocol to the results and impact of your research. The next few paragraphs will take you through different ways of disseminating your research through publications.
 
@@ -44,8 +52,12 @@ Article Processing Charges – Much like publishing articles in the traditional
 
 You can also learn about types of open access publishing in the chapter “Open data and open access”.
 
+:::: 
+
 **How to communicate your research**
 ------------------------------------
+
+:::: {.mainfontFormat }
 
 Now let’s focus on how to communicate your research with the public. There are a few easy methods of doing it and making it accessible to the general reader. When using these methods, remember to avoid all jargon and statistics. The focus here is on what the results of your research mean and how they can be used.
 
@@ -81,8 +93,12 @@ Some relevant examples of podcast series which bring in multiple guests to share
 
 One final activity that encourages public engagement is public-facing events. These may be pre-existing events hosted in the community where you give a talk about your research or maybe an evening organised by your research group to showcase the work you are doing and the impact it may have on the local community. These public-facing activities don’t need to be large or difficult to organise, it could be as simple as giving a talk in a local school or joining an already established event in an even more relaxed environment like a pub. Yes, the local bar. Check out the [Pint of Science](https://pintofscience.com/) website to see where your local event is and to sign up. Simple activities like these help you to gain more confidence and become a well-rounded science communicator.
 
+:::: 
+
 **Accessibility**
 -----------------
+
+:::: {.mainfontFormat }
 
 We have spoken about making your research more accessible to the general public through lay language, but let’s not forget making your research more accessible to those with accessibility issues. This is something of particular interest when we speak about communication. When creating social media posts there are a few considerations dependent on the mode of media you choose:
 

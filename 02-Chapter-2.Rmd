@@ -6,8 +6,12 @@
 
 Now, let’s have a look at open data and open access. What exactly is it? 
 
+::::
+
 **Definitions and history**
 ---------------------------
+
+:::: {.mainfontFormat }
 
 “Open data refers to data access and sharing arrangements, where data can be accessed and shared \[…\] and reused by anyone without technical or legal restrictions, free of charge (to the greatest extent possible) and used by anyone for any purpose subject, at most, to requirements that preserve integrity, provenance, attribution, and openness” ([OECD, 2015](https://www.oecd-ilibrary.org/science-and-technology/making-open-science-a-reality_5jrs2f963zs1-en)). Access to data can occur along a spectrum, with “different degrees of openness, depending on the community of stakeholders involved. ‘As open as possible, as closed as necessary’ is often used to illustrate the fact that while opening up data can help advance the science, technology and innovation (STI) agenda, this needs to be balanced against issues of costs, privacy, security, intellectual property rights and preventing malevolent uses” ([Paic, 2021](https://goingdigital.oecd.org/data/notes/No13_ToolkitNote_OpenScience.pdf)).
 
@@ -23,8 +27,13 @@ Machado ([2015](https://goingdigital.oecd.org/data/notes/No13_ToolkitNote_OpenSc
 
 What exactly do we understand regarding the term open access? According to the OECD ([2015](https://www.oecd-ilibrary.org/science-and-technology/making-open-science-a-reality_5jrs2f963zs1-en)), open access is “unrestricted online access to scientific articles, via a number of channels, such as institutional repositories, journal publishers’ websites, researchers’ webpages, etc.”
 
+::::
+
+
 **Types of open access**
 ------------------------
+
+:::: {.mainfontFormat }
 
 Open access (OA) publication means making a publication freely accessible online in a digital format with no barriers to access. There are different types or levels of open access:
 
@@ -42,8 +51,14 @@ Open access (OA) publication means making a publication freely accessible online
 
 [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) defines the terms “gratis” and “libre” in order to distinguish between free to read versus free to reuse. Gratis open Access () refers to an online access to read the article free of charge. Similarly, libre open access () refers to an online access to read an article free of charge, however this includes some additional rights to reuse the article under specific [](https://en.wikipedia.org/wiki/Creative_Commons_license)[Creative Commons licences](https://en.wikipedia.org/wiki/Creative_Commons_license). Libre open access covers types of open access defined in the [](https://en.wikipedia.org/wiki/Budapest_Open_Access_Initiative)[Budapest Open Access Initiative](https://en.wikipedia.org/wiki/Budapest_Open_Access_Initiative), the [](https://en.wikipedia.org/wiki/Bethesda_Statement_on_Open_Access_Publishing)[Bethesda Statement on Open Access Publishing](https://en.wikipedia.org/wiki/Bethesda_Statement_on_Open_Access_Publishing) and the [](https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities)[Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities](https://en.wikipedia.org/wiki/Berlin_Declaration_on_Open_Access_to_Knowledge_in_the_Sciences_and_Humanities).
 
+
+::::
+
 **Quid pro quo**
 ----------------
+
+
+:::: {.mainfontFormat }
 
 What are the benefits of publishing your studies in open access journals?
 
