@@ -5,7 +5,6 @@
   margin: 0;
   padding: 0;
   position: relative;
-}
 #TOC {
   line-height: 1;
   border-radius: 5px 5px 0 0;
@@ -13,6 +12,9 @@
   background: linear-gradient(to bottom, #333333 0%, #141414 100%);
   border-bottom: 2px solid #0fa1e0;
   width: auto;
+  font-weight: bold;
+  font-family: 'Arial','sans-serif';
+}
 }
 #TOC:after,
 #TOC ul:after {
@@ -28,6 +30,9 @@
   padding: 19px 20px;
   text-decoration: none;
   text-shadow: none;
+  font-weight: bold;
+  font-family: 'Arial','sans-serif';
+}
 }
 #TOC ul {
   list-style: none;

@@ -1,6 +1,9 @@
 open-science
 what-is-open-science
+open-science-open-research-open-scholarship
 the-history-of-open-science
+th-to-20th-century-the-emergence-of-contemporary-science
+modern-science-and-the-fight-for-openness
 test-your-understanding
 open-data-and-open-access
 definitions-and-history
@@ -10,7 +13,10 @@ test-your-understanding-1
 open-source-open-licencing-scientific-programming
 open-source
 open-licensing
+how-to-choose-a-licence
+licence-providers
 scientific-programming
+documenting-your-code
 test-your-understanding-2
 pros-and-cons
 misconceptions-about-open-science
@@ -19,7 +25,6 @@ pros
 conclusion
 test-your-understanding-3
 research-data
-research-data-1
 research-data-lifecycle
 data-management-plan
 data-access

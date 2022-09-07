@@ -50,11 +50,12 @@ pre code {
 /*------------- Body and header text---------------- */
 
 .book.font-family-1 {
-  font-family: 'Sans-Serif';
+  font-family: 'Arial','sans-serif';
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Sans-Serif';
+  font-family: 'Arial','sans-serif' ;
+  font-weight: bold;
 }
 
 
@@ -64,8 +65,8 @@ h1, h2, h3, h4 {
 .book .book-body .page-wrapper .page-inner section.normal h4, 
 .book .book-body .page-wrapper .page-inner section.normal h5, 
 .book .book-body .page-wrapper .page-inner section.normal h6 {
-    margin-top: 2.275em;
-    margin-bottom: 1em;
+    margin-top: .5em;
+    margin-bottom: .25em;
 }
 
 .activitybox {
@@ -80,7 +81,7 @@ h1, h2, h3, h4 {
 
 .mainfontFormat {
   margin:0cm;
-  margin-bottom:11.0pt;
+  margin-bottom:06.0pt;
   line-height:150%;
   font-size:15px;
   font-family:"Arial",sans-serif;
@@ -147,16 +148,17 @@ h1, h2, h3, h4 {
 }
 
 .title {
-  font-family: 'Sans-Serif';
-  font-size: 5em !important;
+  font-family: 'Arial','sans-serif';
+  font-size: 3em !important;
   color: #3fb5bd;
-  margin-top: 0.275em !important;
-  margin-bottom: 0.35em !important;
+  margin-top: 0.145em !important;
+  margin-bottom: 0.15em !important;
 }
 
 .subtitle {
-  font-family: 'Sans-Serif';
+  font-family: 'Arial','sans-serif';
   color: #0b8d96;
+  font-size: 1em;
 }
   
 
@@ -179,7 +181,7 @@ h1, h2, h3, h4 {
 .section.level1 > p:first-of-type:first-letter { /*drop cap for first p beneath level 1 headers only within class .section*/
   color: #3fb5bd;
   float: left;
-  font-family: 'Sans-Serif';
+  font-family: 'Arial','sans-serif';
   font-size: 7em;
   line-height: 65px;
   padding-top: 4px;

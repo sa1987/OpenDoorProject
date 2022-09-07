@@ -18,6 +18,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       scroll_highlight: true
+      toc_depth: 4
       css : toc.css
       before: |
         <li><a href="./">AGAPE: An introductory course to open science for early career researchers</a></li>

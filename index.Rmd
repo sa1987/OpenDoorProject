@@ -18,7 +18,7 @@ always_allow_html: yes
 <center>![](images/agapecover.png){width=60%}</center>
 
 # Introduction {-}
-
+:::: {.mainfontFormat }
 Greetings, fellow early career researcher or open science-curious friend!
 
 In this course, we would like to introduce you to the world of open science. Whether you are familiar with some of its concepts and resources or the open science movement doesn’t ring any bells, we believe that what you learn here will be interesting for you and at the same time highly useful for your future career. 
@@ -30,13 +30,11 @@ With this course, Agape would like to open doors for you into the world of open 
 The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters are building on knowledge acquired in previous chapters. But you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you forgot it in the meantime. At the end of each chapter are MCQs where you can test your freshly acquired knowledge.
 
 And now, without any further delay, let’s quench that thirst for knowledge! 
-
+::::
 
 ## Structure of the book {-}
-
 ### How to read this course {-}
-
-
+:::: {.mainfontFormat }
 Try these toolbar features located near the top of your browser:
 
 - Menu
@@ -49,21 +47,27 @@ Try these toolbar features located near the top of your browser:
 - Share
 
 ![Toolbar features in open-access web edition](images/toolbarimage.png)
-
+::::
 
 ## What did we leave out? {-}
-
+:::: {.mainfontFormat }
+::::
 ## About Opening Doors project {-}
-
+:::: {.mainfontFormat }
+::::
 ## Meet the authors {-}
-
+:::: {.mainfontFormat }
+::::
 ## Acknowledgement {-}
-
+:::: {.mainfontFormat }
+::::
 ## How to contribute to this project {-}
-
+:::: {.mainfontFormat }
+::::
 ### Disclaimer {-}
-
+:::: {.mainfontFormat }
 The information is this book is provided without warranty. The authors and openingdoor team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
+::::
 
 ```{r eval=FALSE}
 bookdown::serve_book()
