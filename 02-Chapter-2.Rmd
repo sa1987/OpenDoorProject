@@ -1,4 +1,4 @@
-# -  Open data and open access
+#  Open data and open access
 :::: {.mainfontFormat }
 Now, let’s have a look at open data and open access. What exactly is it?
 ::::

@@ -13,10 +13,8 @@ test-your-understanding-1
 open-source-open-licencing-scientific-programming
 open-source
 open-licensing
-how-to-choose-a-licence
 licence-providers
 scientific-programming
-documenting-your-code
 test-your-understanding-2
 pros-and-cons
 misconceptions-about-open-science

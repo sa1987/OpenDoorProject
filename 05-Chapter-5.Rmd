@@ -1,11 +1,11 @@
-# -  Research data
+#  Research data
 
 :::: {.mainfontFormat }
 Research data are a fundamental part of the research process and open science.
 
 But what is research data?
 
-The University College Dublin ([UCD) Research Data Management Policy](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=GD-DOCLAND&ID=227) defines research data as “information collected to be examined and considered and to serve as a basis for reasoning, discussion or calculation. It is used as a primary source to support technical or scientific enquiry, research, scholarship or artistic activity, is used as evidence in the research process and/or is commonly accepted in the research community as necessary to validate research findings and results.”
+The University College Dublin [(UCD) Research Data Management Policy](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=GD-DOCLAND&ID=227) defines research data as “information collected to be examined and considered and to serve as a basis for reasoning, discussion or calculation. It is used as a primary source to support technical or scientific enquiry, research, scholarship or artistic activity, is used as evidence in the research process and/or is commonly accepted in the research community as necessary to validate research findings and results.”
 
 Research data exists in a specific research context and provides evidence or validation to claims and findings relevant to a specific research question. Data can be quantitative or qualitative and in physical, digital or analogue format. Quantitative data are measures of quantity and are recorded as numbers. In the research community, there are widely accepted standard units that allow specific quantities to be expressed in ways that are unambiguous and universally understandable. Qualitative data carries information about quality and do not take the form of numbers. Physical data refers to samples and specimens.
 

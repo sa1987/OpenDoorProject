@@ -1,10 +1,12 @@
-# -  FAIR principles
+#  FAIR principles
 ## What is FAIR?
 :::: {.mainfontFormat }
 In a nutshell, FAIR is a set of guiding principles to make data **F**indable, **A**ccessible, **I**nteroperable and **R**eusable.
 
 The [](https://www.go-fair.org/fair-principles/)[FAIR principles](https://www.go-fair.org/fair-principles/) were first launched in 2014 at a [](https://www.lorentzcenter.nl/)[Lorentz Workshop](https://www.lorentzcenter.nl/) and officially published in 2016 with the focus on the EU’s goal of increasing sharing and reusing of research data. [](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG)[The implementation of the FAIR principles](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG) for research data is a requirement imposed by the EU, alongside the EU’s request on Open Science & Open Data. It is noteworthy that the FAIR principles are not a standard.
-### What is in it for you if you make your data FAIR?
+
+### What is in it for you if you make your data FAIR? {-}
+
 The FAIR principles have multiple advantages for researchers. In general, by working in line with the FAIR principles, you can make your research more transparent, collaborative and sustainable and meanwhile facilitate your data management and protect your data’s value for future use.
 
 More specifically, you can expect the following by working with the FAIR principles:
@@ -18,7 +20,9 @@ More specifically, you can expect the following by working with the FAIR princip
 ●       A more efficient data management plan.
 
 ●       Possibilities for future research.
-### What is in it for science if you make your data FAIR?
+
+### What is in it for science if you make your data FAIR? {-}
+
 The FAIR principles also bring great benefits to the research community and thereby a fulfilling sense of community commitment to you as a researcher. FAIR principles:
 
 ●       Enhance scientific enquiry and debate.
@@ -35,7 +39,9 @@ The FAIR principles also bring great benefits to the research community and ther
 
 ●       Facilitate transparency and accountability.
 ::::
-### Key concepts to start with if you want to FAIRify your data**
+
+## Key concepts to start with if you want to FAIRify your data
+
 :::: {.mainfontFormat }
 **PID (persistent identifier)**
 
@@ -71,7 +77,7 @@ Metadata are not set out from the beginning and forgotten about. Instead, they a
 
 Metadata can help you to play better with the FAIR principles, because metadata are machine-readable and, especially when they have a PID, search engines can easily find them.
 ::::
-### Let’s FAIR up!
+## Let’s FAIR up!
 :::: {.mainfontFormat }
 **The principles**
 
@@ -91,9 +97,9 @@ F4. Metadata and data are registered or indexed in a searchable resource.
 
 A1. Metadata and data are retrievable by their identifier using a standardised communications protocol:
 
-         A1.1. The protocol is open, free and universally implementable.
+A1.1. The protocol is open, free and universally implementable.
 
-         A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
+A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
 
 A2. Metadata are accessible, even when the data are no longer available.
 
@@ -103,11 +109,11 @@ I1. Metadata and data use a formal, accessible, shared and broadly applicable la
 
 I2. (Meta)data use vocabularies that follow FAIR principles:
 
-○       Ontologies
+  ○       Ontologies
 
-○       Vocabularies
+  ○       Vocabularies
 
-○       Taxonomies
+  ○       Taxonomies
 
 I3. Metadata and data include qualified references to other (meta)data.
 
@@ -115,11 +121,11 @@ I3. Metadata and data include qualified references to other (meta)data.
 
 R1. Metadata and data are richly described with a plurality of accurate and relevant attributes:
 
-         R1.1. Metadata and data are released with a clear and accessible data usage licence.
+R1.1. Metadata and data are released with a clear and accessible data usage licence.
 
-         R1.2. Metadata and data are associated with detailed provenance.
+R1.2. Metadata and data are associated with detailed provenance.
 
-         R1.3. Metadata and data meet domain-relevant community standards.
+R1.3. Metadata and data meet domain-relevant community standards.
 
 **Step by step**
 

@@ -1,4 +1,4 @@
-#  -  Communication and dissemination
+#  Communication and dissemination
 :::: {.mainfontFormat }
 Now that you have gathered a background to open science, you are probably wondering what you should do next? Where do you even begin? As researchers, we are often encouraged to focus on academic communication such as journal articles and conference presentations. While this is the goal, there are so many other ways in which you can share your research, even before you get to the point of sharing your results. We are taught to use a language style that is often inaccessible to the majority. This chapter is going to take you through how open publications work, while also opening your eyes to other methods of communicating and disseminating your research in a more open and accessible way.
 :::: 

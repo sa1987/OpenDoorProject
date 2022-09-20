@@ -1,4 +1,4 @@
-# - Pros and cons
+#  Pros and cons
 ## Misconceptions about open science
 :::: {.mainfontFormat }
 > “Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?”
