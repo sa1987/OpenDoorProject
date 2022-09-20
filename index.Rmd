@@ -74,9 +74,7 @@ And now, without any further delay, let's quench that thirst for
 knowledge! 
 
  &nbsp;
-
 **Course structure and certificate of completion**
-
  &nbsp;
 
 The course is structured into chapters that are written to expand on
@@ -175,7 +173,7 @@ wizard]{style="font-family:Roboto;background:white;"}
 
 [ ]{style="font-family:Roboto;background:white;"}
 
-[Ciarán Purcell &emsp; : ;&emsp            
+[Ciarán Purcell &emsp; : ;&emsp;            
   ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-4376-599X]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-4376-599X ) &emsp; [ proofreading
 and editing rockstar]{style="font-family:Roboto;background:white;"}
 

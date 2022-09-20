@@ -97,9 +97,9 @@ F4. Metadata and data are registered or indexed in a searchable resource.
 
 A1. Metadata and data are retrievable by their identifier using a standardised communications protocol:
 
-A1.1. The protocol is open, free and universally implementable.
+&emsp; A1.1. The protocol is open, free and universally implementable.
 
-A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
+&emsp; A1.2. The protocol allows for an authentication and authorization procedure, where necessary.
 
 A2. Metadata are accessible, even when the data are no longer available.
 
@@ -109,11 +109,11 @@ I1. Metadata and data use a formal, accessible, shared and broadly applicable la
 
 I2. (Meta)data use vocabularies that follow FAIR principles:
 
-  ○       Ontologies
+&emsp; ○       Ontologies
 
-  ○       Vocabularies
+&emsp;  ○       Vocabularies
 
-  ○       Taxonomies
+&emsp;  ○       Taxonomies
 
 I3. Metadata and data include qualified references to other (meta)data.
 
@@ -121,11 +121,11 @@ I3. Metadata and data include qualified references to other (meta)data.
 
 R1. Metadata and data are richly described with a plurality of accurate and relevant attributes:
 
-R1.1. Metadata and data are released with a clear and accessible data usage licence.
+&emsp; R1.1. Metadata and data are released with a clear and accessible data usage licence.
 
-R1.2. Metadata and data are associated with detailed provenance.
+&emsp; R1.2. Metadata and data are associated with detailed provenance.
 
-R1.3. Metadata and data meet domain-relevant community standards.
+&emsp; R1.3. Metadata and data meet domain-relevant community standards.
 
 **Step by step**
 

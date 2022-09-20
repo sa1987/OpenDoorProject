@@ -1,7 +1,7 @@
 #  Open source, open licencing, scientific programming
 ## Open-source
 :::: {.mainfontFormat }
-It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the[](https://opensource.org/osd)[Open Source Initiative](https://opensource.org/osd). Similarly, [](https://www.oshwa.org/definition/)[Open Source Hardware Association](https://www.oshwa.org/definition/) defines open-source hardware as “hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.”
+It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the [](https://opensource.org/osd)[Open Source Initiative](https://opensource.org/osd). Similarly, [](https://www.oshwa.org/definition/)[Open Source Hardware Association](https://www.oshwa.org/definition/) defines open-source hardware as “hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.”
 
 The main benefits and reasons for the adoption of open-source software and hardware ([Casson and Ryan, 2006](https://www.researchgate.net/publication/228296692_Open_Standards_Open_Source_Adoption_in_the_Public_Sector_and_Their_Relationship_to_Microsoft's_Market_Dominance)) can be categorised as follows:
 
@@ -58,7 +58,7 @@ The most common conditions found in data licences are:
 
 [**Creative Commons**](https://creativecommons.org/): One of the most popular and widely accepted licence providers for most content with the exception of source code. Three versions (CCO, CC-BY, CC-BY-SA) of it are intended for open licensing. [](https://choosealicense.com/licenses/)[Choose a licence](https://choosealicense.com/licenses/) by [GitHub](https://github.com/) provides a list of licences that are specific to software codes.
 
-[**Open data commons**](https://opendatacommons.org/): Similar to Creative Commons, but these licences are specifically designed for databases.
+[**Open data ommons**](https://opendatacommons.org/): Similar to Creative Commons, but these licences are specifically designed for databases.
 ::::
 ## Scientific programming
 :::: {.mainfontFormat }
@@ -66,6 +66,7 @@ The most common conditions found in data licences are:
 ### Documenting your code {-}
 
 To make your research open, i.e. transparent and reproducible, it is good practice to share not only your data but also the code used for the analysis, modelling, visualisation, etc. This code is then known as open-source research software. When sharing your code or software, it’s good practice to also include documentation explaining how to use your code. So why do you need to prepare this documentation?
+
 
 Benefits for you:
 
@@ -77,9 +78,11 @@ Benefits for you:
 
 ●       You may attract others to contribute to your code.
 
+
 Benefits for others:
 
 ●       Others can simply utilise and extend your code.
+
 
 Benefits for science:
 
@@ -89,15 +92,16 @@ Benefits for science:
 
 ●       Documentation allows for clarity and reproducibility.
 
+
 Here are **best practices** for writing documentation:
 
 1.  Provide a README file with the following information:
 
-○       A quick overview of the project
+  ○       A quick overview of the project
 
-○       Instructions for installation
+  ○       Instructions for installation
 
-○       A brief example/tutorial
+  ○       A brief example/tutorial
 
 2.  Allow others to use the problem tracker.
 3.  Create application programming interface (API) documentation.
