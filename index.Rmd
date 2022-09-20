@@ -1,6 +1,6 @@
 --- 
 title: "AGAPE: An introductory course to open science for early career researchers"
-author: "An Opening Doors initiative"
+author: "An Agape initiative"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -17,61 +17,309 @@ always_allow_html: yes
 
 <center>![](images/agapecover.png){width=60%}</center>
 
+<!-- # Introduction {-} -->
+<!-- **Introduction** -->
 # Introduction {-}
-:::: {.mainfontFormat }
-Greetings, fellow early career researcher or open science-curious friend!
 
-In this course, we would like to introduce you to the world of open science. Whether you are familiar with some of its concepts and resources or the open science movement doesn’t ring any bells, we believe that what you learn here will be interesting for you and at the same time highly useful for your future career. 
+:::: {.mainfontFormat } 
 
-We ourselves are PhD students who first met during the course focusing on open and collaborative research. And because we felt that what we learned was very helpful and other students should have an opportunity to get familiar with these concepts too, we decided to create Agape. Agape means wide open, such as open science we want to promote. The word agapē originates from Greek and means love that is unconditional, such as our love for science. Under Agape we aim to disseminate open science between students, starting with this course and continuing with a series of workshops where we can learn, exchange our opinions and experiences and together contribute to the future. 
+Greetings, fellow early career researchers and open science-curious
+friends!
 
-With this course, Agape would like to open doors for you into the world of open science and introduce various concepts that we think are very important but we were not told about. Whilst we all heard about scientific integrity and open access publishing at some point in our studies, the domain of open science encompasses a much larger area. Given its extent, this course does by far not cover the whole scope of open science. However, during the course, we provide you with useful links to other resources should you wish to learn more and start practising open science. 
+ 
 
-The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters are building on knowledge acquired in previous chapters. But you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you forgot it in the meantime. At the end of each chapter are MCQs where you can test your freshly acquired knowledge.
+In this course, we will introduce you to the world of open science.
+Perhaps you are familiar with some of the concepts and ideas of open
+science or maybe the open science movement is completely new to you.
+Whatever your current understanding is, we believe that what you learn
+here will be interesting, thought-provoking and useful in your future
+research career. 
 
-And now, without any further delay, let’s quench that thirst for knowledge! 
+ 
+
+We are a group of budding researchers and PhD students who first met
+during a course focusing on open and collaborative research designed
+under the project [[Opening
+Doors]{style="color:#1155CC;text-decoration:none;"}](https://openingdoors4phd.eu/project.html)
+funded by the Horizon 2020 EU programme for research and innovation. We
+felt that what we learned was both fascinating and helpful and believe
+that other students should have an opportunity to get familiar with
+these concepts too. Hence, we decided to create Agape. Agape means wide
+open, as is the open science philosophy and practice we want to promote.
+The word *agapē* originates from Greek and means love that is
+unconditional, such as our love for science. (Ok maybe not entirely
+unconditional, but you get the drift!) Under Agape we aim to share open
+science with fellow students and researchers, starting with this course
+and continuing with a series of workshops where we can learn, exchange
+our opinions and experiences, and together contribute to a better, more
+open future. 
+
+ 
+
+With this course, Agape would like to open doors for you into the world
+of open science and introduce various concepts that we think are crucial
+to high quality research and prior to the opening doors project we were
+entirely unaware of. Sure, we all heard about scientific integrity and
+open access publishing at some point in our studies, but the domain of
+open science encompasses a much larger set of ideas and concepts. Given
+the sheer extent of open science, this course does not, and could not
+cover the whole scope of open science. However, we will provide you with
+a scaffolding to understand the core concepts and signpost you to useful
+links and resources should you wish to delve deeper and start practising
+open science in your own work. 
+
+ 
+
+And now, without any further delay, let's quench that thirst for
+knowledge! 
+
+ &nbsp;
+
+**Course structure and certificate of completion**
+
+ &nbsp;
+
+The course is structured into chapters that are written to expand on
+various topics. We think that the order they follow is logical and the
+latter chapters build on knowledge acquired in previous chapters. That
+said, you can decide to go through them in whatever order you like by
+clicking on different chapters in the menu on the left or to return to
+some of them should you find something is not clear or you require a
+brief refresher. 
+
+ 
+
+At the end of each chapter you will find activities to enhance your
+understanding of the concepts introduced in a particular chapter and to
+improve your practical knowledge. All chapters except one contain a
+short quiz consisting of five questions where you can test your freshly
+acquired knowledge. You will see your score immediately and you can save
+your high scores if you wish. These scores will be saved in cookies in
+your browser and you can delete them by deleting cookies. The quizzes
+have no time limit and you have as many attempts to practice as you
+want.
+
+ 
+
+Once you read all chapters and practise each short quiz you can attempt
+the final quiz. If you score 90% or higher a certificate of completion
+will be generated for you and you can download it directly. You have
+unlimited attempts to successfully complete the final quiz but only
+three minutes for each attempt.
+
+ 
+
+We know we are by no means perfect. We would love you to share your
+opinions, concerns, or feedback about a specific chapter or the course
+as a whole. There are two ways to do this. You can either fill in the
+survey or use the Disqus widget that you can find at the end of each
+chapter to access the forum. In a truly open spirit we will discuss,
+collaborate and offer constructive criticism and helpful advice and ask
+for the same from you. We will do our best to address your comments or
+pass them on to the course admins. We value all suggestions and
+feedback, and together we will make this course awesome. We just ask for
+a little patience.
 ::::
 
-## Structure of the book {-}
-### How to read this course {-}
-:::: {.mainfontFormat }
-Try these toolbar features located near the top of your browser:
+:::: {.mainfontFormat } 
 
-- Menu
-- Search
-- Font to adjust text size and display
-- View source code on GitHub (if available)
-- Download book files (if available)
-- Shortcuts (arrow keys to navigate; `s` to toggle sidebar; `f` to toggle search)
-- Social Media
-- Share
+** **
 
-![Toolbar features in open-access web edition](images/toolbarimage.png)
+**Contacts**
+
+ 
+
+Should you experience any technical problems or should you wish to share
+your ideas on how to improve this course email us on
+[[agape.open.science\@gmail.com]{style="color:#1155CC;text-decoration:none;"}](mailto:agape.open.science@gmail.com). 
+
+ 
+
+To share your thoughts and experiences either with this course or on
+open science in general, or to see what's new we will be delighted if
+you start following us on
+
+ 
+
+Facebook [[Agape
+Open-Science]{style="color:#1155CC;text-decoration:none;"}](https://facebook.com/AgapeOpen-Science), 
+
+Twitter
+[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://twitter.com/AgapeOpenSci),
+
+Instagram
+[[Agape.Open.Science]{style="color:#1155CC;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science),
+
+or on LinkedIn [[Agape Open
+Science]{style="color:#1155CC;text-decoration:none;"}](https://www.linkedin.com/company/agape-open-science/).
+
+ 
+
+** **
+
+
+**Credits**
+
+ 
+
+[Aswathi Surendran &emsp;: content creator, IT whisperer &emsp;  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-8709-6417]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-8709-6417 )
+<!-- [  content -->
+<!-- creator, IT whisperer]{style="font-family:Roboto;background:white;"} -->
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Cassandra Murphy     
+ ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0003-1332-359X]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0003-1332-359X ) &emsp; [ content
+creator, social media
+wizard]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Ciarán Purcell &emsp; : ;&emsp            
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-4376-599X]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-4376-599X ) &emsp; [ proofreading
+and editing rockstar]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Marco Prevedello: content creator, IT advisor &nbsp;   
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-8329-6294]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-8329-6294 )
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Mohammed Mahmoud
+ ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-1224-0381]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-1224-0381 )[  content
+creator]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Nina Trubanová          
+ ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-8156-3304]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-8156-3304 )[  content
+creator, deadline overlord, vision
+pusher]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Philipp Junk              
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-5228-3896]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-5228-3896 )[  content
+creator]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Rasaq Semiu Abolore
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-6486-4754]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-6486-4754 )[  content
+creator]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Tendai Mukande        
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-0654-7141]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-0654-7141 )[  content
+creator]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Una Ruddock            
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-9118-4121]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-9118-4121 )[  proofreading
+and editing balladeer]{style="font-family:Roboto;background:white;"}
+
+[ ]{style="font-family:Roboto;background:white;"}
+
+[Yao Zhang                
+  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0003-0093-3882]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0003-0093-3882 )[  content
+creator, social media
+wizard]{style="font-family:Roboto;background:white;"}
+
+ 
+
+And a big thanks to our muse Dr Denise McGrath.
+
+ 
+
+** **
+
+
+**Disclaimer**
+
+ 
+
+The information is this course is provided without warranty. The authors
+and Agape team have neither liability nor responsibility to any person
+or entity related to any loss or damages arising from the information
+contained in this course.
+
+ 
+
+** **
+
+**Quiz**
+
+ 
+
+For each correct answer you get 10 points. You will see your score
+immediately and you can save your high scores if you wish. These scores
+will be saved in cookies in your browser and you can delete them by
+deleting cookies. You have an unlimited number of attempts to practice
+the quiz and there is no time limit. Click "Start Quiz" when you are
+ready.         
+
+ 
+
+** **
+
+**Activities**
+
+ 
+
+Check recommended activities to increase your understanding of the
+concepts introduced in this chapter and improve your practical
+knowledge.
+
+ 
+
+** **
+
+**Footnote**
+
+ 
+
+If you'd like to connect with us or see what's new you can do so by
+following
+us[[ on ]{style="color:windowtext;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)
+on
+Twitter,[[ ]{style="color:windowtext;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)[[\@Agape.Open.Science]{style="color:#1155CC;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)
+on Instagram,
+[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://facebook.com/AgapeOpen-Science)
+on Facebook, or [[Agape Open
+Science]{style="color:#1155CC;text-decoration:none;"}](https://www.linkedin.com/company/agape-open-science/)
+on LinkedIn. Or you can send us an email at
+[[agape.open.science\@gmail.com]{style="color:#1155CC;text-decoration:none;"}](mailto:agape.open.science@gmail.com). 
+
+ 
+
+We would also love you to share your opinions, concerns, or feedback
+about a specific chapter or the course as a whole. There are two ways to
+do this. You can either fill in the survey or allow the Disqus widget
+that you can find at the end of each chapter to access the forum. 
 ::::
 
-## What did we leave out? {-}
-:::: {.mainfontFormat }
-::::
-## About Opening Doors project {-}
-:::: {.mainfontFormat }
-::::
-## Meet the authors {-}
-:::: {.mainfontFormat }
-::::
-## Acknowledgement {-}
-:::: {.mainfontFormat }
-::::
-## How to contribute to this project {-}
-:::: {.mainfontFormat }
-::::
-### Disclaimer {-}
-:::: {.mainfontFormat }
-The information is this book is provided without warranty. The authors and openingdoor team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
+:::: {.mainfontFormat } 
+
+** **
+
+**Final quiz**
+
+ 
+
+You have unlimited attempts to successfully complete the final quiz but
+only five minutes for each attempt. If you score 90% or higher a
+certificate of completion will be generated for you and you can download
+it directly. Click "Start Quiz" when you are ready.  
 ::::
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+
+
+<!--  ```{r eval=FALSE} -->
+<!--  bookdown::serve_book() -->
+<!--  ``` -->
 
 
 ```{r include=FALSE}

@@ -1,4 +1,4 @@
-# -  Open science
+# . Open science
 
 :::: {.mainfontFormat }
 Let’s start at the beginning.

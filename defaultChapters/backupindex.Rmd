@@ -1,0 +1,82 @@
+--- 
+title: "AGAPE: An introductory course to open science for early career researchers"
+author: "An Opening Doors initiative"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is an introductory course to open science.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+always_allow_html: yes
+---
+
+<center>![](images/agapecover.png){width=60%}</center>
+
+# Introduction {-}
+:::: {.mainfontFormat }
+Greetings, fellow early career researcher or open science-curious friend!
+
+In this course, we would like to introduce you to the world of open science. Whether you are familiar with some of its concepts and resources or the open science movement doesn’t ring any bells, we believe that what you learn here will be interesting for you and at the same time highly useful for your future career. 
+
+We ourselves are PhD students who first met during the course focusing on open and collaborative research. And because we felt that what we learned was very helpful and other students should have an opportunity to get familiar with these concepts too, we decided to create Agape. Agape means wide open, such as open science we want to promote. The word agapē originates from Greek and means love that is unconditional, such as our love for science. Under Agape we aim to disseminate open science between students, starting with this course and continuing with a series of workshops where we can learn, exchange our opinions and experiences and together contribute to the future. 
+
+With this course, Agape would like to open doors for you into the world of open science and introduce various concepts that we think are very important but we were not told about. Whilst we all heard about scientific integrity and open access publishing at some point in our studies, the domain of open science encompasses a much larger area. Given its extent, this course does by far not cover the whole scope of open science. However, during the course, we provide you with useful links to other resources should you wish to learn more and start practising open science. 
+
+The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters are building on knowledge acquired in previous chapters. But you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you forgot it in the meantime. At the end of each chapter are MCQs where you can test your freshly acquired knowledge.
+
+And now, without any further delay, let’s quench that thirst for knowledge! 
+::::
+
+## Structure of the book {-}
+### How to read this course {-}
+:::: {.mainfontFormat }
+Try these toolbar features located near the top of your browser:
+
+- Menu
+- Search
+- Font to adjust text size and display
+- View source code on GitHub (if available)
+- Download book files (if available)
+- Shortcuts (arrow keys to navigate; `s` to toggle sidebar; `f` to toggle search)
+- Social Media
+- Share
+
+![Toolbar features in open-access web edition](images/toolbarimage.png)
+::::
+
+## What did we leave out? {-}
+:::: {.mainfontFormat }
+::::
+## About Opening Doors project {-}
+:::: {.mainfontFormat }
+::::
+## Meet the authors {-}
+:::: {.mainfontFormat }
+::::
+## Acknowledgement {-}
+:::: {.mainfontFormat }
+::::
+## How to contribute to this project {-}
+:::: {.mainfontFormat }
+::::
+### Disclaimer {-}
+:::: {.mainfontFormat }
+The information is this book is provided without warranty. The authors and openingdoor team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.
+::::
+
+```{r eval=FALSE}
+bookdown::serve_book()
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
