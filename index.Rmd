@@ -1,4 +1,4 @@
---- 
+---
 title: "AGAPE: An introductory course to open science for early career researchers"
 author: "An Agape initiative"
 #date: "`r Sys.Date()`"
@@ -15,310 +15,140 @@ github-repo: rstudio/bookdown-demo
 always_allow_html: yes
 ---
 
-<center>![](images/agapecover.png){width=60%}</center>
+<center>![](images/agapecover.png){width="60%"}</center>
 
-<!-- # Introduction {-} -->
-<!-- **Introduction** -->
-# Introduction {-}
+# Introduction {.unnumbered}
 
-:::: {.mainfontFormat } 
+::: mainfontFormat
+Greetings, fellow early career researchers and open science-curious friends!
 
-Greetings, fellow early career researchers and open science-curious
-friends!
+In this course, we will introduce you to the world of open science. Perhaps you are familiar with some of the concepts and ideas of open science or maybe the open science movement is completely new to you. Whatever your current understanding is, we believe that what you learn here will be interesting, thought-provoking and useful in your future research career.
 
- 
+We are a group of budding researchers and PhD students who first met during a course focusing on open and collaborative research designed under the project [[Opening Doors](https://openingdoors4phd.eu/project.html)]{style="color:#1155CC;text-decoration:none;"} funded by the Horizon 2020 EU programme for research and innovation. We felt that what we learned was both fascinating and helpful and believe that other students should have an opportunity to get familiar with these concepts too. Hence, we decided to create Agape. Agape means wide open, as is the open science philosophy and practice we want to promote. The word *agapē* originates from Greek and means love that is unconditional, such as our love for science. (Ok maybe not entirely unconditional, but you get the drift!) Under Agape we aim to share open science with fellow students and researchers, starting with this course and continuing with a series of workshops where we can learn, exchange our opinions and experiences, and together contribute to a better, more open future.
 
-In this course, we will introduce you to the world of open science.
-Perhaps you are familiar with some of the concepts and ideas of open
-science or maybe the open science movement is completely new to you.
-Whatever your current understanding is, we believe that what you learn
-here will be interesting, thought-provoking and useful in your future
-research career. 
+With this course, Agape would like to open doors for you into the world of open science and introduce various concepts that we think are crucial to high quality research and prior to the opening doors project we were entirely unaware of. Sure, we all heard about scientific integrity and open access publishing at some point in our studies, but the domain of open science encompasses a much larger set of ideas and concepts. Given the sheer extent of open science, this course does not, and could not cover the whole scope of open science. However, we will provide you with a scaffolding to understand the core concepts and signpost you to useful links and resources should you wish to delve deeper and start practising open science in your own work.
 
- 
+And now, without any further delay, let's quench that thirst for knowledge!
+:::
 
-We are a group of budding researchers and PhD students who first met
-during a course focusing on open and collaborative research designed
-under the project [[Opening
-Doors]{style="color:#1155CC;text-decoration:none;"}](https://openingdoors4phd.eu/project.html)
-funded by the Horizon 2020 EU programme for research and innovation. We
-felt that what we learned was both fascinating and helpful and believe
-that other students should have an opportunity to get familiar with
-these concepts too. Hence, we decided to create Agape. Agape means wide
-open, as is the open science philosophy and practice we want to promote.
-The word *agapē* originates from Greek and means love that is
-unconditional, such as our love for science. (Ok maybe not entirely
-unconditional, but you get the drift!) Under Agape we aim to share open
-science with fellow students and researchers, starting with this course
-and continuing with a series of workshops where we can learn, exchange
-our opinions and experiences, and together contribute to a better, more
-open future. 
+------------------------------------------------------------------------
 
- 
-
-With this course, Agape would like to open doors for you into the world
-of open science and introduce various concepts that we think are crucial
-to high quality research and prior to the opening doors project we were
-entirely unaware of. Sure, we all heard about scientific integrity and
-open access publishing at some point in our studies, but the domain of
-open science encompasses a much larger set of ideas and concepts. Given
-the sheer extent of open science, this course does not, and could not
-cover the whole scope of open science. However, we will provide you with
-a scaffolding to understand the core concepts and signpost you to useful
-links and resources should you wish to delve deeper and start practising
-open science in your own work. 
-
- 
-
-And now, without any further delay, let's quench that thirst for
-knowledge! 
-
- &nbsp;
+::: mainfontFormat
+::: {style="font-family: 'Arial','sans-serif' ;   font-weight: bold; font-size: 25px"}
 **Course structure and certificate of completion**
- &nbsp;
+:::
 
-The course is structured into chapters that are written to expand on
-various topics. We think that the order they follow is logical and the
-latter chapters build on knowledge acquired in previous chapters. That
-said, you can decide to go through them in whatever order you like by
-clicking on different chapters in the menu on the left or to return to
-some of them should you find something is not clear or you require a
-brief refresher. 
+The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters build on knowledge acquired in previous chapters. That said, you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you require a brief refresher.
 
- 
+At the end of each chapter you will find activities to enhance your understanding of the concepts introduced in a particular chapter and to improve your practical knowledge. All chapters except one contain a short quiz consisting of five questions where you can test your freshly acquired knowledge. You will see your score immediately and you can save your high scores if you wish. These scores will be saved in cookies in your browser and you can delete them by deleting cookies. The quizzes have no time limit and you have as many attempts to practice as you want.
 
-At the end of each chapter you will find activities to enhance your
-understanding of the concepts introduced in a particular chapter and to
-improve your practical knowledge. All chapters except one contain a
-short quiz consisting of five questions where you can test your freshly
-acquired knowledge. You will see your score immediately and you can save
-your high scores if you wish. These scores will be saved in cookies in
-your browser and you can delete them by deleting cookies. The quizzes
-have no time limit and you have as many attempts to practice as you
-want.
+Once you read all chapters and practise each short quiz you can attempt the final quiz. If you score 90% or higher a certificate of completion will be generated for you and you can download it directly. You have unlimited attempts to successfully complete the final quiz but only three minutes for each attempt.
 
- 
+We know we are by no means perfect. We would love you to share your opinions, concerns, or feedback about a specific chapter or the course as a whole. There are two ways to do this. You can either fill in the survey or use the Disqus widget that you can find at the end of each chapter to access the forum. In a truly open spirit we will discuss, collaborate and offer constructive criticism and helpful advice and ask for the same from you. We will do our best to address your comments or pass them on to the course admins. We value all suggestions and feedback, and together we will make this course awesome. We just ask for a little patience.
+:::
 
-Once you read all chapters and practise each short quiz you can attempt
-the final quiz. If you score 90% or higher a certificate of completion
-will be generated for you and you can download it directly. You have
-unlimited attempts to successfully complete the final quiz but only
-three minutes for each attempt.
+::: mainfontFormat
 
- 
+------------------------------------------------------------------------
 
-We know we are by no means perfect. We would love you to share your
-opinions, concerns, or feedback about a specific chapter or the course
-as a whole. There are two ways to do this. You can either fill in the
-survey or use the Disqus widget that you can find at the end of each
-chapter to access the forum. In a truly open spirit we will discuss,
-collaborate and offer constructive criticism and helpful advice and ask
-for the same from you. We will do our best to address your comments or
-pass them on to the course admins. We value all suggestions and
-feedback, and together we will make this course awesome. We just ask for
-a little patience.
-::::
+::: {style="font-family: 'Arial','sans-serif' ;   font-weight: bold; font-size: 25px"}
+**Final quiz**
+:::
 
-:::: {.mainfontFormat } 
+You have unlimited attempts to successfully complete the final quiz but only five minutes for each attempt. If you score 90% or higher a certificate of completion will be generated for you and you can download it directly. Click "Start Quiz" when you are ready.
+:::
 
-** **
+::: mainfontFormat
 
-**Contacts**
+------------------------------------------------------------------------
 
- 
+### **Contacts** {.unnumbered}
 
-Should you experience any technical problems or should you wish to share
-your ideas on how to improve this course email us on
-[[agape.open.science\@gmail.com]{style="color:#1155CC;text-decoration:none;"}](mailto:agape.open.science@gmail.com). 
+Should you experience any technical problems or should you wish to share your ideas on how to improve this course email us on [[agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com)]{style="color:#1155CC;text-decoration:none;"}.
 
- 
+To share your thoughts and experiences either with this course or on open science in general, or to see what's new we will be delighted if you start following us on
 
-To share your thoughts and experiences either with this course or on
-open science in general, or to see what's new we will be delighted if
-you start following us on
+Facebook [[Agape Open-Science](https://facebook.com/AgapeOpen-Science)]{style="color:#1155CC;text-decoration:none;"},
 
- 
+Twitter [[\@AgapeOpenSci](https://twitter.com/AgapeOpenSci)]{style="color:#1155CC;text-decoration:none;"},
 
-Facebook [[Agape
-Open-Science]{style="color:#1155CC;text-decoration:none;"}](https://facebook.com/AgapeOpen-Science), 
+Instagram [[Agape.Open.Science](https://www.instagram.com/Agape.Open.Science)]{style="color:#1155CC;text-decoration:none;"},
 
-Twitter
-[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://twitter.com/AgapeOpenSci),
+or on LinkedIn [[Agape Open Science](https://www.linkedin.com/company/agape-open-science/)]{style="color:#1155CC;text-decoration:none;"}.
 
-Instagram
-[[Agape.Open.Science]{style="color:#1155CC;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science),
+------------------------------------------------------------------------
 
-or on LinkedIn [[Agape Open
-Science]{style="color:#1155CC;text-decoration:none;"}](https://www.linkedin.com/company/agape-open-science/).
+### **Credits** {.unnumbered}
 
- 
+::: {style="margin:0cm;   margin-bottom:06.0pt;   line-height:150%;   font-size:15px;   font-family:\"Arial\",sans-serif;   text-align:justify;   background:white;"}
+[Aswathi Surendran : content creator, IT whisperer]{style="font-family:Roboto;background:white;"}\
+[<https://orcid.org/0000-0002-8709-6417>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-** **
+[Cassandra Murphy : content creator, social media wizard\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0003-1332-359X>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}  
 
+[Ciarán Purcell : proofreading and editing rockstar\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-4376-599X>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-**Credits**
+[Marco Prevedello : content creator, IT advisor  \
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-8329-6294>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
- 
+[Mohammed Mahmoud : content creator]{style="font-family:Roboto;background:white;"} \
+[<https://orcid.org/0000-0002-1224-0381>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[Aswathi Surendran &emsp;: content creator, IT whisperer &emsp;  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-8709-6417]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-8709-6417 )
-<!-- [  content -->
-<!-- creator, IT whisperer]{style="font-family:Roboto;background:white;"} -->
+[Nina Trubanová : content creator, deadline overlord, vision pusher\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0001-8156-3304>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[ ]{style="font-family:Roboto;background:white;"}
+[Philipp Junk : content creator\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-5228-3896>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[Cassandra Murphy     
- ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0003-1332-359X]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0003-1332-359X ) &emsp; [ content
-creator, social media
-wizard]{style="font-family:Roboto;background:white;"}
+[Rasaq Semiu Abolore : content creator]{style="font-family:Roboto;background:white;"}\
+[<https://orcid.org/0000-0001-6486-4754>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[ ]{style="font-family:Roboto;background:white;"}
+[Tendai Mukande : content creator\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-0654-7141>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[Ciarán Purcell &emsp; : ;&emsp;            
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-4376-599X]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-4376-599X ) &emsp; [ proofreading
-and editing rockstar]{style="font-family:Roboto;background:white;"}
+[Una Ruddock : proofreading and editing balladeer\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0001-9118-4121>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Marco Prevedello: content creator, IT advisor &nbsp;   
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-8329-6294]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-8329-6294 )
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Mohammed Mahmoud
- ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-1224-0381]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-1224-0381 )[  content
-creator]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Nina Trubanová          
- ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-8156-3304]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-8156-3304 )[  content
-creator, deadline overlord, vision
-pusher]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Philipp Junk              
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-5228-3896]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-5228-3896 )[  content
-creator]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Rasaq Semiu Abolore
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-6486-4754]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-6486-4754 )[  content
-creator]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Tendai Mukande        
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0002-0654-7141]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0002-0654-7141 )[  content
-creator]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Una Ruddock            
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0001-9118-4121]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0001-9118-4121 )[  proofreading
-and editing balladeer]{style="font-family:Roboto;background:white;"}
-
-[ ]{style="font-family:Roboto;background:white;"}
-
-[Yao Zhang                
-  ]{style="font-family:Roboto;background:white;"}[[https://orcid.org/0000-0003-0093-3882]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}](https://orcid.org/0000-0003-0093-3882 )[  content
-creator, social media
-wizard]{style="font-family:Roboto;background:white;"}
-
- 
+[Yao Zhang : content creator, social media wizard\
+]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0003-0093-3882>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
 
 And a big thanks to our muse Dr Denise McGrath.
+:::
 
- 
+------------------------------------------------------------------------
 
-** **
+### **Disclaimer** {.unnumbered}
 
+The information is this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
 
-**Disclaimer**
+------------------------------------------------------------------------
 
- 
+### **Quiz** {.unnumbered}
 
-The information is this course is provided without warranty. The authors
-and Agape team have neither liability nor responsibility to any person
-or entity related to any loss or damages arising from the information
-contained in this course.
+For each correct answer you get 10 points. You will see your score immediately and you can save your high scores if you wish. These scores will be saved in cookies in your browser and you can delete them by deleting cookies. You have an unlimited number of attempts to practice the quiz and there is no time limit. Click "Start Quiz" when you are ready.
 
- 
+------------------------------------------------------------------------
 
-** **
+### **Activities** {.unnumbered}
 
-**Quiz**
+Check recommended activities to increase your understanding of the concepts introduced in this chapter and improve your practical knowledge.
 
- 
+------------------------------------------------------------------------
 
-For each correct answer you get 10 points. You will see your score
-immediately and you can save your high scores if you wish. These scores
-will be saved in cookies in your browser and you can delete them by
-deleting cookies. You have an unlimited number of attempts to practice
-the quiz and there is no time limit. Click "Start Quiz" when you are
-ready.         
+#### **Footnote** {.unnumbered}
 
- 
+If you'd like to connect with us or see what's new you can do so by following us on [\@AgapeOpenSci](https://twitter.com/AgapeOpenSci) on Twitter, [[\@Agape.Open.Science](https://www.instagram.com/Agape.Open.Science)]{style="color:#1155CC;text-decoration:none;"} on Instagram, [[\@AgapeOpenSci](https://facebook.com/AgapeOpen-Science)]{style="color:#1155CC;text-decoration:none;"} on Facebook, or [[\@agape-open-science](https://www.linkedin.com/company/agape-open-science/)]{style="color:#1155CC;text-decoration:none;"} on LinkedIn. You can send us an email at agape.open.science\@gmail.com too [Click here yo send us email: agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com).
 
-** **
-
-**Activities**
-
- 
-
-Check recommended activities to increase your understanding of the
-concepts introduced in this chapter and improve your practical
-knowledge.
-
- 
-
-** **
-
-**Footnote**
-
- 
-
-If you'd like to connect with us or see what's new you can do so by
-following
-us[[ on ]{style="color:windowtext;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)
-on
-Twitter,[[ ]{style="color:windowtext;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)[[\@Agape.Open.Science]{style="color:#1155CC;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)
-on Instagram,
-[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://facebook.com/AgapeOpen-Science)
-on Facebook, or [[Agape Open
-Science]{style="color:#1155CC;text-decoration:none;"}](https://www.linkedin.com/company/agape-open-science/)
-on LinkedIn. Or you can send us an email at
-[[agape.open.science\@gmail.com]{style="color:#1155CC;text-decoration:none;"}](mailto:agape.open.science@gmail.com). 
-
- 
-
-We would also love you to share your opinions, concerns, or feedback
-about a specific chapter or the course as a whole. There are two ways to
-do this. You can either fill in the survey or allow the Disqus widget
-that you can find at the end of each chapter to access the forum. 
-::::
-
-:::: {.mainfontFormat } 
-
-** **
-
-**Final quiz**
-
- 
-
-You have unlimited attempts to successfully complete the final quiz but
-only five minutes for each attempt. If you score 90% or higher a
-certificate of completion will be generated for you and you can download
-it directly. Click "Start Quiz" when you are ready.  
-::::
-
-
+We would also love you to share your opinions, concerns, or feedback about a specific chapter or the course as a whole. There are two ways to do this. You can either fill in the survey or allow the Disqus widget that you can find at the end of each chapter to access the forum.
+:::
 
 <!--  ```{r eval=FALSE} -->
-<!--  bookdown::serve_book() -->
-<!--  ``` -->
 
+<!--  bookdown::serve_book() -->
+
+<!--  ``` -->
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

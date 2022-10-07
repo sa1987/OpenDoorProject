@@ -1,5 +1,6 @@
 # Final quiz {-}
 
+You have unlimited attempts to successfully complete the final quiz but only five minutes for each attempt. If you score 90% or higher a certificate of completion will be generated for you and you can download it directly. Click “Start Quiz” when you are ready.
 
 <iframe src="https://sa1987.github.io/AgapeQuiz/?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
