@@ -1,6 +1,6 @@
 # Final quiz {-}
 
-The demo quiz for the final assessment
+
 <iframe src="https://sa1987.github.io/AgapeQuiz/?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuvtrZKCvPEQdbyXgVIyElS7tfNoz999fhu0ZXbfn9ebNgAg/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->

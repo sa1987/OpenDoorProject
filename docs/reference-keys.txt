@@ -23,7 +23,7 @@ pros
 conclusion
 test-your-understanding-3
 research-data
-research-data-lifecycle
+research-data-life-cycle
 data-management-plan
 data-access
 what-exactly-is-open-research-data
@@ -50,5 +50,3 @@ open-science-publishing
 how-to-communicate-your-research
 accessibility
 test-your-understanding-8
-final-quiz
-url-your-book-url-like-httpsbookdown.orgyihuibookdown

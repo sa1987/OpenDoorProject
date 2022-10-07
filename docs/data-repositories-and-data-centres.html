@@ -122,7 +122,7 @@
 </ul></li>
 <li class="chapter" data-level="5" data-path="research-data.html"><a href="research-data.html"><i class="fa fa-check"></i><b>5</b> Research data</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="research-data.html"><a href="research-data.html#research-data-lifecycle"><i class="fa fa-check"></i><b>5.1</b> Research data lifecycle</a></li>
+<li class="chapter" data-level="5.1" data-path="research-data.html"><a href="research-data.html#research-data-life-cycle"><i class="fa fa-check"></i><b>5.1</b> Research data life cycle</a></li>
 <li class="chapter" data-level="5.2" data-path="research-data.html"><a href="research-data.html#data-management-plan"><i class="fa fa-check"></i><b>5.2</b> Data management plan</a></li>
 <li class="chapter" data-level="5.3" data-path="research-data.html"><a href="research-data.html#data-access"><i class="fa fa-check"></i><b>5.3</b> Data access</a></li>
 <li class="chapter" data-level="5.4" data-path="research-data.html"><a href="research-data.html#what-exactly-is-open-research-data"><i class="fa fa-check"></i><b>5.4</b> What exactly is open research data?</a></li>
@@ -158,7 +158,7 @@
 <li class="chapter" data-level="9.4" data-path="communication-and-dissemination.html"><a href="communication-and-dissemination.html#accessibility"><i class="fa fa-check"></i><b>9.4</b> Accessibility</a></li>
 <li class="chapter" data-level="9.5" data-path="communication-and-dissemination.html"><a href="communication-and-dissemination.html#test-your-understanding-8"><i class="fa fa-check"></i><b>9.5</b> Test your understanding</a></li>
 </ul></li>
-<li class="chapter" data-level="10" data-path="final-quiz.html"><a href="final-quiz.html"><i class="fa fa-check"></i><b>10</b> Final quiz</a></li>
+<li class="chapter" data-level="" data-path="final-quiz.html"><a href="final-quiz.html"><i class="fa fa-check"></i>Final quiz</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
@@ -199,18 +199,20 @@
 <div id="data-repositories" class="section level2 hasAnchor" number="7.1">
 <h2><span class="header-section-number">7.1</span> Data repositories<a href="data-repositories-and-data-centres.html#data-repositories" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div class="mainfontFormat">
-<p>A data repository is a set of data that has been isolated for the purpose of data reporting and analysis. The <a href="http://digitalguardian.com/blog/what-data-repository"></a><a href="http://digitalguardian.com/blog/what-data-repository">data repository</a> is a multi-database infrastructure that collects, manages and stores data sets for data analysis, sharing and reporting. Grouping data together enables easier and faster data analysis and using data repositories is a part of data management. Data can also be stored and archived in data repositories.</p>
-<p>Examples of <a href="https://stealthbits.com/blog/what-is-a-data-repository-and-what-is-it-used-for/"></a><a href="https://stealthbits.com/blog/what-is-a-data-repository-and-what-is-it-used-for/">types</a> of data repositories include the following:</p>
-<p>● <strong>Data warehouse</strong> – A data warehouse is a system that collects data from several sources into a single, central, consistent data storage system for use in data analysis, data mining, artificial intelligence and machine learning. Data warehousing helps in improving data quality by centralising data from various sources, including transactional systems, operational databases and flat files. The file is then cleansed and standardised and duplicates are removed to establish a single source for the file.</p>
-<p>● <strong>Data lake</strong> – A data lake is a data warehouse without predefined schemas. As a result, it supports a wider range of analytics than a traditional data warehouse. The main distinction between a data lake and a data warehouse is that data lakes contain large amounts of unstructured data whereas the data in a data warehouse is structured.</p>
-<p>● <strong>Data mart</strong> – A data mart is a simplified data warehouse which focuses on a single subject. It reduces the time and resources required to go through more complex data in a data warehouse or manually aggregating data from several sources. By using a data mart, teams can access data and obtain insights faster than using a data warehouse.</p>
-<p>● <strong>Metadata repositories</strong> – Metadata provides fundamental information about data, making it easier to discover and operate with specific types of data. A metadata repository is a software which maintains descriptive data about the data model that is used to store and exchange metadata. Diagrams and text are combined in metadata repositories, allowing for metadata integration and updating. A metadata repository can also serve as the foundation for a data warehouse, among other things.</p>
-<p>● <strong>Data cubes</strong> – A <a href="https://www.metabase.com/learn/databases/data-cube"></a><a href="https://www.metabase.com/learn/databases/data-cube">data cube</a> is a representation of the precise information that has to be extracted from a large quantity of complex data. A data cube is a structure designed to handle analytical queries. They contain metrics that have one or more regularly used dimensions. The metrics are precomputed, which means that a database job takes raw data, does computations and produces a new table to hold the results so that they can be queried instead of having to query and compute them from scratch each time. When data is aggregated depending on particular factors, numerous tables are layered on top of each other, creating a cube-like result. Data cubes group together various important data to allow for more flexible analysis, such as spotting trends. When data is organised into cubes, queries may be run significantly faster than if the tables were all kept separately.</p>
-<p>● <strong>Operational data stores</strong> – An operational data store is used to keep comprehensive transactional data from several operating systems. It can function as a stand-alone operational system or as a temporary staging location for data until it is cleansed, processed and put into a data warehouse. An ODS receives data from other systems on a continual basis, either through real-time data replication or batch extract-transform-load processes. In most cases, data is kept in a denormalized manner. Operational data stores are useful for querying small datasets in real-time or near-real-time (Kumar, 2019).</p>
+<p>A data repository is a set of data that has been isolated for the purpose of data reporting and analysis. The <a href="http://digitalguardian.com/blog/what-data-repository">data repository</a> is a multi-database infrastructure that collects, manages and stores data sets for data analysis, sharing and reporting. Grouping data together enables easier and faster data analysis and using data repositories is a part of data management. Data can also be stored and archived in data repositories.</p>
+<p>Examples of <a href="https://stealthbits.com/blog/what-is-a-data-repository-and-what-is-it-used-for/">types</a> of data repositories include the following:</p>
+<ul>
+<li><p><strong>Data warehouse</strong> – A data warehouse is a system that collects data from several sources into a single, central, consistent data storage system for use in data analysis, data mining, artificial intelligence and machine learning. Data warehousing helps in improving data quality by centralising data from various sources, including transactional systems, operational databases and flat files. The file is then cleansed and standardised and duplicates are removed to establish a single source for the file.</p></li>
+<li><p><strong>Data lake</strong> – A data lake is a data warehouse without predefined schemas. As a result, it supports a wider range of analytics than a traditional data warehouse. The main distinction between a data lake and a data warehouse is that data lakes contain large amounts of unstructured data whereas the data in a data warehouse is structured.</p></li>
+<li><p><strong>Data mart</strong> – A data mart is a simplified data warehouse which focuses on a single subject. It reduces the time and resources required to go through more complex data in a data warehouse or manually aggregating data from several sources. By using a data mart, teams can access data and obtain insights faster than using a data warehouse.</p></li>
+<li><p><strong>Metadata repositories</strong> – Metadata provides fundamental information about data, making it easier to discover and operate with specific types of data. A metadata repository is a software which maintains descriptive data about the data model that is used to store and exchange metadata. Diagrams and text are combined in metadata repositories, allowing for metadata integration and updating. A metadata repository can also serve as the foundation for a data warehouse, among other things.</p></li>
+<li><p><strong>Data cubes</strong> – A <a href="https://www.metabase.com/learn/databases/data-cube">data cube</a> is a representation of the precise information that has to be extracted from a large quantity of complex data. A data cube is a structure designed to handle analytical queries. They contain metrics that have one or more regularly used dimensions. The metrics are precomputed, which means that a database job takes raw data, does computations and produces a new table to hold the results so that they can be queried instead of having to query and compute them from scratch each time. When data is aggregated depending on particular factors, numerous tables are layered on top of each other, creating a cube-like result. Data cubes group together various important data to allow for more flexible analysis, such as spotting trends. When data is organised into cubes, queries may be run significantly faster than if the tables were all kept separately.</p></li>
+<li><p><strong>Operational data stores</strong> – An operational data store is used to keep comprehensive transactional data from several operating systems. It can function as a stand-alone operational system or as a temporary staging location for data until it is cleansed, processed and put into a data warehouse. An ODS receives data from other systems on a continual basis, either through real-time data replication or batch extract-transform-load processes. In most cases, data is kept in a denormalized manner. Operational data stores are useful for querying small datasets in real-time or near-real-time (Kumar, 2019).</p></li>
+</ul>
 <div id="re3data-research-data-repositories-registry" class="section level3 unnumbered hasAnchor">
 <h3>Re3data – research data repositories registry<a href="data-repositories-and-data-centres.html#re3data-research-data-repositories-registry" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>A research data repository is the best approach to publishing and exchanging research data. A repository is an online database that allows long-term preservation of research data while also assisting others in finding it. A repository will provide a DOI for each submitted object and provide a web page that describes what it is, how to cite it and how many times other researchers have cited or downloaded it, in addition to archiving research data.</p>
-<p>The <a href="https://www.re3data.org/"></a><a href="https://www.re3data.org/">Re3data</a> registry of research data repositories is an open scientific platform that provides an insight into the existing international research data repositories for academics, funding agencies, libraries and publications. The Humboldt University in Berlin, the German Research Centre for Geosciences (GFZ), the Karlsruhe Institute of Technology (KIT) and Purdue University all contribute to the register. By using a key-term search, the Re3data catalogue can be used to search for datasets. Results can also be filtered to show different fields such as social sciences, economics, anthropology, geography and the humanities. Also, the three browse functions – subject, content type and country – can be used to locate datasets. Data can be found by topic area using an interactive chart of disciplines and subdisciplines. Furthermore, data regarding the source repository are stated in the series metadata.</p>
+<p>The <a href="https://www.re3data.org/">Re3data</a> registry of research data repositories is an open scientific platform that provides an insight into the existing international research data repositories for academics, funding agencies, libraries and publications. The Humboldt University in Berlin, the German Research Centre for Geosciences (GFZ), the Karlsruhe Institute of Technology (KIT) and Purdue University all contribute to the register. By using a key-term search, the Re3data catalogue can be used to search for datasets. Results can also be filtered to show different fields such as social sciences, economics, anthropology, geography and the humanities. Also, the three browse functions – subject, content type and country – can be used to locate datasets. Data can be found by topic area using an interactive chart of disciplines and subdisciplines. Furthermore, data regarding the source repository are stated in the series metadata.</p>
 <p>Some examples of popular data repositories for storing research data are <a href="https://figshare.com/">figshare</a>, <a href="https://data.mendeley.com/">Mendeley Data</a>, <a href="https://datadryad.org/stash">Dryad</a>, <a href="https://datadryad.org/stash">Zenodo</a> and <a href="https://osf.io/">Open Science Framework</a>.</p>
 </div>
 </div>
@@ -221,7 +223,7 @@
 <p>While a data repository is a type of data library or data archive, a data centre also provides data asset management and services for the entire organisation through a series of platforms, tools, processes and specifications. A data centre refers to a location where data and applications are stored. Data centres make deposited data available to other scientists, commercial enterprises, government bodies, educational institutions and the general public. The architecture of a data centre is built on a network of computer and storage resources that allow shared applications and data to be transmitted. Data centres’ architecture and functionalities have been greatly improved over time. The traditional on-premises physical server with virtual networks that support applications and workloads across groups of physical infrastructure has evolved into a multi-cloud system. As a result, data is now available and networked over numerous data centres, the edge and public and private clouds. Over time, data centres have increased their capacity to communicate with different locations both on-premises and in the cloud.</p>
 <div id="components-of-a-data-centre" class="section level3 unnumbered hasAnchor">
 <h3>Components of a data centre<a href="data-repositories-and-data-centres.html#components-of-a-data-centre" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>The primary <a href="https://centriq.com/blog/3-principles-of-data-center-infrastructure-design/"></a><a href="https://centriq.com/blog/3-principles-of-data-center-infrastructure-design/">components</a> of a data centre are the computing unit, storage unit and network unit. The components of a data centre include computers, servers, routers or switches, a firewall or biometric security system, storage systems such as storage area networks or backup/tape storage, data centre management software/applications, power and cooling devices such as air conditioners or generators, physical server racks and chassis cables and an internet backbone.</p>
+<p>The primary <a href="https://centriq.com/blog/3-principles-of-data-center-infrastructure-design/">components</a> of a data centre are the computing unit, storage unit and network unit. The components of a data centre include computers, servers, routers or switches, a firewall or biometric security system, storage systems such as storage area networks or backup/tape storage, data centre management software/applications, power and cooling devices such as air conditioners or generators, physical server racks and chassis cables and an internet backbone.</p>
 </div>
 <div id="data-centre-services" class="section level3 unnumbered hasAnchor">
 <h3>Data centre services<a href="data-repositories-and-data-centres.html#data-centre-services" class="anchor-section" aria-label="Anchor link to header"></a></h3>
@@ -241,25 +243,27 @@
 </div>
 <div id="trends-and-future-development" class="section level3 unnumbered hasAnchor">
 <h3>Trends and future development<a href="data-repositories-and-data-centres.html#trends-and-future-development" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Due to the high energy consumption of data centres, there is a current trend to <a href="https://bitpower.ie/images/Reports/2021_H1_Report.pdf"></a><a href="https://bitpower.ie/images/Reports/2021_H1_Report.pdf">shift to renewable sources of energy</a>. Renewable energy sourcing is standard, most data operators pay a premium to their suppliers for a 100% supply of certified renewable energy. Direct partnerships with renewable energy plants are becoming more popular globally. This demand for renewable energy will give the renewable industry much-needed investment, certainty and it may even minimise the need for REFIT (renewable energy feed in tariff) programmes for renewable energy.</p>
+<p>Due to the high energy consumption of data centres, there is a current trend to <a href="https://bitpower.ie/images/Reports/2021_H1_Report.pdf">shift to renewable sources of energy</a>. Renewable energy sourcing is standard, most data operators pay a premium to their suppliers for a 100% supply of certified renewable energy. Direct partnerships with renewable energy plants are becoming more popular globally. This demand for renewable energy will give the renewable industry much-needed investment, certainty and it may even minimise the need for REFIT (renewable energy feed in tariff) programmes for renewable energy.</p>
 </div>
 </div>
 </div>
 <div id="test-your-understanding-6" class="section level2 hasAnchor" number="7.3">
 <h2><span class="header-section-number">7.3</span> Test your understanding<a href="data-repositories-and-data-centres.html#test-your-understanding-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <iframe src="https://sa1987.github.io/AgapeOSQuizChapter-7?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">
-Loading…
+<p>Loading…</p>
 </iframe>
 <div class="activitybox">
 <div class="center">
-<p><strong>Activities!</strong></p>
+<p><strong>Activities</strong></p>
 </div>
 <div class="notification">
 <p>In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.</p>
 </div>
-<p>● Check out the <a href="https://dri.ie/"></a><a href="https://dri.ie/">Digital Repository of Ireland</a>, the <a href="https://www.bas.ac.uk/data/uk-pdc/"></a><a href="https://www.bas.ac.uk/data/uk-pdc/">UK Polar Data Centre</a> and the <a href="https://www.ncbi.nlm.nih.gov/"></a><a href="https://www.ncbi.nlm.nih.gov/">National Centre for Biotechnology Information</a>. How would you deposit data in each of them?</p>
-<p>● Identify a data repository/data centre suitable for depositing your research data. Add it to your data management plan.</p>
-<p>● Did you find the previous two activities easy? Or were they a bit of a challenge? Share your experience and tips on data repositories/centres suitable for a specific type of data or research with others on our social media.</p>
+<ul>
+<li><p>Check out the <a href="https://dri.ie/">Digital Repository of Ireland</a>, the <a href="https://www.bas.ac.uk/data/uk-pdc/">UK Polar Data Centre</a> and the <a href="https://www.ncbi.nlm.nih.gov/">National Centre for Biotechnology Information</a>. How would you deposit data in each of them?</p></li>
+<li><p>Identify a data repository/data centre suitable for depositing your research data. Add it to your data management plan.</p></li>
+<li><p>Did you find the previous two activities easy? Or were they a bit of a challenge? Share your experience and tips on data repositories/centres suitable for a specific type of data or research with others on our social media.</p></li>
+</ul>
 </div>
 
 </div>
@@ -270,11 +274,24 @@ Loading…
       <div id="disqus_thread"></div>
   <div style="padding: 0 15px;" class="db dtc-ns">
     <p>
-      If you’d like to connect with us or see what’s new, you can do so  by following us <a href="https://twitter.com/AgapeOpenSci" target="_blank">@AgapeOpenSci on Twitter</a> , 
-      <a href="https://www.instagram.com/Agape.Open.Science" target="_blank">@Agape.Open.Science on Instagram</a> or 
-       <a href="https://facebook.com/AgapeOpen-Science" target="_blank">@AgapeOpenSci on facebook</a> 
-      You can also contact the team through email too @ agape.open.science@gmail.com
-      <a href="mailto:agape.open.science@gmail.com">Click here to send us an email!!!</a>
+If you'd like to connect with us or see what's new you can do so by
+following
+us[[ on ]{style="color:windowtext;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://twitter.com/AgapeOpenSci)
+on
+Twitter,[[ ]{style="color:windowtext;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)[[\@Agape.Open.Science]{style="color:#1155CC;text-decoration:none;"}](https://www.instagram.com/Agape.Open.Science)
+on Instagram,
+[[\@AgapeOpenSci]{style="color:#1155CC;text-decoration:none;"}](https://facebook.com/AgapeOpen-Science)
+on Facebook, or [[Agape Open
+Science]{style="color:#1155CC;text-decoration:none;"}](https://www.linkedin.com/company/agape-open-science/)
+on LinkedIn. Or you can send us an email at
+[[agape.open.science\@gmail.com]{style="color:#1155CC;text-decoration:none;"}](mailto:agape.open.science@gmail.com). 
+
+ 
+
+We would also love you to share your opinions, concerns, or feedback
+about a specific chapter or the course as a whole. There are two ways to
+do this. You can either fill in the survey or allow the Disqus widget
+that you can find at the end of each chapter to access the forum. 
     </p>    
 <script>
     /**
