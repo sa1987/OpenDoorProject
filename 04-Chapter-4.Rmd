@@ -54,7 +54,7 @@ Loading...
 
 ::: activitybox
 ::: center
-**Activities!**
+**Activities**
 :::
 
 ::: notification

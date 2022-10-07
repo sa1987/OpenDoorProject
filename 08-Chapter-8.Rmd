@@ -1,147 +1,159 @@
-#  Open science policies, scientific integrity and ethics
+# Open science policies, scientific integrity and ethics
+
 ## Open science policies
-:::: {.mainfontFormat }
-Open science policies are a set of guidelines and protocols developed and implemented to promote open science principles. These policies can be mandatory or voluntary in nature and are often put in place by government agencies, funders, research institutions, etc. Often, these policies provide a framework for making research data accessible to the public long term and to evaluate its subsequent impact. If you are interested in adopting open science practices in your research, the first step is to understand your organisation and relevant stakeholders, like the funding body, their current policies and how they can affect your work. If you would like to know more about organisations and their policies, check out the European Commission's [](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-data-protection_en.pdf)[Ethics and Data Protection guidelines](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-data-protection_en.pdf). 
+
+::: mainfontFormat
+Open science policies are a set of guidelines and protocols developed and implemented to promote open science principles. These policies can be mandatory or voluntary in nature and are often put in place by government agencies, funders, research institutions, etc. Often, these policies provide a framework for making research data accessible to the public long term and to evaluate its subsequent impact. If you are interested in adopting open science practices in your research, the first step is to understand your organisation and relevant stakeholders, like the funding body, their current policies and how they can affect your work. If you would like to know more about organisations and their policies, check out the European Commission's [Ethics and Data Protection guidelines](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/ethics/h2020_hi_ethics-data-protection_en.pdf).
 
 The most common factors addressed by policymakers to increase effectiveness are:
 
-●   Provision to review and identify the nature of the data and suitability to release it for public access.
+-   Provision to review and identify the nature of the data and suitability to release it for public access.
 
-●   Provision to restrict or anonymize personal data.
+-   Provision to restrict or anonymize personal data.
 
-●   Provision of data centres and repositories to store and publish the data.
+-   Provision of data centres and repositories to store and publish the data.
 
-●   Provision of roadmaps, tools, checklists, etc. for open-access publication.
+-   Provision of roadmaps, tools, checklists, etc. for open-access publication.
 
-●   Outline of the intellectual property rights, copyrights, data licensing and reuse rights.
+-   Outline of the intellectual property rights, copyrights, data licensing and reuse rights.
 
-●   Outlining the data publishing standards in line with open standards.
+-   Outlining the data publishing standards in line with open standards.
 
-●   Provision to monitor, assess and review the policy.
+-   Provision to monitor, assess and review the policy.
 
-●   Data anonymization.
+-   Data anonymization.
 
-You can learn more about storing public data in the chapter “Data repositories and data centres”, about open access publishing in the chapter “Open data and open access” and about data licensing in the chapter “Open-source, open licensing, scientific programming”.
-:::: 
+You can learn more about storing public data in the chapter "Data repositories and data centres", about open access publishing in the chapter "Open data and open access" and about data licensing in the chapter "Open-source, open licensing, scientific programming".
+:::
+
 ## Scientific integrity and ethics
-:::: {.mainfontFormat }
-In order to maintain the integrity, value and benefits of open science research there is a need to adhere to ethical principles across disciplines which include societal issues such as non-discrimination, privacy and confidentiality as well as professional conduct. Due to variations of these across countries, [](https://www.rand.org/)[local laws and cultural norms](https://www.rand.org/) must be considered and adhered to. It is useful to consider that these [](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)[principles](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) could evolve due to factors which include historical events, scientific advancements and behavioural norm changes.
 
-While there are national and disciplinary differences in the way research is organised and conducted, there are also general principles and professional responsibilities that are fundamental to the integrity of research as indicated in the [](https://wcrif.org/statement)[Singapore Statement on Research Integrity](https://wcrif.org/statement), published in 2010.
+::: mainfontFormat
+In order to maintain the integrity, value and benefits of open science research there is a need to adhere to ethical principles across disciplines which include societal issues such as non-discrimination, privacy and confidentiality as well as professional conduct. Due to variations of these across countries, [local laws and cultural norms](https://www.rand.org/) must be considered and adhered to. It is useful to consider that these [principles](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) could evolve due to factors which include historical events, scientific advancements and behavioural norm changes.
+
+While there are national and disciplinary differences in the way research is organised and conducted, there are also general principles and professional responsibilities that are fundamental to the integrity of research as indicated in the [Singapore Statement on Research Integrity](https://wcrif.org/statement), published in 2010.
 
 General principles:
 
-●       **Honesty** in all aspects of research.
+      **Honesty** in all aspects of research.
 
-●       **Accountability** in the conduct of research.
+      **Accountability** in the conduct of research.
 
-●       **Professional courtesy and fairness** in working with others.
+      **Professional courtesy and fairness** in working with others.
 
-●       **Good stewardship** of research on behalf of others.
+      **Good stewardship** of research on behalf of others.
 
 Professional responsibilities:
 
-●  **Integrity –** Researchers should take responsibility for the trustworthiness of their research.
+-   **Integrity --** Researchers should take responsibility for the trustworthiness of their research.
 
-●  **Adherence to regulations –** Researchers should be aware of and adhere to regulations and policies related to research.
+-   **Adherence to regulations --** Researchers should be aware of and adhere to regulations and policies related to research.
 
-●  **Research methods –** Researchers should employ appropriate research methods, base conclusions on critical analysis of the evidence and report findings and interpretations fully and objectively.
+-   **Research methods --** Researchers should employ appropriate research methods, base conclusions on critical analysis of the evidence and report findings and interpretations fully and objectively.
 
-●  **Research records –** Researchers should keep clear, accurate records of all research in ways that will allow verification and replication of their work by others.
+-   **Research records --** Researchers should keep clear, accurate records of all research in ways that will allow verification and replication of their work by others.
 
-●  **Research findings –** Researchers should share data and findings openly and promptly as soon as they have had an opportunity to establish priority and ownership claims.
+-   **Research findings --** Researchers should share data and findings openly and promptly as soon as they have had an opportunity to establish priority and ownership claims.
 
-●  **Authorship –** Researchers should take responsibility for their contributions to all publications, funding applications, reports and other representations of their research. Lists of authors should include all those and only those who meet applicable authorship criteria.
+-   **Authorship --** Researchers should take responsibility for their contributions to all publications, funding applications, reports and other representations of their research. Lists of authors should include all those and only those who meet applicable authorship criteria.
 
-●  **Publication acknowledgement –** Researchers should acknowledge in publications the names and roles of those who made significant contributions to the research, including writers, funders, sponsors, and others, but do not meet authorship criteria.
+-   **Publication acknowledgement --** Researchers should acknowledge in publications the names and roles of those who made significant contributions to the research, including writers, funders, sponsors, and others, but do not meet authorship criteria.
 
-●  **Peer review –** Researchers should provide fair, prompt and rigorous evaluations and respect confidentiality when reviewing others' work.
+-   **Peer review --** Researchers should provide fair, prompt and rigorous evaluations and respect confidentiality when reviewing others' work.
 
-● **Conflict of interest –** Researchers should disclose financial and other conflicts of interest that could compromise the trustworthiness of their work in research proposals, publications and public communications as well as in all review activities.
+-   **Conflict of interest --** Researchers should disclose financial and other conflicts of interest that could compromise the trustworthiness of their work in research proposals, publications and public communications as well as in all review activities.
 
-●  **Public communication –** Researchers should limit professional comments to their recognized expertise when engaged in public discussions about the application and importance of research findings and clearly distinguish professional comments from opinions based on personal views.
+-   **Public communication --** Researchers should limit professional comments to their recognized expertise when engaged in public discussions about the application and importance of research findings and clearly distinguish professional comments from opinions based on personal views.
 
-●  **Reporting irresponsible research practices –** Researchers should report to the appropriate authorities any suspected research misconduct, including fabrication, falsification or plagiarism, and other irresponsible research practices that undermine the trustworthiness of research, such as carelessness, improperly listing authors, failing to report conflicting data, or the use of misleading analytical methods.
+-   **Reporting irresponsible research practices --** Researchers should report to the appropriate authorities any suspected research misconduct, including fabrication, falsification or plagiarism, and other irresponsible research practices that undermine the trustworthiness of research, such as carelessness, improperly listing authors, failing to report conflicting data, or the use of misleading analytical methods.
 
-●  **Responding to irresponsible research practices –** Research institutions, as well as journals, professional organisations and agencies that have commitments to research, should have procedures for responding to allegations of misconduct and other irresponsible research practices and for protecting those who report such behaviour in good faith. When misconduct or other irresponsible research practice is confirmed, appropriate actions should be taken promptly, including correcting the research record.
+-   **Responding to irresponsible research practices --** Research institutions, as well as journals, professional organisations and agencies that have commitments to research, should have procedures for responding to allegations of misconduct and other irresponsible research practices and for protecting those who report such behaviour in good faith. When misconduct or other irresponsible research practice is confirmed, appropriate actions should be taken promptly, including correcting the research record.
 
-●  **Research environments –** Research institutions should create and sustain environments that encourage integrity through education, clear policies, and reasonable standards for advancement, while fostering work environments that support research integrity.
+-   **Research environments --** Research institutions should create and sustain environments that encourage integrity through education, clear policies, and reasonable standards for advancement, while fostering work environments that support research integrity.
 
-●  **Societal considerations –** Researchers and research institutions should recognize that they have an ethical obligation to weigh societal benefits against risks inherent in their work.
-:::: 
+-   **Societal considerations --** Researchers and research institutions should recognize that they have an ethical obligation to weigh societal benefits against risks inherent in their work.
+:::
+
 ## Research misconduct
-:::: {.mainfontFormat }
-Violation of research conduct or research ethics when proposing, performing or reviewing research or reporting research results is known as research misconduct. Under the umbrella of [](https://en.wikipedia.org/wiki/Scientific_misconduct)[research misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct), we can find fabrication, falsification and plagiarism. Other irresponsible research practices that can undermine the trustworthiness of research but that are seen as having less impact on the research process are often referred to as questionable research practices. Their definition and categorisation are country-dependent. According to the European Commission’s [](https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf)[Report on Responsible Open Science](https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf) in addition to upholding high quality research through transparent and reproducible results, there is also a need to deal with challenges which result from malpractices such as fake science, biassed assessment and predatory journals.
 
-To keep the research code of conduct up to date and in line with emerging changes it is frequently reviewed. Mechanisms to conduct ethical research have been established, including the peer review process, policy governance structures and education and training of researchers. No one is implying that you would intentionally commit research misconduct. However, it is good to know what to watch out for. A good place to start reading about it is the [](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&appId=PPGMS)[Policy Brief on Research Integrity](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&appId=PPGMS) by the European Commission, the OECD’s [](https://www.oecd.org/science/inno/40188303.pdf)[Best Practices for Ensuring Scientific Integrity and Preventing Misconduct](https://www.oecd.org/science/inno/40188303.pdf) and policies at your institution.
-:::: 
+::: mainfontFormat
+Violation of research conduct or research ethics when proposing, performing or reviewing research or reporting research results is known as research misconduct. Under the umbrella of [research misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct), we can find fabrication, falsification and plagiarism. Other irresponsible research practices that can undermine the trustworthiness of research but that are seen as having less impact on the research process are often referred to as questionable research practices. Their definition and categorisation are country-dependent. According to the European Commission's [Report on Responsible Open Science](https://ec.europa.eu/info/sites/default/files/policy_briefing_swafs-30-2020.pdf) in addition to upholding high quality research through transparent and reproducible results, there is also a need to deal with challenges which result from malpractices such as fake science, biassed assessment and predatory journals.
+
+To keep the research code of conduct up to date and in line with emerging changes it is frequently reviewed. Mechanisms to conduct ethical research have been established, including the peer review process, policy governance structures and education and training of researchers. No one is implying that you would intentionally commit research misconduct. However, it is good to know what to watch out for. A good place to start reading about it is the [Policy Brief on Research Integrity](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5bf5c08aa&appId=PPGMS) by the European Commission, the OECD's [Best Practices for Ensuring Scientific Integrity and Preventing Misconduct](https://www.oecd.org/science/inno/40188303.pdf) and policies at your institution.
+:::
+
 ## Research with human subjects
-:::: {.mainfontFormat }
+
+::: mainfontFormat
 If your research involves humans as research participants, it must firstly be approved by an independent review body. Research Ethics Committees or Institutional Review Boards provide you with helpful advice and will answer any questions or doubts you might have about your research. Basic guidelines are provided:
 
-●    In the [Nuremberg Code](https://en.wikipedia.org/wiki/Nuremberg_Code) (1947).
+-   In the [Nuremberg Code](https://en.wikipedia.org/wiki/Nuremberg_Code) (1947).
 
-●    By the [](https://www.coe.int/en/web/portal)[Council of Europe](https://www.coe.int/en/web/portal) (CoE).
+-   By the [Council of Europe](https://www.coe.int/en/web/portal) (CoE).
 
-●    In the [](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/#:~:text=1.,identifiable%20human%20material%20and%20data.)[Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/#:~:text=1.,identifiable%20human%20material%20and%20data.) (1964).
+-   In the [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/#:~:text=1.,identifiable%20human%20material%20and%20data.) (1964).
 
-●    In the [](https://docs.google.com/document/u/0/d/1oUTVCqSzDajLWZAlSkFwHX8XZrolNDDayX1I3OtkzRs/edit)[Convention for the Protection of Human Rights and Dignity of the Human Being](https://docs.google.com/document/u/0/d/1oUTVCqSzDajLWZAlSkFwHX8XZrolNDDayX1I3OtkzRs/edit) (1997).
+-   In the [Convention for the Protection of Human Rights and Dignity of the Human Being](https://docs.google.com/document/u/0/d/1oUTVCqSzDajLWZAlSkFwHX8XZrolNDDayX1I3OtkzRs/edit) (1997).
 
 If your research involves human participants or if you are dealing with personal data, appropriate tools should be used and the attention to the data protection and privacy laws is of utmost importance. Researchers should:
 
-●       Have informed consent from participants.
+-   Have informed consent from participants.
 
-●       Ensure confidentiality by protecting participants’ anonymity.
+-   Ensure confidentiality by protecting participants' anonymity.
 
-●       Avoid any practices considered to be deceptive.
+-   Avoid any practices considered to be deceptive.
 
-●       Ensure participants have the right to withdraw if required.
+-   Ensure participants have the right to withdraw if required.
 
 To receive fully informed consent from human subjects is mandatory. Informed consent must be:
 
-●       **Clear** – To achieve this use plain language.
+-   **Clear** -- To achieve this use plain language.
 
-●       **Concise** – Don't overwhelm the potential participant with unnecessary information.
+-   **Concise** -- Don't overwhelm the potential participant with unnecessary information.
 
-●       **Continuous** – As the research progresses participants must confirm they wish to continue.
+-   **Continuous** -- As the research progresses participants must confirm they wish to continue.
 
-Data protection law updates should be noted with regard to new collection, processing, storage, updating and enforcement methods. For example, the new EU General Data Protection Regulation ([GDPR](https://gdpr.eu/what-is-gdpr/)). Different countries have different [](https://en.wikipedia.org/wiki/National_data_protection_authority)[data protection authorities](https://en.wikipedia.org/wiki/National_data_protection_authority), who provide guidance on their specific laws.
-:::: 
+Data protection law updates should be noted with regard to new collection, processing, storage, updating and enforcement methods. For example, the new EU General Data Protection Regulation ([GDPR](https://gdpr.eu/what-is-gdpr/)). Different countries have different [data protection authorities](https://en.wikipedia.org/wiki/National_data_protection_authority), who provide guidance on their specific laws.
+:::
+
 ## Research with animal subjects
-:::: {.mainfontFormat }
 
+::: mainfontFormat
 As animals deserve respect but cannot argue for their own protection and rights, they must be protected if used in your research.
 
 Generally accepted guidelines ([Russell & Burch, 1959](http://117.239.25.194:7000/jspui/bitstream/123456789/1342/1/PRILIMINERY%20%20AND%20%20CONTENTS.pdf)) for research with animal subjects are:
 
-●       **Replacement** of use of animals with other alternatives wherever possible.
+-   **Replacement** of use of animals with other alternatives wherever possible.
 
-●       **Reduction** in the numbers of animals used.
+-   **Reduction** in the numbers of animals used.
 
-●       **Refinement** of research techniques to reduce discomfort, distress or pain for the animals being studied.
+-   **Refinement** of research techniques to reduce discomfort, distress or pain for the animals being studied.
 
 Legislation relevant to research on animals varies greatly between countries, even within the EU. Analogous to research with human participants, an independent committee oversees research with animals. Committees will have different names in different countries.
-::::
+:::
 
 ## Test your understanding
 
-<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-8?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"  style="border: 3px solid #3fb5bd;" >Loading…</iframe>
+<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-8?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">
 
-:::: {.activitybox }
+Loading...
 
-::: {.center }
-**Activities!**
+</iframe>
+
+::: activitybox
+::: center
+**Activities**
 :::
 
-::: {.notification }
+::: notification
 In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
 :::
 
-●       With all the online resources available today we have access to the work of other researchers, now more than ever. On the other hand, we also have many tools at hand to avoid plagiarism, even if unintentional. Check if your university offers a specific plagiarism checker or, alternatively, try Plagiarism Checker or Plagiarism Detector.
- 
-●       Are you wondering about the research misconduct investigation procedure? You can find more information on, or study the procedure for, the investigation of misconduct in research at the UK Research Integrity Office website or the UCD website.
- 
-●       Have a look at some articles that are around a decade old discussing research misconduct. Or have you noticed such an article recently? Do you think a lot has changed in the last 10 years?
- 
-●       Have you learned anything new or shocking? Can you imagine a situation when you could be under pressure to commit research misconduct or irresponsible research practices? Share your thoughts with others on our social media.
-::::
+-   With all the online resources available today we have access to the work of other researchers, now more than ever. On the other hand, we also have many tools at hand to avoid plagiarism, even if unintentional. Check if your university offers a specific plagiarism checker or, alternatively, try Plagiarism Checker or Plagiarism Detector.
+
+-   Are you wondering about the research misconduct investigation procedure? You can find more information on, or study the procedure for, the investigation of misconduct in research at the UK Research Integrity Office website or the UCD website.
+
+-   Have a look at some articles that are around a decade old discussing research misconduct. Or have you noticed such an article recently? Do you think a lot has changed in the last 10 years?
+
+-   Have you learned anything new or shocking? Can you imagine a situation when you could be under pressure to commit research misconduct or irresponsible research practices? Share your thoughts with others on our social media.
+:::
