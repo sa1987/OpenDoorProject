@@ -71,17 +71,17 @@ Data management is the practice of collecting, preserving and sharing research d
 :::: {.mainfontFormat }
 Developing a data management plan (DMP) can be invaluable to your research by ensuring efficient research data management and sharing. A DMP is a document that outlines how data are handled throughout the entire research process and once it is completed. It should consider all aspects of the research data lifecycle. A DMP should be produced before you start working on your research project and you should continually update and edit it when needed. A DMP is not a static but living document. It is okay if you can't answer all the questions at the beginning. Although it requires time to create your DMP and to keep it updated, in the long-term it saves a lot of time and effort. Also, public funding bodies often require at least an outline of a DMP. It is good to know that requirements for a DMP differ between various institutions and funding bodies. In general, it may provide information to answer the following questions:
 
-●    What is the nature of your research and your scientific hypothesis? What questions are you trying to answer?
+   ●   What is the nature of your research and your scientific hypothesis? What questions are you trying to answer?
 
-●    Who has what roles and responsibilities? Do you have any special requirements for hardware and software?
+   ●   Who has what roles and responsibilities? Do you have any special requirements for hardware and software?
 
-●    How are you planning to generate or collect data? If working with physical samples, how will these be labelled and what system of unique identifiers will be used? If working with people or animals, how will ethical issues be handled?
+   ●   How are you planning to generate or collect data? If working with physical samples, how will these be labelled and what system of unique identifiers will be used? If working with people or animals, how will ethical issues be handled?
 
-●    How will these data be processed?
+   ●   How will these data be processed?
 
-●    What quality assurance checks will be carried out and how will you deal with problems, missing values and errors, if found?
+   ●   What quality assurance checks will be carried out and how will you deal with problems, missing values and errors, if found?
 
-●    How will data be stored and shared during the project (permission levels, version control and backups) and once it is completed (archiving)? How will intellectual property rights be handled?
+   ●   How will data be stored and shared during the project (permission levels, version control and backups) and once it is completed (archiving)? How will intellectual property rights be handled?
 
 Although not addressed in a DMP, other types of documents and records should be managed during and beyond the life of a project. E.g., correspondence (e-mail and paper-based), project files, grant and ethics applications and approvals, signed consent forms, research reports, technical reports, project reports and files and master lists.
 ::::
