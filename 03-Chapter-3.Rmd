@@ -50,7 +50,7 @@ The most common conditions found in data licences are:
 
 [**Creative Commons**](https://creativecommons.org/): One of the most popular and widely accepted licence providers for most content with the exception of source code. Three versions (CCO, CC-BY, CC-BY-SA) of it are intended for open licensing. [Choose a licence](https://choosealicense.com/licenses/) by [GitHub](https://github.com/) provides a list of licences that are specific to software codes.
 
-[**Open data ommons**](https://opendatacommons.org/): Similar to Creative Commons, but these licences are specifically designed for databases.
+[**Open data commons**](https://opendatacommons.org/)**:** Similar to Creative Commons, but these licences are specifically designed for databases.
 :::
 
 ## Scientific programming
