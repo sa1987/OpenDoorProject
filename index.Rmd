@@ -33,11 +33,9 @@ And now, without any further delay, let's quench that thirst for knowledge!
 
 ------------------------------------------------------------------------
 
-::: mainfontFormat
-::: {style="font-family: 'Arial','sans-serif' ;   font-weight: bold; font-size: 25px"}
-**Course structure and certificate of completion**
-:::
+## Course structure and certificate of completion {.unnumbered}
 
+::: mainfontFormat
 The course is structured into chapters that are written to expand on various topics. We think that the order they follow is logical and the latter chapters build on knowledge acquired in previous chapters. That said, you can decide to go through them in whatever order you like by clicking on different chapters in the menu on the left or to return to some of them should you find something is not clear or you require a brief refresher.
 
 At the end of each chapter you will find activities to enhance your understanding of the concepts introduced in a particular chapter and to improve your practical knowledge. All chapters except one contain a short quiz consisting of five questions where you can test your freshly acquired knowledge. You will see your score immediately and you can save your high scores if you wish. These scores will be saved in cookies in your browser and you can delete them by deleting cookies. The quizzes have no time limit and you have as many attempts to practice as you want.
@@ -47,23 +45,11 @@ Once you read all chapters and practise each short quiz you can attempt the fina
 We know we are by no means perfect. We would love you to share your opinions, concerns, or feedback about a specific chapter or the course as a whole. There are two ways to do this. You can either fill in the survey or use the Disqus widget that you can find at the end of each chapter to access the forum. In a truly open spirit we will discuss, collaborate and offer constructive criticism and helpful advice and ask for the same from you. We will do our best to address your comments or pass them on to the course admins. We value all suggestions and feedback, and together we will make this course awesome. We just ask for a little patience.
 :::
 
-::: mainfontFormat
-
 ------------------------------------------------------------------------
 
-::: {style="font-family: 'Arial','sans-serif' ;   font-weight: bold; font-size: 25px"}
-**Final quiz**
-:::
-
-You have unlimited attempts to successfully complete the final quiz but only five minutes for each attempt. If you score 90% or higher a certificate of completion will be generated for you and you can download it directly. Click "Start Quiz" when you are ready.
-:::
+## Contacts {.unnumbered}
 
 ::: mainfontFormat
-
-------------------------------------------------------------------------
-
-### **Contacts** {.unnumbered}
-
 Should you experience any technical problems or should you wish to share your ideas on how to improve this course email us on [[agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com)]{style="color:#1155CC;text-decoration:none;"}.
 
 To share your thoughts and experiences either with this course or on open science in general, or to see what's new we will be delighted if you start following us on
@@ -77,72 +63,52 @@ Instagram [[Agape.Open.Science](https://www.instagram.com/Agape.Open.Science)]{s
 or on LinkedIn [[Agape Open Science](https://www.linkedin.com/company/agape-open-science/)]{style="color:#1155CC;text-decoration:none;"}.
 
 ------------------------------------------------------------------------
+:::
 
-### **Credits** {.unnumbered}
+## Credits {.unnumbered}
 
-::: {style="margin:0cm;   margin-bottom:06.0pt;   line-height:150%;   font-size:15px;   font-family:\"Arial\",sans-serif;   text-align:justify;   background:white;"}
-[Aswathi Surendran : content creator, IT whisperer]{style="font-family:Roboto;background:white;"}\
-[<https://orcid.org/0000-0002-8709-6417>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+::: mainfontFormat
+Aswathi Surendran : content creator, IT whisperer\
+<https://orcid.org/0000-0002-8709-6417>
 
-[Cassandra Murphy : content creator, social media wizard\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0003-1332-359X>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}  
+Cassandra Murphy : content creator, social media wizard\
+<https://orcid.org/0000-0003-1332-359X>
 
-[Ciarán Purcell : proofreading and editing rockstar\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-4376-599X>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Ciarán Purcell : proofreading and editing rockstar\
+<https://orcid.org/0000-0002-4376-599X>
 
-[Marco Prevedello : content creator, IT advisor  \
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-8329-6294>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Marco Prevedello : content creator, IT advisor  \
+<https://orcid.org/0000-0002-8329-6294>
 
-[Mohammed Mahmoud : content creator]{style="font-family:Roboto;background:white;"} \
-[<https://orcid.org/0000-0002-1224-0381>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Mohammed Mahmoud : content creator\
+<https://orcid.org/0000-0002-1224-0381>
 
-[Nina Trubanová : content creator, deadline overlord, vision pusher\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0001-8156-3304>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Nina Trubanová : content creator, deadline overlord, vision pusher\
+<https://orcid.org/0000-0001-8156-3304>
 
-[Philipp Junk : content creator\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-5228-3896>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Philipp Junk : content creator\
+<https://orcid.org/0000-0002-5228-3896>
 
-[Rasaq Semiu Abolore : content creator]{style="font-family:Roboto;background:white;"}\
-[<https://orcid.org/0000-0001-6486-4754>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Rasaq Semiu Abolore : content creator\
+<https://orcid.org/0000-0001-6486-4754>
 
-[Tendai Mukande : content creator\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0002-0654-7141>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Tendai Mukande : content creator\
+<https://orcid.org/0000-0002-0654-7141>
 
-[Una Ruddock : proofreading and editing balladeer\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0001-9118-4121>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Una Ruddock : proofreading and editing balladeer\
+<https://orcid.org/0000-0001-9118-4121>
 
-[Yao Zhang : content creator, social media wizard\
-]{style="font-family:Roboto;background:white;"}[<https://orcid.org/0000-0003-0093-3882>]{style="font-family:Roboto;color:#1155CC;background:white;text-decoration:none;"}
+Yao Zhang : content creator, social media wizard\
+<https://orcid.org/0000-0003-0093-3882>
 
 And a big thanks to our muse Dr Denise McGrath.
 :::
 
 ------------------------------------------------------------------------
 
-### **Disclaimer** {.unnumbered}
+## Disclaimer {.unnumbered}
 
 The information is this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
-
-------------------------------------------------------------------------
-
-### **Quiz** {.unnumbered}
-
-For each correct answer you get 10 points. You will see your score immediately and you can save your high scores if you wish. These scores will be saved in cookies in your browser and you can delete them by deleting cookies. You have an unlimited number of attempts to practice the quiz and there is no time limit. Click "Start Quiz" when you are ready.
-
-------------------------------------------------------------------------
-
-### **Activities** {.unnumbered}
-
-Check recommended activities to increase your understanding of the concepts introduced in this chapter and improve your practical knowledge.
-
-------------------------------------------------------------------------
-
-#### **Footnote** {.unnumbered}
-
-If you'd like to connect with us or see what's new you can do so by following us on [\@AgapeOpenSci](https://twitter.com/AgapeOpenSci) on Twitter, [[\@Agape.Open.Science](https://www.instagram.com/Agape.Open.Science)]{style="color:#1155CC;text-decoration:none;"} on Instagram, [[\@AgapeOpenSci](https://facebook.com/AgapeOpen-Science)]{style="color:#1155CC;text-decoration:none;"} on Facebook, or [[\@agape-open-science](https://www.linkedin.com/company/agape-open-science/)]{style="color:#1155CC;text-decoration:none;"} on LinkedIn. You can send us an email at agape.open.science\@gmail.com too [Click here yo send us email: agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com).
-
-We would also love you to share your opinions, concerns, or feedback about a specific chapter or the course as a whole. There are two ways to do this. You can either fill in the survey or allow the Disqus widget that you can find at the end of each chapter to access the forum.
-:::
 
 <!--  ```{r eval=FALSE} -->
 
