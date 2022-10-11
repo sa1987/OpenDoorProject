@@ -99,7 +99,7 @@ Here are **best practices** for writing documentation:
 
 10. List all the file versions and the fundamental changes you made.
 
-A helpful hint: When naming files, make sure they are descriptive and consistent!
+A helpful hint: When naming files, make sure their names are descriptive and consistent!
 
 ### Importance of scientific programming {.unnumbered}
 

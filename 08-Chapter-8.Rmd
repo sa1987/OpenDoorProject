@@ -35,13 +35,13 @@ While there are national and disciplinary differences in the way research is org
 
 General principles:
 
-      **Honesty** in all aspects of research.
+-    **Honesty** in all aspects of research.
 
-      **Accountability** in the conduct of research.
+-    **Accountability** in the conduct of research.
 
-      **Professional courtesy and fairness** in working with others.
+-    **Professional courtesy and fairness** in working with others.
 
-      **Good stewardship** of research on behalf of others.
+-    **Good stewardship** of research on behalf of others.
 
 Professional responsibilities:
 
@@ -149,11 +149,13 @@ Loading...
 In a recommend activities section like this one, we will recommend the activities to increase your understanding of the concepts and improve your practical knowledge.
 :::
 
--   With all the online resources available today we have access to the work of other researchers, now more than ever. On the other hand, we also have many tools at hand to avoid plagiarism, even if unintentional. Check if your university offers a specific plagiarism checker or, alternatively, try Plagiarism Checker or Plagiarism Detector.
+-   With all the online resources available today we have access to the work of other researchers, now more than ever. On the other hand, we also have many tools at hand to avoid plagiarism, even if unintentional. Check if your university offers a specific plagiarism checker or, alternatively, try [Plagiarism Checker](https://www.plagiarismchecker.co/) or [Plagiarism Detector](https://plagiarismdetector.net/).
 
--   Are you wondering about the research misconduct investigation procedure? You can find more information on, or study the procedure for, the investigation of misconduct in research at the UK Research Integrity Office website or the UCD website.
+-   Are you wondering about the research misconduct investigation procedure? You can find more information on, or study the procedure for, the investigation of misconduct in research at the [UK Research Integrity Office](https://ukrio.org/publications/misconduct-investigation-procedure/) website or the [UCD](https://www.ucd.ie/researchintegrity/) website.
 
--   Have a look at some articles that are around a decade old discussing research misconduct. Or have you noticed such an article recently? Do you think a lot has changed in the last 10 years?
+-   Have a look at some [articles](https://epigeum.com/downloads/ri/ri_in_the_news/) that are around a decade old discussing research misconduct. Or have you noticed such an article recently? Do you think a lot has changed in the last 10 years?
 
 -   Have you learned anything new or shocking? Can you imagine a situation when you could be under pressure to commit research misconduct or irresponsible research practices? Share your thoughts with others on our social media.
+
+-   Check [OSF](https://osf.io/) -- a free, open source web application that connects and supports the research workflow, enabling scientists to increase the efficiency and effectiveness of their research. Researchers use OSF to collaborate, document, archive, share, and register research projects, materials, and data.
 :::

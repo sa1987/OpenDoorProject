@@ -265,13 +265,17 @@ In a recommend activities section like this one, we will recommend the activitie
 -   Find an online dataset and investigate how FAIR the dataset is:
 
     -   Findable -- Do PID's exist? Are metadata searchable?
+
     -   Accessible -- Are metadata and data retrievable?
+
     -   Interoperable -- Using open file format? API?
+
     -   Reusable -- Can you find the provenance, licence and description of data?
 
 -   Try to answer the following questions:
 
     -   Will you consider making your data FAIR? Why/why not?
+
     -   What do you think the advantages/disadvantages could be?
 
 -   Share your experience with FAIR principles in your research with others on our social media.

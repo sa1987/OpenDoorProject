@@ -5,7 +5,7 @@
 ::: mainfontFormat
 > "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn't that just 'science'?"
 >
-> -- <cite>Watson, 2015</cite>
+> -- [Watson, 2015](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)
 
 While the situation is improving, there are still many misconceptions about open science that give it a negative image. In 2014, a [survey](https://group.springernature.com/gp/group/media/press-releases/archive-2015/perceptions-of-open-access-publishing-are-changing-for-the-bette/12000378) by the Nature Publishing Group and Palgrave Macmillan found that 40% of scientists that had not published open access said "I am concerned about the perceptions of the quality of open access publications". Other misconceptions commonly cited include: "There is no peer review for open access publications", "Open science leads to worse research" and "In open science, it is possible for others to steal your research". We believe that such misconceptions arise from a lack of understanding of open science. Two motivations in creating this course are to demystify open science and challenge these misconceptions.
 
@@ -43,14 +43,6 @@ After discussing the positive and [negative aspects](https://www.pygaze.org/2016
 
 Finally, hearing about all the best practices in open science can be intimidating. We think it is very important to point out that, while all these practices are important, we believe that it is best to figure out what is possible and appropriate for your work in particular and start implementing these practices bit by bit.
 :::
-
-## Test your understanding
-
-<iframe src="https://sa1987.github.io/AgapeOSQuizChapter-4?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">
-
-Loading...
-
-</iframe>
 
 ::: activitybox
 ::: center
