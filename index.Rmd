@@ -47,6 +47,28 @@ We know we are by no means perfect. We would love you to share your opinions, co
 
 ------------------------------------------------------------------------
 
+## Course evaluation {.unnumbered}
+
+::: mainfontFormat
+We have surveys at the beginning and end of the course to offer the best course experience possible.
+:::
+
+::: mainfontFormat
+**Pre-course survey**
+
+You are invited to participate in a survey that will help the Agape team learn more about learners. We'd like to ask you to answer a few questions about yourself. Your honest feedback is very important for us to improve and serve all learners better. Whether you simply browsed or completed the course, your feedback is valuable.
+
+Thank you for taking this survey. Please click the link below to take the survey.
+
+[Pre-course survey link](https://forms.gle/oBLgoyT6G7FvN9uR8)
+
+Sincerely,
+
+Agape Team
+:::
+
+------------------------------------------------------------------------
+
 ## Contacts {.unnumbered}
 
 ::: mainfontFormat
