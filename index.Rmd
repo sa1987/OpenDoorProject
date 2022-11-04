@@ -62,9 +62,6 @@ Thank you for taking this survey. Please click the link below to take the survey
 
 [Pre-course survey link](https://forms.gle/oBLgoyT6G7FvN9uR8)
 
-Sincerely,
-
-Agape Team
 :::
 
 ------------------------------------------------------------------------
@@ -129,8 +126,10 @@ And a big thanks to our muse Dr Denise McGrath.
 ------------------------------------------------------------------------
 
 ## Disclaimer {.unnumbered}
+Any views or opinions represented in this course belong solely to the Agape team and do not represent those people, institutions, or organizations that the authors may or may not be associated with in a professional or personal capacity unless explicitly stated.
 
-The information is this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
+The information in this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
+
 
 <!--  ```{r eval=FALSE} -->
 
