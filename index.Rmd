@@ -61,10 +61,15 @@ You are invited to participate in a survey that will help the Agape team learn m
 Thank you for taking this survey. Please click the link below to take the survey.
 
 [Pre-course survey link](https://forms.gle/oBLgoyT6G7FvN9uR8)
-
 :::
 
-------------------------------------------------------------------------
+::: mainfontFormat
+**Beta testing support**
+
+This is the beta version, and we are still working on the course before we officially launch it early next year. The course is fully functional in its current form, but there might be an odd glitch, as with anything starting out. Therefore we will be grateful if participants will report any bugs or desired features using the following form : [Bug Report/Feature request form](https://forms.gle/oBLgoyT6G7FvN9uR8)
+
+~*If\ you\ had\ difficulty\ with\ accessing\ the\ forms\ using\ the\ link\ provided\ in\ the\ invitation\ mail,\ please\ check\ the\ links\ provided\ in\ the\ course\ or\ reach\ out\ to\ the\ agape\ team\ for\ additional\ support.*~
+:::
 
 ## Contacts {.unnumbered}
 
@@ -126,10 +131,10 @@ And a big thanks to our muse Dr Denise McGrath.
 ------------------------------------------------------------------------
 
 ## Disclaimer {.unnumbered}
+
 Any views or opinions represented in this course belong solely to the Agape team and do not represent those people, institutions, or organizations that the authors may or may not be associated with in a professional or personal capacity unless explicitly stated.
 
 The information in this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
-
 
 <!--  ```{r eval=FALSE} -->
 
