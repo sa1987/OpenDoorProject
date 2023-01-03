@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sa1987/OpenDoorProject">
-    <img src="img/agapecover.png" alt="Logo" width="80" height="80">
+    <img src="images/agapecover.png" alt="Logo" width="80" height="80">
   </a>
 
   <h4 align="center">AGAPE Open science introductory course</h4>
@@ -87,7 +87,7 @@ Start the learning by checking out our <a href="https://agape-openscience-blog.n
 ### About this book
 This book is created based on R Markdown and **bookdown** using the example provided by [rstudio](<https://github.com/rstudio/bookdown>) and [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html).
 
-You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowTO.md)
+You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
 
 Additional resources to create a bookdown book:
 
@@ -118,7 +118,7 @@ This is the official github repository of the Agape open scneince course.
 There are no pre-requisites to complete the course.
 ### Installation
 
-You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowTO.md)
+You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
