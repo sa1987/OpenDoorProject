@@ -2,14 +2,16 @@
 
 Agape course is website that is hosted through GitHub, a web-based service for managing code and collaborating on projects. To start, you'll need a (free) [GitHub account](https://github.com/join).
 
-The pre-requisite is a minimal knowledge of the R and github. For a great basic primer on GitHub, check out [Hello World](https://guides.github.com/activities/hello-world/) and the [GitHub Term Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary). If you get stuck at any point in the setup process, head to our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) and someone can help you out!
+The pre-requisite is a minimal knowledge of the R and github. For a great basic primer on GitHub, check out [Hello World](https://guides.github.com/activities/hello-world/) and the [GitHub Term Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary). If you get stuck at any point in the setup process, head to our [community forum](<linktobeupdated>) and someone can help you out!
 
 This guide is a minimal documentation for building your course using our template with minimal coding knowledge. The authors are ametuer coders hence this may not be the most efficient code and may have errors.
 
 
 Designing of the course is primarily guided by two available templates:
 1. [Bookdown guide](https://bookdown.org/yihui/bookdown/)
-2. [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html) and edited it through R studio, which offers a Visual tab above the code editor so you can see how your Markdown edits look before you commit your changes and wait for them to appear live. You cannot edit your course directly through GitHub.
+2. [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html) 
+
+and edited it through R studio, which offers a Visual tab above the code editor so you can see how your Markdown edits look before you commit your changes and wait for them to appear live. You cannot edit your course directly through GitHub.
 Here, this guide provides only minimal information on the customization. For more information on the structure of the bookdown and the template, please refer to the aforementioned links.
 
 You can read more about the Bookdown package in this [link](https://bookdown.org/). 
