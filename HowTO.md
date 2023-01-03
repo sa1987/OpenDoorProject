@@ -4,7 +4,7 @@ Agape course is website that is hosted through GitHub, a web-based service for m
 
 The pre-requisite is a minimal knowledge of the R and github. For a great basic primer on GitHub, check out [Hello World](https://guides.github.com/activities/hello-world/) and the [GitHub Term Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary). If you get stuck at any point in the setup process, head to our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) and someone can help you out!
 
-This guide is a minimal documentation for building your course using our template with minimal coding knowledge. The authors are ametuer coders hence this may not be the most effecient code and may have errors.
+This guide is a minimal documentation for building your course using our template with minimal coding knowledge. The authors are ametuer coders hence this may not be the most efficient code and may have errors.
 
 
 Designing of the course is primarily guided by two available templates:
@@ -144,7 +144,7 @@ Current configutaion in the [output.yml](https://github.com/sa1987/OpenDoorProje
 
 You can customize the cover image for your course in 2 steps: 1. Uploade image to the `images` folder. 3. Update the image file location in the `_output.yml` file
 
-Current configutaion in the [output.yml](https://github.com/sa1987/OpenDoorProject/blob/main/_output.yml) file is
+Current configuration in the [output.yml](https://github.com/sa1987/OpenDoorProject/blob/main/_output.yml) file is
 
       cover-image: "images/agapecover.png"
 
@@ -164,7 +164,7 @@ You can enable, disable and modify the entries on the toolbar by modifying the `
             github: yes
             instagram: yes
 
-![Toolbar](https://github.com/sa1987/OpenDoorProject/blob/main/images/toolbarimage.png%22toolbar%22)
+![Toolbar](https://github.com/sa1987/OpenDoorProject/blob/main/images/toolbarimage.png)
 
 
 #### Update the Course Title, Author and description
@@ -249,7 +249,7 @@ Default configuration of the agape course can be seen [here](https://github.com/
 ### Edit README
 
 Once you've completed these steps, update the content of this **README** and add a short description of your project with a link to the book URL.If you liked the template, please give a star :laughing:.
-*We would highly appreciate if you mention the agape repo as a reference/source material!*
+*We would highly appreciate if you also mention the agape repo as a reference/source material!*
 
 The configuration details of the quiz and certificate generator will be published separately.
 
@@ -258,5 +258,7 @@ The configuration details of the quiz and certificate generator will be publishe
 Authors referred to multiple how to guides and readme files while preparing this document. Please give a shout out to them too!
 
 Minimal bookdown template by [jtr13](https://github.com/jtr13/bookdown-template)
+
 Setup guide by the [P2PU](https://github.com/p2pu/course-in-a-box)
+
 Yihui's [guide](https://bookdown.org/yihui/bookdown/html.html) for bookdown 
