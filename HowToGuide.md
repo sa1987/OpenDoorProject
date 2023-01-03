@@ -27,44 +27,44 @@ Once you successfully configure the R studio and git client, we can move to the 
 Once you're logged in to GitHub, the first step of creating a course is to copy ( "fork") the course folder ( "repository") from agape's account to yours. This will make an identical copy of this website and its content in your account library. (Making your course is essentially a matter of editing out our content and customizing it with your own.)
 
 
-### Copy this template
+### 1. Copy this template
 
 To start, head to [agape project repo](https://github.com/sa1987/OpenDoorProject) and click "Fork" in the top right, or simply click the button below:
 
 [Fork this repository on GitHub](https://github.com/sa1987/OpenDoorProject/fork)
 
-### OR 
+#### OR 
 
 Login to your github account and navigate to the agape [repo](https://github.com/sa1987/OpenDoorProject). Click the green "Use this template" button above.  Choose a descriptive name for your repo based on your content. (Unlike when you fork a repo, you get to choose the name. If you change your mind before you do any work, delete your new repo and start over.)
 
-### Set up GitHub Pages
+### 2. Set up GitHub Pages
 
-1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, make a change and commit it to trigger a GitHub Pages build.)
+2.1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your book is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, make a change and commit it to trigger a GitHub Pages build.)
 
-2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
+2.2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
 
-### Clone the repo
+### 3. Clone the repo
 
 Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
 You can see an example of a simple bookdwon template customization in this youtube [video](https://www.youtube.com/watch?v=m5D-yoH416Y)
 
-### Edit some key files
+### 4. Edit some key files
 Refer to the next section `Understanding the Course Template` for more details
 <br>
 ### Render the book
 Once you complete the editing
-1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
+4.1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the [latest version](https://CRAN.R-project.org/package=bookdown).
 
-2. Render locally with `bookdown::render_book("index.Rmd")`.
+4.2. Render locally with `bookdown::render_book("index.Rmd")`.
 
-3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
+4.3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
 
-4. If it looks good, commit and push all changed files to GitHub. 
+4.4. If it looks good, commit and push all changed files to GitHub. 
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
-#### Your course is now live!
+#### 5. Your course is now live!
 
 You can view it by going to
 

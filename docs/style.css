@@ -68,7 +68,7 @@ h1, h2, h3, h4 {
     margin-top: 1em;
     margin-bottom: .50em;
 }
-
+/*------------- Activitybox format---------------- */
 .activitybox {
   padding: 1em;
   background: white;
@@ -79,6 +79,7 @@ h1, h2, h3, h4 {
   border-radius: 10px;
 }
 
+/*-------------Main text format ---------------- */
 .mainfontFormat {
   margin:0cm;
   margin-bottom:06.0pt;
@@ -89,6 +90,7 @@ h1, h2, h3, h4 {
   background:white;
 }
 
+/*------------- Notifcation format ---------------- */
 .notification {
   margin:0cm;
   margin-bottom:11.0pt;
