@@ -8,10 +8,9 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is an introductory course to open science.
+description: This is an introductory course to open science.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: sa1987/OpenDoorProject
 always_allow_html: yes
 ---
 
