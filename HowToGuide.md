@@ -255,6 +255,14 @@ Once you've completed these steps, update the content of this **README** and add
 
 The configuration details of the quiz and certificate generator will be published separately.
 
+### Authors
+Aswathi S - [User profile](https://osf.io/t5vem/)
+
+Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X)
+
+Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Reference
 Authors referred to multiple how to guides and readme files while preparing this document. Please give a shout out to them too!
