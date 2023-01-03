@@ -272,3 +272,8 @@ Minimal bookdown template by [jtr13](https://github.com/jtr13/bookdown-template)
 Setup guide by the [P2PU](https://github.com/p2pu/course-in-a-box)
 
 Yihui's [guide](https://bookdown.org/yihui/bookdown/html.html) for bookdown 
+
+#### Disclaimer
+Any views or opinions represented in this course belong solely to the Agape team and do not represent those people, institutions, or organizations that the authors may or may not be associated with in a professional or personal capacity unless explicitly stated.
+
+The information in this course is provided without warranty. The authors and Agape team have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this course.
