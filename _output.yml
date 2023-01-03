@@ -1,11 +1,15 @@
 bookdown::gitbook:
 #bookdown::html_book:
 #  theme: darkly
-  favicon: "agapefavicon.ico"
+# Favicon for the course 
+  favicon: "images/agapefavicon.ico"
+# More details on the highlight options is available in https://bookdown.org/yihui/bookdown/yaml-options.html
   highlight: breezedark
+# Cover image for the course 
   cover-image: "images/agapecover.png"
   css: style.css
-  repo: https://github.com/sa1987/OpenDoorProject
+# Toolbar configuration
+  repo: OpenDoorProject
   twitter-handle: AgapeOpenSci
   facebok-handle: Agape Open-Science
   instagram-handle: Agape.Open.Science
@@ -14,10 +18,12 @@ bookdown::gitbook:
       in_header: assets/google_analytics.html
       after_body: assets/footer.html
 #in_header: [assets/header.html, assets/google_analytics.html]  
+#Table of content configuration
   config:
     toc:
       collapse: subsection
       scroll_highlight: true
+# Display upto 'header 4' level
       toc_depth: 4
       css : toc.css
       before: |
@@ -26,6 +32,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+# toolbar configuration
     edit: https://github.com/sa1987/OpenDoorProject/edit/master/%s
     sharing:
         twitter: yes

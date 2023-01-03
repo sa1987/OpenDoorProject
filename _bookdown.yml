@@ -1,6 +1,8 @@
 book_filename: "Agape-OpenScienceIntroductoryCourse"
 delete_merged_file: true
+# set the output directory folder
 output_dir: "docs"
+# Set the prefix for each chapter 
 language:
   ui:
     chapter_name: "Chapter "
