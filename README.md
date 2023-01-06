@@ -1,18 +1,18 @@
-```{=html}
-<!-- Adapted from othneildrew's git See: https://github.com/https://github.com/othneildrew/Best-README-Template ->
-<a name="readme-top"></a>
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-<!-- PROJECT SHIELDS -->
-```
-```{=html}
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-```
+# ```{=html}
+# <!-- Adapted from othneildrew's git See: https://github.com/https://github.com/othneildrew/Best-README-Template ->
+# <a name="readme-top"></a>
+# [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+# <!-- PROJECT SHIELDS -->
+# ```
+# ```{=html}
+# <!--
+# *** I'm using markdown "reference style" links for readability.
+# *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+# *** See the bottom of this document for the declaration of the reference variables
+# *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+# *** https://www.markdownguide.org/basic-syntax/#reference-style-links
+# -->
+# ```
 [![Contributors](https://img.shields.io/github/contributors/sa1987/OpenDoorProject.svg?style=for-the-badge)](https://github.com/sa1987/OpenDoorProject/graphs/contributors) [![Forks](https://img.shields.io/github/forks/sa1987/OpenDoorProject.svg?style=for-the-badge)](https://github.com/sa1987/OpenDoorProject/network/members) [![Stargazers](https://img.shields.io/github/stars/sa1987/OpenDoorProject.svg?style=for-the-badge)](https://github.com/sa1987/OpenDoorProject/stargazers) [![Issues](https://img.shields.io/github/issues/sa1987/OpenDoorProject.svg?style=for-the-badge)](https://github.com/sa1987/OpenDoorProject/issues) [![Agape Blog](https://img.shields.io/badge/Made%20with-R%20blogdown%20-orange)](https://github.com/sa1987/OpenDoorProject/) [![Agape Course](https://img.shields.io/badge/Made%20with-R%20bookdown-lightgrey)](https://github.com/sa1987/OpenDoorProject) [![License](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://github.com/sa1987/OpenDoorProject/blob/main/LICENSE)
 
 <!-- PROJECT LOGO -->
@@ -198,7 +198,7 @@ Don't forget to give the project a star! Thanks again!
 
 1.  [Fork](https://github.com/sa1987/OpenDoorProject/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on Github if the change is simple enough.
 
-<!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. --->
+<!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. ---->
 
 2.  Submit the [pull request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.
 
