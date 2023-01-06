@@ -256,11 +256,11 @@ Once you've completed these steps, update the content of this **README** and add
 The configuration details of the quiz and certificate generator will be published separately.
 
 ### Authors
-Aswathi S - [User profile](https://osf.io/t5vem/)
+Aswathi S - [User profile](https://osf.io/t5vem/) (Author)
 
-Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X)
+Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X) (Editor & Reviewer)
 
-Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)
+Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)  (Editor & Reviewer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
