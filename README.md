@@ -14,10 +14,7 @@
 
 <br />
 
-::: {align="center"}
-<img src="images/agapecover.png" alt="Logo" width="80" height="80"/>
-
-\<a href="<https://github.com/sa1987/OpenDoorProject><img src="images/agapecover.png" alt="Logo" width="80" height="80"/>"\> </a>
+![](images/agapecover.png){alt="Logo" style="style" width="80" height="80"}
 
 <h4 align="center">
 
@@ -30,7 +27,6 @@ AGAPE Open science introductory course
 AGAPE: An introductory course to open science for early career researchers <br /> <a href="www.agapeopenscience.com">View the Agape open science introductory course</a> <br /> <br /> <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Report Bug</a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Request Feature</a>
 
 </p>
-:::
 
 <!-- TABLE OF CONTENTS -->
 
