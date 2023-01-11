@@ -22,13 +22,18 @@ AGAPE Open science introductory course
 
 </h4>
 
-# <p style="text-align: center;">
+\#
+
+<p style="text-align: center;">
 
 <h5 align="center">
 
 AGAPE: An introductory course to open science for early career researchers <br /> <a href="www.agapeopenscience.com">View the Agape open science introductory course</a> <br /> <br /> <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Report Bug</a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Request Feature</a>
 
-# </p>
+\#
+
+</p>
+
 </h5>
 
 <!-- TABLE OF CONTENTS -->
@@ -113,7 +118,9 @@ The **bookdown** book: <https://bookdown.org/yihui/bookdown/>
 
 The **bookdown** package reference site: <https://pkgs.rstudio.com/bookdown>
 
-Quiz templates available in the [repo](https://gitlab.com/open-science-course-2022/open-science-course-2022.gitlab.io/-/blob/main/public/quiz.html) \### Built With
+Quiz templates available in the [repo](https://gitlab.com/open-science-course-2022/open-science-course-2022.gitlab.io/-/blob/main/public/quiz.html)
+
+### Built With
 
 Please see below the major frameworks/libraries used to bootstrap the Agape project
 
@@ -135,7 +142,9 @@ This is the official github repository of the Agape open scneince course.
 
 ### Prerequisites
 
-There are no pre-requisites to complete the course. \### Installation
+There are no pre-requisites to complete the course.
+
+#### Installation
 
 You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
 
