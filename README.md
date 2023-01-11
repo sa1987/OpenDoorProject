@@ -22,11 +22,14 @@ AGAPE Open science introductory course
 
 </h4>
 
-<p style="text-align: center;">
+# <p style="text-align: center;">
+
+<h5 align="center">
 
 AGAPE: An introductory course to open science for early career researchers <br /> <a href="www.agapeopenscience.com">View the Agape open science introductory course</a> <br /> <br /> <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Report Bug</a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Request Feature</a>
 
-</p>
+# </p>
+</h5>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -252,8 +255,6 @@ or on LinkedIn [[Agape Open Science](https://www.linkedin.com/company/agape-open
 ------------------------------------------------------------------------
 
 ## Authors
-
-### Authors
 
 Aswathi S - [User profile](https://osf.io/t5vem/) (Author)
 
