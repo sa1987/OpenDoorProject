@@ -22,7 +22,7 @@ AGAPE Open science introductory course
 
 </h4>
 
-<p align="center">
+<p style="text-align: center;">
 
 AGAPE: An introductory course to open science for early career researchers <br /> <a href="www.agapeopenscience.com">View the Agape open science introductory course</a> <br /> <br /> <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Report Bug</a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Request Feature</a>
 
