@@ -14,7 +14,7 @@
 
 <br />
 
-![](images/agapecover.png){alt="Logo" style="style" width="80" height="80"}
+![](images/agapecover.png)
 
 <h4 align="center">
 
