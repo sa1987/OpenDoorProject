@@ -123,6 +123,8 @@ It is your responsibility as a researcher along with all other individuals invol
 To make data open is not enough. It must also be FAIR.
 :::
 
+![](images/slide2.png){width="366"}
+
 ## Test your understanding
 
 <iframe src="https://sa1987.github.io/AgapeOSQuizChapter-5?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">

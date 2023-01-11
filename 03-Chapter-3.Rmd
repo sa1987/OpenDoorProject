@@ -2,6 +2,8 @@
 
 ## Open-source
 
+![](images/slide2.png){width="500"}
+
 ::: mainfontFormat
 It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the [Open Source Initiative](https://opensource.org/osd). Similarly, [Open Source Hardware Association](https://www.oshwa.org/definition/) defines open-source hardware as "hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design."
 

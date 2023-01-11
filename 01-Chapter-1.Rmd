@@ -1,5 +1,9 @@
 # Open science
 
+<!--  test infographics position -->
+
+![](images/slide1.png){width="472"}
+
 ::: mainfontFormat
 Let's start at the beginning.
 

@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title> AGAPE Open science introductory course  | README</title>
+  <meta name="description" content="" />
+  <meta name="generator" content="bookdown 0.26 and GitBook 2.6.7" />
+
+  <meta property="og:title" content=" AGAPE Open science introductory course  | README" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content=" AGAPE Open science introductory course  | README" />
+  
+  
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y98S2E4LEN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y98S2E4LEN');
+</script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">AGAPE: An introductory course to open science for early career researchers</a></li>
+<li class="toc-logo"><a href="./"><img src="images/agapecover.png"></a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="0.1" data-path=""><a href="#about-the-project"><i class="fa fa-check"></i><b>0.1</b> About The Project</a>
+<ul>
+<li class="chapter" data-level="0.1.1" data-path=""><a href="#about-this-book"><i class="fa fa-check"></i><b>0.1.1</b> About this book</a></li>
+</ul></li>
+<li class="chapter" data-level="0.2" data-path=""><a href="#getting-started"><i class="fa fa-check"></i><b>0.2</b> Getting Started</a>
+<ul>
+<li class="chapter" data-level="0.2.1" data-path=""><a href="#prerequisites"><i class="fa fa-check"></i><b>0.2.1</b> Prerequisites</a></li>
+</ul></li>
+<li class="chapter" data-level="0.3" data-path=""><a href="#usage"><i class="fa fa-check"></i><b>0.3</b> Usage</a></li>
+<li class="chapter" data-level="0.4" data-path=""><a href="#code-of-conduct"><i class="fa fa-check"></i><b>0.4</b> Code of Conduct</a></li>
+<li class="chapter" data-level="0.5" data-path=""><a href="#roadmap"><i class="fa fa-check"></i><b>0.5</b> Roadmap</a></li>
+<li class="chapter" data-level="0.6" data-path=""><a href="#contributing"><i class="fa fa-check"></i><b>0.6</b> Contributing</a>
+<ul>
+<li class="chapter" data-level="0.6.1" data-path=""><a href="#list-of-agape-initiatives-to-join"><i class="fa fa-check"></i><b>0.6.1</b> List of Agape initiatives to join</a></li>
+</ul></li>
+<li class="chapter" data-level="0.7" data-path=""><a href="#commmunity-guidelines-work-in-progress"><i class="fa fa-check"></i><b>0.7</b> Commmunity guidelines (Work in progress)</a></li>
+<li class="chapter" data-level="0.8" data-path=""><a href="#license"><i class="fa fa-check"></i><b>0.8</b> License</a></li>
+<li class="chapter" data-level="0.9" data-path=""><a href="#contact"><i class="fa fa-check"></i><b>0.9</b> Contact</a></li>
+<li class="chapter" data-level="0.10" data-path=""><a href="#authors"><i class="fa fa-check"></i><b>0.10</b> Authors</a>
+<ul>
+<li class="chapter" data-level="0.10.1" data-path=""><a href="#authors-1"><i class="fa fa-check"></i><b>0.10.1</b> Authors</a></li>
+</ul></li>
+<li class="chapter" data-level="0.11" data-path=""><a href="#acknowledgments"><i class="fa fa-check"></i><b>0.11</b> Acknowledgments</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"></a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <script src="assets/hoverSection.js"></script>
+  <link href="assets/style.css" rel="stylesheet">
+  <base target="_blank">
+</head>
+
+<!-- Set the banner for the course -->       
+
+<div class="hero-image-container"> 
+  <img class= "hero-image" src="images/books.png">
+</div>
+<!--bookdown:title:end-->
+<!--bookdown:title:start-->
+<!-- Adapted from othneildrew's git See: https://github.com/https://github.com/othneildrew/Best-README-Template -> # <a name="readme-top"></a> # [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  # <!-- PROJECT SHIELDS -->
+<p>#</p>
+<!-- # *** I'm using markdown "reference style" links for readability. # *** Reference links are enclosed in brackets [ ] instead of parentheses ( ). # *** See the bottom of this document for the declaration of the reference variables # *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. # *** https://www.markdownguide.org/basic-syntax/#reference-style-links # -->
+<p># <!--#  --></p>
+<p><a href="https://github.com/sa1987/OpenDoorProject/graphs/contributors"><img src="https://img.shields.io/github/contributors/sa1987/OpenDoorProject.svg?style=for-the-badge" alt="Contributors" /></a> <a href="https://github.com/sa1987/OpenDoorProject/network/members"><img src="https://img.shields.io/github/forks/sa1987/OpenDoorProject.svg?style=for-the-badge" alt="Forks" /></a> <a href="https://github.com/sa1987/OpenDoorProject/stargazers"><img src="https://img.shields.io/github/stars/sa1987/OpenDoorProject.svg?style=for-the-badge" alt="Stargazers" /></a> <a href="https://github.com/sa1987/OpenDoorProject/issues"><img src="https://img.shields.io/github/issues/sa1987/OpenDoorProject.svg?style=for-the-badge" alt="Issues" /></a> <a href="https://github.com/sa1987/OpenDoorProject/"><img src="https://img.shields.io/badge/Made%20with-R%20blogdown%20-orange" alt="Agape Blog" /></a> <a href="https://github.com/sa1987/OpenDoorProject"><img src="https://img.shields.io/badge/Made%20with-R%20bookdown-lightgrey" alt="Agape Course" /></a> <a href="https://github.com/sa1987/OpenDoorProject/blob/main/LICENSE"><img src="https://licensebuttons.net/l/by-nd/3.0/88x31.png" alt="License" /></a></p>
+<!-- PROJECT LOGO -->
+<!--#  -->
+<p><br /></p>
+<div align="center">
+<p><a href="https://github.com/sa1987/OpenDoorProject"> <img src="images/agapecover.png" alt="Logo" width="80" height="80"/> </a></p>
+<h4 align="center">
+<p>AGAPE Open science introductory course</p>
+</h4>
+<p align="center">
+<p>AGAPE: An introductory course to open science for early career researchers <br /> <a href="www.agapeopenscience.com">View the Agape open science introductory course</a> <br /> <br /> <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Report Bug</a> · <a href="https://github.com/sa1987/OpenDoorProject/issues">Request Feature</a></p>
+</p>
+</div>
+<!-- TABLE OF CONTENTS -->
+<details>
+<summary>
+Table of Contents
+</summary>
+<ol>
+<li>
+<p><a href="#about-the-Agape-project">About The Agape Project</a></p>
+<ul>
+<li>
+<a href="#built-with">Built With</a>
+</li>
+</ul>
+</li>
+<li>
+<p><a href="#getting-started">Getting Started</a></p>
+<ul>
+<li>
+<a href="#prerequisites">Prerequisites</a>
+</li>
+<li>
+<a href="#installation">Installation</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="#usage">Usage</a>
+</li>
+<li>
+<a href="#roadmap">Roadmap</a>
+</li>
+<li>
+<a href="#contributing">Contributing</a>
+</li>
+<li>
+<a href="#Commmunity guidelines">Commmunity guidelines</a>
+</li>
+<li>
+<a href="#license">License</a>
+</li>
+<li>
+<a href="#contact">Contact</a>
+</li>
+<li>
+<a href="#acknowledgments">Acknowledgments</a>
+</li>
+</ol>
+</details>
+<!-- ABOUT THE PROJECT -->
+<div id="about-the-project" class="section level2 hasAnchor" number="0.1">
+<h2><span class="header-section-number">0.1</span> About The Project<a href="#about-the-project" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+<p>Welcome to our open science initiative! Under our Agape initiative, we aim to get early career researchers in Ireland involved in the open science movement and to build an open science practising community.</p>
+<p>Under Agape we aim to disseminate open science between PhD students and early career researchers across Ireland and later internationally. We want to create an open science practising community where we can learn, exchange our opinions and experiences, and together change the future. In the way that science is undertaken, made freely available, and communicated in a FAIR and transparent way.</p>
+<p>Start the learning by checking out our <a href="https://agape-openscience-blog.netlify.app"><strong> agape blog »</strong></a></p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<div id="about-this-book" class="section level3 hasAnchor" number="0.1.1">
+<h3><span class="header-section-number">0.1.1</span> About this book<a href="#about-this-book" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>This book is created based on R Markdown and <strong>bookdown</strong> using the example provided by <a href="https://github.com/rstudio/bookdown">rstudio</a> and <a href="https://rstudio4edu.github.io/rstudio4edu-book/index.html">rstudio4edu</a>.</p>
+<p>You can use this template to customise and create your own book. The <strong>how to</strong> guide for customising this template is available in this <a href="https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md">link</a></p>
+<p>Additional resources to create a bookdown book:</p>
+<p>The <strong>bookdown</strong> book: <a href="https://bookdown.org/yihui/bookdown/" class="uri">https://bookdown.org/yihui/bookdown/</a></p>
+<p>The <strong>bookdown</strong> package reference site: <a href="https://pkgs.rstudio.com/bookdown" class="uri">https://pkgs.rstudio.com/bookdown</a></p>
+<p>Quiz templates available in the <a href="https://gitlab.com/open-science-course-2022/open-science-course-2022.gitlab.io/-/blob/main/public/quiz.html">repo</a> ### Built With</p>
+<p>Please see below the major frameworks/libraries used to bootstrap the Agape project</p>
+<ul>
+<li><a href="http://commonmark.org"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="made-with-Markdown" /></a></li>
+<li><a href="https://github.com/sa1987/OpenDoorProject/"><img src="https://img.shields.io/badge/Made%20with-R%20bookdown-lightgrey" alt="made-with-R-Bookdown" /></a></li>
+<li><a href="https://github.com"><img src="https://badgen.net/badge/icon/github?icon=github&amp;label" alt="GitHub" /></a></li>
+</ul>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<!-- GETTING STARTED -->
+</div>
+</div>
+<div id="getting-started" class="section level2 hasAnchor" number="0.2">
+<h2><span class="header-section-number">0.2</span> Getting Started<a href="#getting-started" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>This is the official github repository of the Agape open scneince course.</p>
+<div id="prerequisites" class="section level3 hasAnchor" number="0.2.1">
+<h3><span class="header-section-number">0.2.1</span> Prerequisites<a href="#prerequisites" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>There are no pre-requisites to complete the course. ### Installation</p>
+<p>You can use this template to customise and create your own book. The <strong>how to</strong> guide for customising this template is available in this <a href="https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md">link</a></p>
+<!-- USAGE EXAMPLES -->
+</div>
+</div>
+<div id="usage" class="section level2 hasAnchor" number="0.3">
+<h2><span class="header-section-number">0.3</span> Usage<a href="#usage" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>You can use this repository create for creating similar handbooks. The copyright policy is detailed in the license section.</p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+</div>
+<div id="code-of-conduct" class="section level2 hasAnchor" number="0.4">
+<h2><span class="header-section-number">0.4</span> Code of Conduct<a href="#code-of-conduct" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Please note that this project is released with a <a href="https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html">Contributor Code of Conduct</a>. By contributing to this project, you agree to abide by its terms.</p>
+<!-- ROADMAP -->
+</div>
+<div id="roadmap" class="section level2 hasAnchor" number="0.5">
+<h2><span class="header-section-number">0.5</span> Roadmap<a href="#roadmap" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><input type="checkbox" disabled="" checked="" />
+Create the course</li>
+<li><input type="checkbox" disabled="" checked="" />
+Pilot testing</li>
+<li><input type="checkbox" disabled="" checked="" />
+Sharing it with general public</li>
+<li><input type="checkbox" disabled="" />
+Add Additional details and resources</li>
+<li><input type="checkbox" disabled="" />
+Update the repository with the future plans</li>
+<li>[ ]Link with other Agape initiative
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+Agape blog</li>
+</ul></li>
+</ul>
+<p>See the <a href="https://github.com/sa1987/OpenDoorProject/issues">open issues</a> for a full list of proposed features (and known issues).</p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<!-- CONTRIBUTING -->
+</div>
+<div id="contributing" class="section level2 hasAnchor" number="0.6">
+<h2><span class="header-section-number">0.6</span> Contributing<a href="#contributing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Contributions are what make the open science community such an amazing place to learn, inspire, and create. Any contributions you make are <strong>greatly appreciated</strong>.</p>
+<p>You can contribute in many ways:</p>
+<ul>
+<li>By opening issues to give feedback and share ideas.</li>
+<li>By fixing typos in documentations</li>
+<li>By submitting Pull Request (PR) to fix some opened issues</li>
+<li>If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag “enhancement”. (It is considered good practice to open issues before to discuss ideas)</li>
+</ul>
+<p>Don’t forget to give the project a star! Thanks again!</p>
+<div id="to-submit-a-contribution-using-a-pull-request" class="section level4 hasAnchor" number="0.6.0.1">
+<h4><span class="header-section-number">0.6.0.1</span> To submit a contribution using a Pull Request:<a href="#to-submit-a-contribution-using-a-pull-request" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<ol style="list-style-type: decimal">
+<li><a href="https://github.com/sa1987/OpenDoorProject/fork">Fork</a> the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the <code>Edit</code> button on Github if the change is simple enough.</li>
+</ol>
+<!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. ---->
+<ol start="2" style="list-style-type: decimal">
+<li>Submit the <a href="https://help.github.com/articles/using-pull-requests">pull request</a>. It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.</li>
+</ol>
+<p>We’ll try to be as responsive as possible in reviewing and accepting pull requests. Appreciate your contributions very much!</p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<p>If you would like to become a member or contributor of agape initiatives, please refer to the README.md of the respective initiative’s home pages.</p>
+</div>
+<div id="list-of-agape-initiatives-to-join" class="section level3 hasAnchor" number="0.6.1">
+<h3><span class="header-section-number">0.6.1</span> List of Agape initiatives to join<a href="#list-of-agape-initiatives-to-join" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><a href="www.agapeopenscience.com"><strong>Agape open science introductory course</strong></a></p>
+<p><a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a></p>
+<!-- Commmunity guidelines -->
+</div>
+</div>
+<div id="commmunity-guidelines-work-in-progress" class="section level2 hasAnchor" number="0.7">
+<h2><span class="header-section-number">0.7</span> Commmunity guidelines (Work in progress)<a href="#commmunity-guidelines-work-in-progress" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>To know more about our community guidelines, please refer to the following links</p>
+<p><Insert the links for the Code of conduct and  ></p>
+<!-- LICENSE -->
+</div>
+<div id="license" class="section level2 hasAnchor" number="0.8">
+<h2><span class="header-section-number">0.8</span> License<a href="#license" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Distributed under the CC-BY-NC license. See <code>LICENSE.txt</code> for more information.</p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<p><a href="https://creativecommons.org/licenses/by-nd/4.0"><img src="https://licensebuttons.net/l/by-nd/3.0/88x31.png" alt="licensebuttons by-nd" /></a></p>
+<!-- CONTACT -->
+</div>
+<div id="contact" class="section level2 hasAnchor" number="0.9">
+<h2><span class="header-section-number">0.9</span> Contact<a href="#contact" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Should you experience any technical problems or should you wish to share your ideas on how to improve this course email us on [<a href="mailto:agape.open.science@gmail.com">agape.open.science@gmail.com</a>]</p>
+<p>To share your thoughts and experiences either with this course or on open science in general, or to see what’s new we will be delighted if you start following us on</p>
+<p>Facebook [<a href="https://facebook.com/AgapeOpen-Science">Agape Open-Science</a>]</p>
+<p>Twitter [<a href="https://twitter.com/AgapeOpenSci">@AgapeOpenSci</a>]</p>
+<p>Instagram [<a href="https://www.instagram.com/Agape.Open.Science">Agape.Open.Science</a>]</p>
+<p>or on LinkedIn [<a href="https://www.linkedin.com/company/agape-open-science/">Agape Open Science</a>]</p>
+<hr />
+</div>
+<div id="authors" class="section level2 hasAnchor" number="0.10">
+<h2><span class="header-section-number">0.10</span> Authors<a href="#authors" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="authors-1" class="section level3 hasAnchor" number="0.10.1">
+<h3><span class="header-section-number">0.10.1</span> Authors<a href="#authors-1" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Aswathi S - <a href="https://osf.io/t5vem/">User profile</a> (Author)</p>
+<p>Cassandra Murphy - <a href="https://orcid.org/0000-0003-1332-359X">User profile</a> (Editor &amp; Reviewer)</p>
+<p>Nina Trubanová - <a href="https://orcid.org/0000-0001-8156-3304">User profile</a> (Editor &amp; Reviewer)</p>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<!-- ACKNOWLEDGMENTS -->
+</div>
+</div>
+<div id="acknowledgments" class="section level2 hasAnchor" number="0.11">
+<h2><span class="header-section-number">0.11</span> Acknowledgments<a href="#acknowledgments" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>We would like to thank the people and organisations that helped us to create the community and technical resources.</p>
+<ul>
+<li><a href="https://github.com/https://github.com/othneildrew/Best-README-Template">othneildrew’s repo for awesome README template</a></li>
+<li><a href="https://openlifesci.org/ols-6">Open LIfe Science OLS-6 mentorship programme</a></li>
+<li><a href="https://www.insight-centre.org/opening-doors-online-course-for-europe-will-reimagine-phd-education/">Opening door’s program</a></li>
+<li><a href="https://shields.io">Img Shields</a></li>
+<li><a href="https://pages.github.com">GitHub Pages</a></li>
+<li>Minimal bookdown template by <a href="https://github.com/jtr13/bookdown-template">jtr13</a></li>
+<li>Setup guide by the <a href="https://github.com/p2pu/course-in-a-box">P2PU</a></li>
+<li>Yihui’s <a href="https://bookdown.org/yihui/bookdown/html.html">guide</a> for bookdown</li>
+</ul>
+<p align="right">
+<p>(<a href="#readme-top">back to top</a>)</p>
+</p>
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      <div id="disqus_thread"></div>
+  <div style="padding: 0 15px;" class="db dtc-ns">
+    
+<p style='margin-right:0cm;margin-left:0cm;font-size:16px;font-family:"Times New Roman",serif;margin:0cm;margin-bottom:.0001pt;text-align: left;'><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>If you&rsquo;d like to connect with us or see what&rsquo;s new you can do so by following us</span><a href="https://twitter.com/AgapeOpenSci"><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;text-decoration:none;'>&nbsp;on&nbsp;</span><span style='font-size:15px;font-family:"Arial",sans-serif;color:#1155CC;text-decoration:none;'>@AgapeOpenSci</span></a><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>&nbsp;on Twitter,</span><a href="https://www.instagram.com/Agape.Open.Science"><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;text-decoration:none;'>&nbsp;@Agape.Open.Science</span></a><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>&nbsp;on Instagram,&nbsp;</span><a href="https://facebook.com/AgapeOpen-Science"><span style='font-size:15px;font-family:"Arial",sans-serif;color:#1155CC;text-decoration:none;'>@AgapeOpenSci</span></a><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>&nbsp;on Facebook, or&nbsp;</span><a href="https://www.linkedin.com/company/agape-open-science/"><span style='font-size:15px;font-family:"Arial",sans-serif;color:#1155CC;text-decoration:none;'>Agape Open Science</span></a><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>&nbsp;on LinkedIn. Or you can send us an email at&nbsp;</span><a href="mailto:agape.open.science@gmail.com"><span style='font-size:15px;font-family:"Arial",sans-serif;color:#1155CC;text-decoration:none;'>agape.open.science@gmail.com</span></a><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;'>.&nbsp;</span></p>
+<p style='margin-right:0cm;margin-left:0cm;font-size:16px;font-family:"Times New Roman",serif;margin:0cm;margin-bottom:.0001pt;'>&nbsp;</p>
+<p style='margin-right:0cm;margin-left:0cm;font-size:16px;font-family:"Times New Roman",serif;margin:0cm;margin-bottom:.0001pt;'><span style='font-size:15px;font-family:"Arial",sans-serif;color:black;text-align: left;'>We would also love you to share your opinions, concerns, or feedback about a specific chapter or the course as a whole. There are two ways to do this. You can either fill in the survey or allow the Disqus widget that you can find at the end of each chapter to access the forum.&nbsp;</span></p>
+
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://agape-openscience.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": true,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"],
+"instagram": true
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/sa1987/OpenDoorProject/edit/master/%s",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": false,
+"toc": {
+"collapse": "subsection",
+"scroll_highlight": true,
+"toc_depth": 4,
+"css": "toc.css"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

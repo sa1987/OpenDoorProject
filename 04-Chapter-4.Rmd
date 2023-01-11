@@ -44,6 +44,8 @@ After discussing the positive and [negative aspects](https://www.pygaze.org/2016
 Finally, hearing about all the best practices in open science can be intimidating. We think it is very important to point out that, while all these practices are important, we believe that it is best to figure out what is possible and appropriate for your work in particular and start implementing these practices bit by bit.
 :::
 
+![](images/slide2.png)
+
 ::: activitybox
 ::: center
 **Activities**
