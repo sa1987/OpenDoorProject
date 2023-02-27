@@ -60,7 +60,7 @@ We live in an era where data-driven innovation is transforming society, and the 
 
 
 ```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+knitr::include_graphics("images/slide02.png")
 ```
 
 </div>
