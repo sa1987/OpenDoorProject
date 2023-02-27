@@ -6,28 +6,6 @@ You have unlimited attempts to successfully complete the final quiz but only fiv
 :::
 
 
-<div>
-
-
-```{r, echo=FALSE, out.width="95%", fig.cap="Infographics(90%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
-```
-
-</div>
-
-
-<div>
-
-
-```{r, echo=FALSE, out.width="100%", fig.cap="Infographics(100%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
-```
-
-</div>
-
-
-
-
 <iframe src="https://sa1987.github.io/AgapeQuiz/?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuvtrZKCvPEQdbyXgVIyElS7tfNoz999fhu0ZXbfn9ebNgAg/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->

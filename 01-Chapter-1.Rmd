@@ -97,13 +97,11 @@ A second steppingstone in the history of the open science movement was the adven
 <div>
 
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Infographics(50%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide01.png")
 ```
 
 </div>
-
-
 
 ## Test your understanding
 

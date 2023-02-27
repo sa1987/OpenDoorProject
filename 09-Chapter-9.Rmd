@@ -91,13 +91,11 @@ When moving forward with your open science journey, the message here is -- don't
 <div>
 
 
-```{r, echo=FALSE, out.width="95%", fig.cap="Infographics(95%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide9.png")
 ```
 
 </div>
-
-
 
 ## Test your understanding
 

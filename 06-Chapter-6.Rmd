@@ -248,8 +248,8 @@ A data licence is a legal arrangement between the creator of the data and the en
 <div>
 
 
-```{r, echo=FALSE, out.width="75%", fig.cap="Infographics(75)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide6.png")
 ```
 
 </div>

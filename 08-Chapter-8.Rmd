@@ -135,8 +135,8 @@ Legislation relevant to research on animals varies greatly between countries, ev
 <div>
 
 
-```{r, echo=FALSE, out.width="90%", fig.cap="Infographics(90%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide8.png")
 ```
 
 </div>

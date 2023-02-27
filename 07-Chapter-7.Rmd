@@ -69,8 +69,8 @@ Due to the high energy consumption of data centres, there is a current trend to 
 <div>
 
 
-```{r, echo=FALSE, out.width="80%", fig.cap="Infographics(80%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide7.png")
 ```
 
 </div>

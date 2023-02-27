@@ -47,8 +47,8 @@ Finally, hearing about all the best practices in open science can be intimidatin
 <div>
 
 
-```{r, echo=FALSE, out.width="65%", fig.cap="Infographics(65%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide4.png")
 ```
 
 </div>

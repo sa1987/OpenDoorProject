@@ -139,8 +139,8 @@ In today's data-driven world, the term science is closely linked with scientific
 <div>
 
 
-```{r, echo=FALSE, out.width="60%", fig.cap="Infographics(60%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide3.png")
 ```
 
 </div>

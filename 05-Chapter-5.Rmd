@@ -126,8 +126,8 @@ To make data open is not enough. It must also be FAIR.
 <div>
 
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Infographics(70%)", fig.align = 'center'}
-knitr::include_graphics("images/slide2.png")
+```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
+knitr::include_graphics("images/slide5.png")
 ```
 
 </div>
