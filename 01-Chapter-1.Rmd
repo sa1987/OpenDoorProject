@@ -1,9 +1,5 @@
 # Open science
 
-<!--  test infographics position -->
-
-![](images/slide1.png){width="472"}
-
 ::: mainfontFormat
 Let's start at the beginning.
 
@@ -97,6 +93,17 @@ A second steppingstone in the history of the open science movement was the adven
 >
 > -- <cite>Audrey Azoulay, Director-General of UNESCO, 2021</cite>
 :::
+
+<div>
+
+
+```{r, echo=FALSE, out.width="50%", fig.cap="Infographics(50%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
+
+
 
 ## Test your understanding
 

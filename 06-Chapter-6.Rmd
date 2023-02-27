@@ -245,7 +245,14 @@ And there is a lot more if you still want to browse for other repositories, such
 A data licence is a legal arrangement between the creator of the data and the end-user/the place for data depositing, which specifies what users can do with the data. The most commonly used data licences are the suite of [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) (CC) copyright licences, which concern reusability of the data and are irrevocable. Another widely known licence is [Copyright](https://en.wikipedia.org/wiki/Copyright). You can learn more about licences in the chapter "Open science policy, scientific integrity and ethics".
 :::
 
-![](images/slide2.png){width="516"}
+<div>
+
+
+```{r, echo=FALSE, out.width="75%", fig.cap="Infographics(75)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
 
 ## Test your understanding
 

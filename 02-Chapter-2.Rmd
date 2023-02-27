@@ -1,7 +1,5 @@
 # Open data and open access
 
-![](images/slide2.png)
-
 ::: mainfontFormat
 Now, let's have a look at open data and open access. What exactly is it?
 :::
@@ -57,6 +55,16 @@ The number of funding agencies and research institutions adopting open science p
 
 We live in an era where data-driven innovation is transforming society, and the need for open science is unanimously recognised in the scientific research community. Governments, funding agencies and institutions recognise the benefits of open science and open research and are steadily developing strategies, policies and guidelines as groundwork for its existence. Since the original OECD Recommendation was adopted in 2006, many of these policies have been implemented at national and institutional levels and have contributed to significant advancement in this area and open science and open data have become mainstream. At least 58 countries have adopted dedicated national strategies and policies for open data and publications ([EC/OECD, 2018](https://stip.oecd.org/stip.html)). This has had a significant impact in areas such as the reproducibility of scientific results, diffusion of knowledge across society, cross-disciplinary co-operation, resource efficiency, productivity and scientific advancement. An updated OECD Recommendation on research data published in January 2021 ([OECD, 2021](https://www.oecd.org/sti/recommendation-access-to-research-data-from-public-funding.htm#:~:text=On%2020%20January%202021%2C%20the,shown%20in%20the%20figure%20below.)) emphasises the relevance and importance of several key principles set out in 2006. These are openness, flexibility, transparency, legal conformity, protection of intellectual property, formal responsibility, professionalism, interoperability, quality, security, efficiency, accountability, and sustainability. It also expands the scope to cover not only research data but also related metadata, bespoke algorithms, workflows, models and software that are essential for their interpretation.
 :::
+
+<div>
+
+
+```{r, echo=FALSE, out.width="55%", fig.cap="Infographics(55%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
+
 
 ## Test your understanding
 

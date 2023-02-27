@@ -14,7 +14,7 @@
 
 <br />
 
-![](images/agapecover.png)
+![](images/agapecover.png){width="520"}
 
 <h4 align="center">
 
@@ -118,7 +118,7 @@ The **bookdown** book: <https://bookdown.org/yihui/bookdown/>
 
 The **bookdown** package reference site: <https://pkgs.rstudio.com/bookdown>
 
-Quiz templates available in the [repo](https://gitlab.com/open-science-course-2022/open-science-course-2022.gitlab.io/-/blob/main/public/quiz.html)
+Quiz templates and customization guide is available in the quiz [repo](https://github.com/sa1987/AgapeQuiz)
 
 ### Built With
 

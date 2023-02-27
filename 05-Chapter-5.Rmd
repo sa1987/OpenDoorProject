@@ -123,7 +123,14 @@ It is your responsibility as a researcher along with all other individuals invol
 To make data open is not enough. It must also be FAIR.
 :::
 
-![](images/slide2.png){width="366"}
+<div>
+
+
+```{r, echo=FALSE, out.width="70%", fig.cap="Infographics(70%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
 
 ## Test your understanding
 

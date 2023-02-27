@@ -66,6 +66,15 @@ Every dataset that is deposited and made accessible through a data centre will h
 Due to the high energy consumption of data centres, there is a current trend to [shift to renewable sources of energy](https://bitpower.ie/images/Reports/2021_H1_Report.pdf). Renewable energy sourcing is standard, most data operators pay a premium to their suppliers for a 100% supply of certified renewable energy. Direct partnerships with renewable energy plants are becoming more popular globally. This demand for renewable energy will give the renewable industry much-needed investment, certainty and it may even minimise the need for REFIT (renewable energy feed in tariff) programmes for renewable energy.
 :::
 
+<div>
+
+
+```{r, echo=FALSE, out.width="80%", fig.cap="Infographics(80%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
+
 ## Test your understanding
 
 <iframe src="https://sa1987.github.io/AgapeOSQuizChapter-7?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">

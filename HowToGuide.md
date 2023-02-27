@@ -368,8 +368,8 @@ URL.If you liked the template, please give a star :laughing:. *We would
 highly appreciate if you also mention the agape repo as a
 reference/source material!*
 
-The configuration details of the quiz and certificate generator will be
-published separately.
+The configuration details of the quiz and certificate generator is
+[published](https://github.com/sa1987/AgapeQuiz) separately.
 
 ### Authors
 

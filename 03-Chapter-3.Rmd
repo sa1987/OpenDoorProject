@@ -2,8 +2,6 @@
 
 ## Open-source
 
-![](images/slide2.png){width="500"}
-
 ::: mainfontFormat
 It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the [Open Source Initiative](https://opensource.org/osd). Similarly, [Open Source Hardware Association](https://www.oshwa.org/definition/) defines open-source hardware as "hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design."
 
@@ -137,6 +135,15 @@ Modelling is a promising development that serves multiple professions. For decad
 
 In today's data-driven world, the term science is closely linked with scientific programming. Problems that have baffled scientists for decades are addressed in a matter of seconds by leverage the power of large computers. The rise in efficiency and speed has completely transformed most sectors of modern science. Without question, scientific programming is our way forward. To be part of this movement, you can share your code with others and always appropriately cite the open source you use.
 :::
+
+<div>
+
+
+```{r, echo=FALSE, out.width="60%", fig.cap="Infographics(60%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
 
 ## Test your understanding
 

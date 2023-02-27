@@ -44,7 +44,14 @@ After discussing the positive and [negative aspects](https://www.pygaze.org/2016
 Finally, hearing about all the best practices in open science can be intimidating. We think it is very important to point out that, while all these practices are important, we believe that it is best to figure out what is possible and appropriate for your work in particular and start implementing these practices bit by bit.
 :::
 
-![](images/slide2.png)
+<div>
+
+
+```{r, echo=FALSE, out.width="65%", fig.cap="Infographics(65%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
 
 ::: activitybox
 ::: center

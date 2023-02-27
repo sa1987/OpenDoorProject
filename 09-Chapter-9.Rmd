@@ -88,6 +88,17 @@ Before we close out the chapter, one concept you should be aware of when going d
 When moving forward with your open science journey, the message here is -- don't be a bro! If you want to read more into the topic, check out [Pownall, Talbot and Henschel's 2021](https://journals.sagepub.com/doi/full/10.1177/03616843211029255) paper or for a more comprehensive overview of the events that led to the formation of the term, take a look at [Craig Harper's post](https://craigharper.substack.com/p/bropen-science?s=r).
 :::
 
+<div>
+
+
+```{r, echo=FALSE, out.width="95%", fig.cap="Infographics(95%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
+
+
+
 ## Test your understanding
 
 <iframe src="https://sa1987.github.io/AgapeOSQuizChapter-9?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">

@@ -132,6 +132,15 @@ Generally accepted guidelines ([Russell & Burch, 1959](http://117.239.25.194:700
 Legislation relevant to research on animals varies greatly between countries, even within the EU. Analogous to research with human participants, an independent committee oversees research with animals. Committees will have different names in different countries.
 :::
 
+<div>
+
+
+```{r, echo=FALSE, out.width="90%", fig.cap="Infographics(90%)", fig.align = 'center'}
+knitr::include_graphics("images/slide2.png")
+```
+
+</div>
+
 ## Test your understanding
 
 <iframe src="https://sa1987.github.io/AgapeOSQuizChapter-8?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 3px solid #3fb5bd;">
