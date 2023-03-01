@@ -63,11 +63,10 @@ Thank you for taking this survey. Please click the link below to take the survey
 :::
 
 ::: mainfontFormat
-**Beta testing support**
+**Bug Report/Feature request**
 
-This is the beta version, and we are still working on the course before we officially launch it early next year. The course is fully functional in its current form, but there might be an odd glitch, as with anything starting out. Therefore we will be grateful if participants will report any bugs or desired features using the following form : [Bug Report/Feature request form](https://forms.gle/oBLgoyT6G7FvN9uR8)
+If you come across any glitches or bugs, or would like to see a different topic or feature in our MOOC, please open an issue in [github](https://github.com/agape-openscience/AgapeOpenscienceMOOC/issues) or [Bug Report/Feature request form](https://forms.gle/oBLgoyT6G7FvN9uR8)
 
-~*If you had difficulty with accessing the forms using the link provided in the invitation mail, please check the links provided in the course or reach out to the agape team for additional support.*~
 :::
 
 ## Contacts {.unnumbered}
@@ -121,7 +120,7 @@ Tendai Mukande : content creator\
 Una Ruddock : proofreading and editing balladeer\
 <https://orcid.org/0000-0001-9118-4121>
 
-Wei Qi Koh  : Info graphics wizard\
+Wei Qi Koh : Info graphics wizard\
 <https://orcid.org/0000-0001-8196-1628>
 
 Yao Zhang : content creator, social media wizard\
