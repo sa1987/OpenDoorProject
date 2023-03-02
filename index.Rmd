@@ -10,7 +10,7 @@ biblio-style: apalike
 # cover-image: path to the social sharing image like images/cover.jpg
 description: This is an introductory course to open science.
 link-citations: yes
-github-repo: sa1987/OpenDoorProject
+github-repo: orgs/agape-openscience/repositories/AgapeOpenscienceMOOC
 always_allow_html: yes
 ---
 
