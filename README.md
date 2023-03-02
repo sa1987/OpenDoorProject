@@ -122,7 +122,7 @@ Quiz templates and customization guide is available in the quiz [repo](https://g
 
 #### How to cite this material
 
-Agape Initiative. (2023). Agape Open Science MOOC. Zenodo. <https://doi.org/10.5281/zenodo.7691628>
+Agape Initiative. (2023). Agape Open Science MOOC. OSF. [https://doi.org/10.17605/OSF.IO/DTB7V](10.17605/OSF.IO/DTB7V)
 
 #### Built With
 

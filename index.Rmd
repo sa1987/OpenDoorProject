@@ -66,7 +66,6 @@ Thank you for taking this survey. Please click the link below to take the survey
 **Bug Report/Feature request**
 
 If you come across any glitches or bugs, or would like to see a different topic or feature in our MOOC, please open an issue in [github](https://github.com/agape-openscience/AgapeOpenscienceMOOC/issues) or [Bug Report/Feature request form](https://forms.gle/oBLgoyT6G7FvN9uR8)
-
 :::
 
 ## Contacts {.unnumbered}
@@ -128,6 +127,12 @@ Yao Zhang : content creator, social media wizard\
 
 And a big thanks to our muse Dr Denise McGrath.
 :::
+
+------------------------------------------------------------------------
+
+#### How to cite this material{.unnumbered}
+
+Agape Initiative. (2023). Agape Open Science MOOC. OSF. <https://doi.org/10.17605/OSF.IO/DTB7V>
 
 ------------------------------------------------------------------------
 
