@@ -120,7 +120,11 @@ The **bookdown** package reference site: <https://pkgs.rstudio.com/bookdown>
 
 Quiz templates and customization guide is available in the quiz [repo](https://github.com/sa1987/AgapeQuiz)
 
-### Built With
+#### How to cite this material
+
+Agape Initiative. (2023). Agape Open Science MOOC. Zenodo. <https://doi.org/10.5281/zenodo.7691628>
+
+#### Built With
 
 Please see below the major frameworks/libraries used to bootstrap the Agape project
 
