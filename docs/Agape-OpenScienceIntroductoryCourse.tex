@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -68,7 +71,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={AGAPE: An introductory course to open science for early career researchers},
   pdfauthor={An Agape initiative},
@@ -409,6 +412,8 @@ In a recommend activities section like this one, we will recommend the activitie
 \item
   Explore a few databases, ideally those that are close to your area of research. You can also check some of those mentioned in this chapter. Look at some data and explore how these databases work.
 \item
+  If you are an Ireland based researcher, you can check out the list of Open Access Journals that are close to your area in the Irish Open Access Publishers (\href{https://www.ioap.ie/irish-oa-publishers}{IOAP}) website.
+\item
   Check your national and university policies and guidelines about open access publishing. It is possible that your university also has an agreement in place that allows its corresponding authors to publish an agreed number of open access articles without paying the processing charge. Can you find their list and identify those journals where you could publish your research? Discuss this possibility with your supervisor/PI.
 \item
   Share anything interesting that you learned or found in this chapter with others on our social media.
@@ -422,7 +427,7 @@ In a recommend activities section like this one, we will recommend the activitie
 
 It is no secret that the open science movement got its inspiration from the open-source culture movement. Open-source software refers to source code that anyone can inspect, modify and enhance because the licence under which it is released grants permission to do so. You can find a more detailed definition on the website of the \href{https://opensource.org/osd}{Open Source Initiative}. Similarly, \href{https://www.oshwa.org/definition/}{Open Source Hardware Association} defines open-source hardware as ``hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.''
 
-The main benefits and reasons for the adoption of open-source software and hardware (\href{https://www.researchgate.net/publication/228296692_Open_Standards_Open_Source_Adoption_in_the_Public_Sector_and_Their_Relationship_to_Microsoft's_Market_Dominance}{Casson and Ryan, 2006}) can be categorised as follows:
+The main benefits and reasons for the adoption of open-source software and hardware (\href{https://www.researchgate.net/publication/228296692_Open_Standards_Open_Source_Adoption_in_the_Public_Sector_and_Their_Relationship_to_Microsoft\textquotesingle{}s_Market_Dominance}{Casson and Ryan, 2006}) can be categorised as follows:
 
 \begin{itemize}
 \tightlist

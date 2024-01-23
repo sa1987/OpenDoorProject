@@ -58,7 +58,6 @@ We live in an era where data-driven innovation is transforming society, and the 
 
 <div>
 
-
 ```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
 knitr::include_graphics("images/slide02.png")
 ```
@@ -85,6 +84,8 @@ In a recommend activities section like this one, we will recommend the activitie
 -   If you're looking for a tool that enables you simple, free and legal open access to research articles try [Open Access Button](https://openaccessbutton.org/). Check it out!
 
 -   Explore a few databases, ideally those that are close to your area of research. You can also check some of those mentioned in this chapter. Look at some data and explore how these databases work.
+
+-   If you are an Ireland based researcher, you can check out the list of Open Access Journals that are close to your area in the Irish Open Access Publishers ([IOAP](https://www.ioap.ie/irish-oa-publishers)) website.
 
 -   Check your national and university policies and guidelines about open access publishing. It is possible that your university also has an agreement in place that allows its corresponding authors to publish an agreed number of open access articles without paying the processing charge. Can you find their list and identify those journals where you could publish your research? Discuss this possibility with your supervisor/PI.
 
